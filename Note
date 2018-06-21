@@ -1,0 +1,41 @@
+public static void main(String[] args) {
+MedianOfTwoSortedArray median = new MedianOfTwoSortedArray();
+
+int[] nums1 = genRandomArray(100, 100);
+int[] nums2 = genRandomArray(100, 100);
+System.out.println(median.findMedianBruteForce(nums1, nums2));
+
+nums1 = new int[] {2};
+nums2 = new int[] {1};
+System.out.println(median.findMedianBruteForce(nums1, nums2));
+}
+
+private static int[] genRandomArray(int size, int maxVal) {
+Random rand = new Random();
+int nums1Len = Math.abs(rand.nextInt() % size) + 1;
+int[] nums = new int[nums1Len];
+for (int i = 0; i < nums1Len; i++) {
+nums[i] = Math.abs(rand.nextInt() % maxVal) + 1;
+}
+Arrays.sort(nums);
+return nums;
+}
+
+public double findMedianBruteForce(int[] nums1, int[] nums2) { 
+int aLen = nums1.length;
+int bLen = nums2.length;
+int[] c = new int[aLen + bLen];
+System.arraycopy(nums1, 0, c, 0, aLen);
+System.arraycopy(nums2, 0, c, aLen, bLen);
+
+Arrays.sort(c);
+
+double median = 0;
+if (c.length % 2 == 0) {
+median = (double)(c[c.length / 2] + c[c.length / 2 - 1]) / 2;
+}
+else {
+median = c[c.length / 2];
+}
+return median;
+}
