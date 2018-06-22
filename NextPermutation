@@ -1,0 +1,55 @@
+public class NextPermutation {
+public static void main(String[] args) {
+NextPermutation nextPermutation = new NextPermutation();
+int[] nums = new int[] {5, 5, 3};
+nums = genRandomArray(10, 9);
+
+System.out.println(Arrays.toString(nums));
+nextPermutation.nextPermutation(nums);
+System.out.println(Arrays.toString(nums));
+}
+
+private static int[] genRandomArray(int size, int maxVal) {
+Random rand = new Random();
+int nums1Len = Math.abs(rand.nextInt() % size) + 1;
+int[] nums = new int[nums1Len];
+for (int i = 0; i < nums1Len; i++) {
+nums[i] = Math.abs(rand.nextInt() % maxVal) + 1;
+}
+Arrays.sort(nums);
+return nums;
+}
+
+public void nextPermutation(int[] nums) {
+int p = nums.length - 1;
+while (p > 0 && nums[p] <= nums[p - 1]) {
+p--;
+}
+if (p == 0) {
+reverse(nums, 0, nums.length - 1);
+return;
+}
+swap(nums, p, p - 1);
+
+int tempP = p;
+while (tempP < nums.length - 1 && nums[tempP] < nums[tempP + 1]) {
+swap(nums, tempP, tempP + 1);
+tempP++;
+}
+reverse(nums, p, nums.length - 1);
+}
+
+public void swap(int[] nums, int a, int b) {
+int temp = nums[a];
+nums[a] = nums[b];
+nums[b] = temp;
+}
+
+public void reverse(int[] nums, int lo, int hi) {
+while (lo < hi) {
+swap(nums, lo, hi);
+lo++;
+hi--;
+}
+}
+}
