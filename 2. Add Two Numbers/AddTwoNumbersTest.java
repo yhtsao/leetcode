@@ -21,7 +21,24 @@ public class AddTwoNumbersTest {
 
     @Test
     public void test02() {
-        int a = 34259, b = 465;
+        int b = 34259, a = 465;
+
+        ListNode aNode = initList(a);
+        System.out.println(aNode.toString());
+
+        ListNode bNode = initList(b);
+        System.out.println(bNode.toString());
+
+        AddTwoNumbers addTwoNumbers = new AddTwoNumbers();
+        ListNode result = addTwoNumbers.addTwoNumbers(aNode, bNode);
+        ListNode ans = initList(a + b);
+        Assertions.assertTrue(ans.equals(result));
+
+    }
+
+    @Test
+    public void test03() {
+        int b = 5, a = 5;
 
         ListNode aNode = initList(a);
         System.out.println(aNode.toString());
