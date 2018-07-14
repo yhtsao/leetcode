@@ -1,4 +1,29 @@
 public class LongestPalindromic {
+    private int maxLen = 1;
+    private int start = 0;
+
+    public String longestPalindromeCenter(String s) {
+        if (s == null || s.length() == 0) return "";
+
+        for (int i = 0; i < s.length() - 1; i++) {
+            expandFromCenter(s, i, i);
+            expandFromCenter(s, i, i + 1);
+        }
+        return s.substring(start, start + maxLen);
+    }
+
+    private void expandFromCenter(String s, int lo, int hi) {
+        while (lo >= 0 && hi < s.length()) {
+            if (s.charAt(lo) != s.charAt(hi)) break;
+            if (hi - lo + 1 > maxLen) {
+                maxLen = hi - lo + 1;
+                start = lo;
+            }
+            lo--;
+            hi++;
+        }
+    }
+
     /**
      * Dynamic programming solution
      *

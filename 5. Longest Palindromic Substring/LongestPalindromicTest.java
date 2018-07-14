@@ -16,6 +16,8 @@ public class LongestPalindromicTest {
         result = longestPalindromic.longestPalindromeDP(s);
         Assertions.assertEquals(ans, result);
 
+        result = longestPalindromic.longestPalindromeCenter(s);
+        Assertions.assertEquals(ans, result);
     }
 
     @Test
@@ -31,6 +33,8 @@ public class LongestPalindromicTest {
         result = longestPalindromic.longestPalindromeDP(s);
         Assertions.assertEquals(ans, result);
 
+        result = longestPalindromic.longestPalindromeCenter(s);
+        Assertions.assertEquals(ans, result);
     }
 
     @Test
@@ -44,6 +48,9 @@ public class LongestPalindromicTest {
         Assertions.assertEquals(ans, result);
 
         result = longestPalindromic.longestPalindromeDP(s);
+        Assertions.assertEquals(ans, result);
+
+        result = longestPalindromic.longestPalindromeCenter(s);
         Assertions.assertEquals(ans, result);
 
     }
@@ -60,6 +67,9 @@ public class LongestPalindromicTest {
 
         result = longestPalindromic.longestPalindromeDP(s);
         Assertions.assertEquals(ans, result);
+
+        result = longestPalindromic.longestPalindromeCenter(s);
+        Assertions.assertEquals(ans, result);
     }
 
     @Test
@@ -73,6 +83,9 @@ public class LongestPalindromicTest {
         Assertions.assertEquals(ans, result);
 
         result = longestPalindromic.longestPalindromeDP(s);
+        Assertions.assertEquals(ans, result);
+
+        result = longestPalindromic.longestPalindromeCenter(s);
         Assertions.assertEquals(ans, result);
     }
 
@@ -88,6 +101,9 @@ public class LongestPalindromicTest {
 
         result = longestPalindromic.longestPalindromeDP(s);
         Assertions.assertEquals(ans, result);
+
+        result = longestPalindromic.longestPalindromeCenter(s);
+        Assertions.assertEquals(ans, result);
     }
 
     @Test
@@ -102,6 +118,9 @@ public class LongestPalindromicTest {
 
         result = longestPalindromic.longestPalindromeDP(s);
         Assertions.assertEquals(ans, result);
+
+        result = longestPalindromic.longestPalindromeCenter(s);
+        Assertions.assertEquals(ans, result);
     }
 
     @Test
@@ -115,6 +134,9 @@ public class LongestPalindromicTest {
         Assertions.assertEquals(ans, result);
 
         result = longestPalindromic.longestPalindromeDP(s);
+        Assertions.assertEquals(ans, result);
+
+        result = longestPalindromic.longestPalindromeCenter(s);
         Assertions.assertEquals(ans, result);
     }
 }
