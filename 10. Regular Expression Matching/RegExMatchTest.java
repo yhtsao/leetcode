@@ -77,4 +77,20 @@ public class RegExMatchTest {
         RegExMatch regExMatch = new RegExMatch();
         Assertions.assertTrue(regExMatch.isMatch(s, p));
     }
+
+    @Test
+    public void test09() {
+        String s = "aaa";
+        String p = "ab*a";
+        RegExMatch regExMatch = new RegExMatch();
+        Assertions.assertFalse(regExMatch.isMatch(s, p));
+    }
+
+    @Test
+    public void test10() {
+        String s = "aaa";
+        String p = "ab*a*a";
+        RegExMatch regExMatch = new RegExMatch();
+        Assertions.assertTrue(regExMatch.isMatch(s, p));
+    }
 }
