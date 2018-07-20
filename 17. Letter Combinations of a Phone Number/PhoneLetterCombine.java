@@ -16,8 +16,12 @@ public class PhoneLetterCombine {
     }
 
     public List<String> letterCombinations(String digits) {
-        if (digits == null || digits.length() == 0) return new ArrayList<>();
-        return getCombinations(digits, 0);
+        List<String> result = new ArrayList<>();
+        if (digits == null || digits.length() == 0) return result;
+
+        getCombinationsDFS(digits, 0, "", result);
+        //return getCombinations(digits, 0);
+        return getCombinationBFS(digits);
     }
 
     public List<String> getCombinations(String digits, int i) {
@@ -29,7 +33,6 @@ public class PhoneLetterCombine {
             }
             return result;
         }
-
         List<String> tempResult = getCombinations(digits, i + 1);
         for (int j = 0; j < letters.length(); j++) {
             for (String temp : tempResult) {
@@ -38,4 +41,35 @@ public class PhoneLetterCombine {
         }
         return result;
     }
+
+    public void getCombinationsDFS(String digits, int i, String comb, List<String> result) {
+        if (i == digits.length()) {
+            result.add(comb);
+            return;
+        }
+
+        String letters = letterMap.get(digits.charAt(i));
+        for (int j = 0; j < letters.length(); j++) {
+            char c = letters.charAt(j);
+            getCombinationsDFS(digits, i + 1, comb + c, result);
+        }
+    }
+
+    public List<String> getCombinationBFS(String digits) {
+        List<String> result = new LinkedList<>();
+        result.add("");
+
+        for (int i = 0; i < digits.length(); i++) {
+            String letters = letterMap.get(digits.charAt(i));
+            while (result.get(0).length() == i) {
+                String comp = result.get(0);
+                result.remove(0);
+                for (int j = 0; j < letters.length(); j++) {
+                    result.add(comp + letters.charAt(j));
+                }
+            }
+        }
+        return result;
+    }
+
 }
