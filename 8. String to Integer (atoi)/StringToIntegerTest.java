@@ -56,7 +56,7 @@ public class StringToIntegerTest {
     public void test08() {
         String s = "++1";
         StringToInteger stringToInteger = new StringToInteger();
-        Assertions.assertEquals(1, stringToInteger.myAtoi(s));
+        Assertions.assertEquals(0, stringToInteger.myAtoi(s));
     }
 
     @Test
