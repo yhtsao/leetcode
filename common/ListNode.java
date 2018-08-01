@@ -17,7 +17,7 @@ public class ListNode {
             nextNode = nextNode.next;
         }
 
-        return sb.toString();
+        return sb.substring(0, sb.length() - 2);
     }
 
     public boolean equals(ListNode listNode) {
@@ -28,8 +28,17 @@ public class ListNode {
             listNode = listNode.next;
         }
 
-        if (current == null && listNode == null)
-            return true;
-        return false;
+        return current == null && listNode == null;
+    }
+
+    public static ListNode initList(int[] arr) {
+        if (arr == null || arr.length == 0) return null;
+        ListNode head = new ListNode(arr[0]);
+        ListNode curr = head;
+        for (int i = 1; i < arr.length; i++) {
+            curr.next = new ListNode(arr[i]);
+            curr = curr.next;
+        }
+        return head;
     }
 }
