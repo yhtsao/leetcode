@@ -8,13 +8,10 @@ public class ListNode {
 
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append(val).append(" -> ");
-        ListNode nextNode = this.next;
-        while (nextNode != null) {
-            sb.append(nextNode.val);
-            if (nextNode.next != null)
-                sb.append(" -> ");
-            nextNode = nextNode.next;
+        ListNode curr = this;
+        while (curr != null) {
+            sb.append(curr.val).append("->");
+            curr = curr.next;
         }
 
         return sb.substring(0, sb.length() - 2);
