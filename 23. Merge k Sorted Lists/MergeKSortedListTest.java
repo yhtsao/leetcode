@@ -54,6 +54,31 @@ public class MergeKSortedListTest {
         Assertions.assertTrue(ans.equals(result));
     }
 
+    @Test
+    public void test05() {
+        int[][] arr = new int[][]{
+                {},
+                {-1, 5, 11},
+                {},
+                {6, 10}
+        };
+        ListNode[] lists = initListNodes(arr);
+        ListNode ans = ListNode.initList(new int[]{-1, 5, 6, 10, 11});
+        ListNode result = mergeKSortedList.mergeKLists(lists);
+        Assertions.assertTrue(ans.equals(result));
+    }
+
+    @Test
+    public void test06() {
+        int[][] arr = new int[][]{
+                {},
+                {}
+        };
+        ListNode[] lists = initListNodes(arr);
+        ListNode result = mergeKSortedList.mergeKLists(lists);
+        Assertions.assertNull(result);
+    }
+
     private ListNode[] initListNodes(int[][] arr) {
         ListNode[] lists = new ListNode[arr.length];
         for (int i = 0; i < arr.length; i++) {
