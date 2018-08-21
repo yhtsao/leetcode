@@ -13,4 +13,13 @@ public class BinaryTreeInorderTest {
         List<Integer> result = binaryTreeInorder.inorderTraversal(root);
         System.out.println(result.toString());
     }
+
+    @Test
+    public void test02() {
+        Integer[] nodes = new Integer[]{0, 1, 2, 3, null, 4, 5, null, 6};
+        TreeNode root = TreeNode.initTree(nodes);
+        System.out.println(root.val);
+        List<Integer> result = binaryTreeInorder.inorderTraversal(null);
+        System.out.println(result.toString());
+    }
 }
