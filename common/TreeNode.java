@@ -30,4 +30,22 @@ public class TreeNode {
         }
         return root;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("val = ").append(val)
+                .append(", left = ");
+        if (left == null)
+            sb.append("null");
+        else
+            sb.append(left.val);
+        sb.append(", right = ");
+        if (right == null)
+            sb.append("null");
+        else
+            sb.append(right.val);
+
+        return sb.toString();
+    }
 }
