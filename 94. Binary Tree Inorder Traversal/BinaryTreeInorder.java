@@ -6,7 +6,6 @@ public class BinaryTreeInorder {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         //recursion(root, result);
-
         result = stack(root);
         return result;
     }
