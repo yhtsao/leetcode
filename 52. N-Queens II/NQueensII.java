@@ -1,30 +1,29 @@
 public class NQueensII {
+    int numOfSol = 0;
+
     public int totalNQueens(int n) {
-        return backtracking(0, n, 0, new int[n]);
-    }
-
-    private int backtracking(Integer numOfSol, int n, int row, int[] used) {
-        if (row == n) {
-            numOfSol++;
-            return numOfSol;
-        }
-
-        for (int col = 0; col < n; col++) {
-            if (!isValid(used, row, col)) continue;
-            used[row] = col;
-            numOfSol = backtracking(numOfSol, n, row + 1, used);
-        }
+        backtracking(n, 0, new boolean[n], new boolean[2 * n - 1], new boolean[2 * n - 1]);
         return numOfSol;
     }
 
-    private boolean isValid(int[] used, int row, int col) {
-        for (int i = 0; i < row; i++) {
-            if (used[i] == col) return false;
+    private void backtracking(int n, int row, boolean[] usedCol, boolean[] leftDiag,
+                              boolean[] rightDiag) {
+        if (row == n) {
+            numOfSol++;
+            return;
         }
-        for (int i = 1; i <= row; i++) {
-            if (used[row - i] == col - i) return false;
-            if (used[row - i] == col + i) return false;
+
+        for (int col = 0; col < n; col++) {
+            if (usedCol[col] | leftDiag[row - col + n - 1] | rightDiag[row + col]) continue;
+            usedCol[col] = true;
+            leftDiag[row - col + n - 1] = true;
+            rightDiag[row + col] = true;
+
+            backtracking(n, row + 1, usedCol, leftDiag, rightDiag);
+
+            usedCol[col] = false;
+            leftDiag[row - col + n - 1] = false;
+            rightDiag[row + col] = false;
         }
-        return true;
     }
 }
