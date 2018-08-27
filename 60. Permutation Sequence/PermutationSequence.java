@@ -3,20 +3,29 @@ import java.util.List;
 
 public class PermutationSequence {
     public String getPermutation(int n, int k) {
-        List<Integer> list = new ArrayList<>();
-        backtracking(n, k, list);
+        // initial number array [1, 2, ..., n]
+        List<Integer> nums = new ArrayList<>();
+        for (int i = 1; i <= n; i++)
+            nums.add(i);
+
         StringBuilder sb = new StringBuilder();
-        for (Integer num : list)
-            sb.append(num);
+        for (int i = n - 1; i >= 0; i--) {
+            int remain = factorial(i);
+            int count = (k - 1) / remain;
+            k -= count * remain;
+
+            sb.append(nums.get(count));
+            nums.remove(count);
+        }
+
         return sb.toString();
     }
 
     private void backtracking(int n, int k, List<Integer> list) {
-        if (list.size() == n) return;
-
         int count = 1;
         int remain = factorial(n - list.size() - 1);
         for (int i = 1; i <= n; i++) {
+            if (list.size() == n) break;
             if (list.contains(i)) continue;
             if (remain * count < k) {
                 count++;
@@ -25,7 +34,6 @@ public class PermutationSequence {
             k = k - remain * (count - 1);
             list.add(i);
             backtracking(n, k, list);
-            if (list.size() == n) break;
         }
     }
 
