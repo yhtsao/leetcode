@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/128. Longest Consecutive Sequence/first/LongestConsecutiveSeq.java" afterPath="$PROJECT_DIR$/128. Longest Consecutive Sequence/first/LongestConsecutiveSeq.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/128. Longest Consecutive Sequence/first/LongestConsecutiveSeqTest.java" afterPath="$PROJECT_DIR$/128. Longest Consecutive Sequence/first/LongestConsecutiveSeqTest.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -51,7 +49,7 @@
             <entry file="file://$PROJECT_DIR$/128. Longest Consecutive Sequence/first/LongestConsecutiveSeqTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="456">
-                  <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+                  <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -560,14 +558,7 @@
       <workItem from="1534953066841" duration="14000" />
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
-      <workItem from="1537364198098" duration="8247000" />
-    </task>
-    <task id="LOCAL-00031" summary="Update Jump Game II">
-      <created>1530353806745</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1530353806745</updated>
+      <workItem from="1537364198098" duration="8285000" />
     </task>
     <task id="LOCAL-00032" summary="Update Magic Squares in Grid">
       <created>1530360748613</created>
@@ -905,7 +896,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537504507432</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Add Longest Consecutive Sequence">
+      <created>1537510108325</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1537510108325</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -941,7 +939,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220581000" />
+    <option name="totallyTimeSpent" value="220619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1041,7 +1039,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Update Divide Two Integers" />
     <MESSAGE value="Update Roman to integer" />
     <MESSAGE value="Update Longest Common Prefix" />
     <MESSAGE value="Change ListNode to common folder" />
@@ -1066,7 +1063,8 @@
     <MESSAGE value="Add Combinnations" />
     <MESSAGE value="Update project settings" />
     <MESSAGE value="Update common ListNode and TreeNode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update common ListNode and TreeNode" />
+    <MESSAGE value="Add Longest Consecutive Sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Longest Consecutive Sequence" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1649,7 +1647,7 @@
     <entry file="file://$PROJECT_DIR$/128. Longest Consecutive Sequence/first/LongestConsecutiveSeqTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
