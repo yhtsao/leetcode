@@ -69,6 +69,7 @@
       <sourceFolder url="file://$MODULE_DIR$/common" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/First" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
