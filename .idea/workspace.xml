@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblem.java" afterPath="$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblem.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -28,14 +26,24 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5343348">
+    <splitter split-orientation="horizontal" split-proportion="0.5858369">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SkylineProblem.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="GroupAnagrams.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/49. Group Anagrams/first/GroupAnagrams.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SkylineProblem.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblem.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1562">
-                  <caret line="100" column="48" lean-forward="false" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+                <state relative-caret-position="19">
+                  <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
@@ -45,11 +53,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SkylineProblemTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblemTest.java">
+          <file leaf-file-name="GroupAnagramsTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/49. Group Anagrams/first/GroupAnagramsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="608">
-                  <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+                <state relative-caret-position="418">
+                  <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -91,10 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/86. Partition List/README.md" />
-        <option value="$PROJECT_DIR$/2. Add Two Numbers/ListNode.java" />
-        <option value="$PROJECT_DIR$/21. Merge Two Sorted Lists/MergeTwoSortedListTest.java" />
-        <option value="$PROJECT_DIR$/19. Remove Nth Node From End of List/RemoveNthNodeFromEndTest.java" />
         <option value="$PROJECT_DIR$/2. Add Two Numbers/AddTwoNumbersTest.java" />
         <option value="$PROJECT_DIR$/common/ListNode.java" />
         <option value="$PROJECT_DIR$/86. Partition List/PartitionListTest.java" />
@@ -142,6 +146,10 @@
         <option value="$PROJECT_DIR$/88. Merge Sorted Array/first/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblemTest.java" />
         <option value="$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblem.java" />
+        <option value="$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarrayTest.java" />
+        <option value="$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarray.java" />
+        <option value="$PROJECT_DIR$/49. Group Anagrams/first/GroupAnagramsTest.java" />
+        <option value="$PROJECT_DIR$/49. Group Anagrams/first/GroupAnagrams.java" />
       </list>
     </option>
   </component>
@@ -225,6 +233,28 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="49. Group Anagrams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="49. Group Anagrams" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="218. The Skyline Problem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="218. The Skyline Problem" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,8 +341,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SkylineProblemTest">
-    <configuration name="SkylineProblemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GroupAnagramsTest">
+    <configuration name="GroupAnagramsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -323,7 +353,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SkylineProblemTest" />
+      <option name="MAIN_CLASS_NAME" value="first.GroupAnagramsTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -337,7 +367,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SkylineProblemTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupAnagramsTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -348,7 +378,32 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SkylineProblemTest" />
+      <option name="MAIN_CLASS_NAME" value="first.GroupAnagramsTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GroupAnagramsTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.GroupAnagramsTest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -362,7 +417,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SkylineProblemTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxSubarrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -373,9 +428,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SkylineProblemTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="first.MaxSubarrayTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -387,7 +442,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SkylineProblemTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxSubarrayTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -398,33 +453,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SkylineProblemTest" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SkylineProblemTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SkylineProblemTest" />
-      <option name="METHOD_NAME" value="test05" />
+      <option name="MAIN_CLASS_NAME" value="first.MaxSubarrayTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -505,19 +535,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test03" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test04" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test05" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MaxSubarrayTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MaxSubarrayTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GroupAnagramsTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GroupAnagramsTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.GroupAnagramsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test05" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test04" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test03" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SkylineProblemTest.test02" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GroupAnagramsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GroupAnagramsTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GroupAnagramsTest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MaxSubarrayTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MaxSubarrayTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -547,20 +577,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00036" summary="Update Add Two Numbers">
-      <created>1531153715187</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1531153715187</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Update Add Two Numbers">
-      <created>1531179869296</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1531179869296</updated>
     </task>
     <task id="LOCAL-00038" summary="Update Longest Substring Without Repeating Characters">
       <created>1531278852488</created>
@@ -891,43 +907,57 @@
       <option name="project" value="LOCAL" />
       <updated>1537596082034</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Update Skyline problem">
+      <created>1537603136142</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1537603136143</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Add Maximum Subarray">
+      <created>1537612643816</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1537612643816</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SkylineProblemTest - 2018.09.22 at 15h 57m 45s.xml">
-      <configuration name="SkylineProblemTest" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest - 2018.09.22 at 19h 29m 06s.xml">
+      <configuration name="GroupAnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test01 - 2018.09.22 at 15h 31m 16s.xml">
-      <configuration name="SkylineProblemTest.test01" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest - 2018.09.22 at 19h 30m 46s.xml">
+      <configuration name="GroupAnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test01 - 2018.09.22 at 15h 32m 12s.xml">
-      <configuration name="SkylineProblemTest.test01" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest - 2018.09.22 at 19h 33m 31s.xml">
+      <configuration name="GroupAnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test02 - 2018.09.22 at 15h 32m 25s.xml">
-      <configuration name="SkylineProblemTest.test02" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest - 2018.09.22 at 19h 35m 37s.xml">
+      <configuration name="GroupAnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test03 - 2018.09.22 at 15h 32m 29s.xml">
-      <configuration name="SkylineProblemTest.test03" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest - 2018.09.22 at 19h 37m 41s.xml">
+      <configuration name="GroupAnagramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test04 - 2018.09.22 at 15h 32m 33s.xml">
-      <configuration name="SkylineProblemTest.test04" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest_test01 - 2018.09.22 at 19h 21m 26s.xml">
+      <configuration name="GroupAnagramsTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test05 - 2018.09.22 at 15h 32m 38s.xml">
-      <configuration name="SkylineProblemTest.test05" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest_test01 - 2018.09.22 at 19h 30m 42s.xml">
+      <configuration name="GroupAnagramsTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test05 - 2018.09.22 at 15h 57m 06s.xml">
-      <configuration name="SkylineProblemTest.test05" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest_test01 - 2018.09.22 at 19h 32m 29s.xml">
+      <configuration name="GroupAnagramsTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test05 - 2018.09.22 at 15h 57m 20s.xml">
-      <configuration name="SkylineProblemTest.test05" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest_test01 - 2018.09.22 at 19h 33m 29s.xml">
+      <configuration name="GroupAnagramsTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkylineProblemTest_test05 - 2018.09.22 at 15h 57m 40s.xml">
-      <configuration name="SkylineProblemTest.test05" configurationId="JUnit" />
+    <history-entry file="GroupAnagramsTest_test02 - 2018.09.22 at 19h 21m 32s.xml">
+      <configuration name="GroupAnagramsTest.test02" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239724000" />
+    <option name="totallyTimeSpent" value="247488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1043,8 +1073,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Update Merge k sorted lists" />
-    <MESSAGE value="Update recursive solution for Merge k sorted lists" />
     <MESSAGE value="Update BF solution for StrStr function" />
     <MESSAGE value="Update Count and Say" />
     <MESSAGE value="Add insert and backtracking solutions for Permutations" />
@@ -1068,7 +1096,9 @@
     <MESSAGE value="Update project" />
     <MESSAGE value="Add Merge Sorted Array" />
     <MESSAGE value="Add Skyline problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Skyline problem" />
+    <MESSAGE value="Update Skyline problem" />
+    <MESSAGE value="Add Maximum Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Maximum Subarray" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1224,8 +1254,14 @@
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarray.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="136" />
+      <option name="time" value="141" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1265,37 +1301,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/19. Remove Nth Node From End of List/first/RemoveNthNodeFromEndTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Add Two Numbers/first/AddTwoNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/first/MergeTwoSortedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/86. Partition List/first/PartitionList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/86. Partition List/first/PartitionListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1652,10 +1657,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/218. The Skyline Problem/first/SkylineProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="100" column="48" lean-forward="false" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+        <state relative-caret-position="19">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/49. Group Anagrams/first/GroupAnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/49. Group Anagrams/first/GroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding />
         </state>
       </provider>
