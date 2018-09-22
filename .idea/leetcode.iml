@@ -70,6 +70,10 @@
       <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/First" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/49. Group Anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/50. Pow(x, n)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/53. Maximum Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/54. Spiral Matrix" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
