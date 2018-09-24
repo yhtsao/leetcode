@@ -74,6 +74,8 @@
       <sourceFolder url="file://$MODULE_DIR$/50. Pow(x, n)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/53. Maximum Subarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/54. Spiral Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/908. Smallest Range I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/910. Smallest Range II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
