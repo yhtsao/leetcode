@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Add Smallest Range I">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/45. Jump Game II/first/JumpGameII.java" afterPath="$PROJECT_DIR$/45. Jump Game II/first/JumpGameII.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -27,27 +27,18 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6001431">
+    <splitter split-orientation="horizontal" split-proportion="0.6416309">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SpiralMatrix.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrix.java">
+          <file leaf-file-name="JumpGameII.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/45. Jump Game II/first/JumpGameII.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+                <state relative-caret-position="482">
+                  <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
                   <folding>
-                    <element signature="imports" expanded="true" />
+                    <element signature="e#74#75#0" expanded="true" />
+                    <element signature="e#112#113#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SmallestRangeII.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/910. Smallest Range II/first/SmallestRangeII.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -56,26 +47,12 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SpiralMatrixTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrixTest.java">
+          <file leaf-file-name="JumpGameIITest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/45. Jump Game II/first/JumpGameIITest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SmallestRangeIITest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/910. Smallest Range II/first/SmallestRangeIITest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="988">
-                  <caret line="52" column="19" lean-forward="false" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="494">
+                  <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -116,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/38. Count and Say/CountAndSay.java" />
         <option value="$PROJECT_DIR$/46. Permutations/PermutationsTest.java" />
         <option value="$PROJECT_DIR$/46. Permutations/Permutations.java" />
         <option value="$PROJECT_DIR$/36. Valid Sudoku/ValidSudokuTest.java" />
@@ -161,12 +137,13 @@
         <option value="$PROJECT_DIR$/50. Pow(x, n)/first/pow.java" />
         <option value="$PROJECT_DIR$/50. Pow(x, n)/first/MyPowTest.java" />
         <option value="$PROJECT_DIR$/50. Pow(x, n)/first/MyPow.java" />
-        <option value="$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrixTest.java" />
-        <option value="$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/908. Smallest Range I/first/SmallestRangeITest.java" />
         <option value="$PROJECT_DIR$/908. Smallest Range I/first/SmallestRangeI.java" />
         <option value="$PROJECT_DIR$/910. Smallest Range II/first/SmallestRangeIITest.java" />
         <option value="$PROJECT_DIR$/910. Smallest Range II/first/SmallestRangeII.java" />
+        <option value="$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrixTest.java" />
+        <option value="$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrix.java" />
+        <option value="$PROJECT_DIR$/45. Jump Game II/first/JumpGameII.java" />
       </list>
     </option>
   </component>
@@ -254,23 +231,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="908. Smallest Range I" type="462c0819:PsiDirectoryNode" />
+              <item name="45. Jump Game II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="908. Smallest Range I" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="910. Smallest Range II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="910. Smallest Range II" type="462c0819:PsiDirectoryNode" />
+              <item name="45. Jump Game II" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -358,8 +324,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmallestRangeIITest">
-    <configuration name="SmallestRangeIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JumpGameIITest">
+    <configuration name="JumpGameIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -370,7 +336,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SmallestRangeIITest" />
+      <option name="MAIN_CLASS_NAME" value="first.JumpGameIITest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -384,7 +350,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SmallestRangeIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JumpGameIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -395,8 +361,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SmallestRangeIITest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="first.JumpGameIITest" />
+      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -409,7 +375,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SmallestRangeIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpiralMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -420,7 +386,32 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SmallestRangeIITest" />
+      <option name="MAIN_CLASS_NAME" value="first.SpiralMatrixTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SpiralMatrixTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.SpiralMatrixTest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -434,7 +425,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SmallestRangeIITest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpiralMatrixTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -445,32 +436,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SmallestRangeIITest" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SmallestRangeIITest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SmallestRangeIITest" />
+      <option name="MAIN_CLASS_NAME" value="first.SpiralMatrixTest" />
       <option name="METHOD_NAME" value="test05" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -552,19 +518,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test05" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test04" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SpiralMatrixTest.test05" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SpiralMatrixTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SpiralMatrixTest.test02" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.JumpGameIITest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.JumpGameIITest.test03" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test04" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test05" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SmallestRangeIITest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.JumpGameIITest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.JumpGameIITest.test03" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SpiralMatrixTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SpiralMatrixTest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SpiralMatrixTest.test05" />
       </list>
     </recent_temporary>
   </component>
@@ -594,20 +560,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00041" summary="Update DFS solution for Regular Expression Matching">
-      <created>1531641513484</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1531641513484</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Update DP solution for Regular Expression Matching">
-      <created>1531844770981</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1531844770981</updated>
     </task>
     <task id="LOCAL-00043" summary="Update Brute-Force solution for Letter Combination of a Phone Number">
       <created>1531930374918</created>
@@ -938,43 +890,57 @@
       <option name="project" value="LOCAL" />
       <updated>1537798251790</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Add Smallest Range II">
+      <created>1537802150147</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1537802150147</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Add Spiral Matrix">
+      <created>1537804886399</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1537804886399</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SmallestRangeIITest - 2018.09.24 at 22h 25m 32s.xml">
-      <configuration name="SmallestRangeIITest" configurationId="JUnit" />
+    <history-entry file="JumpGameIITest - 2018.09.25 at 12h 31m 07s.xml">
+      <configuration name="JumpGameIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest - 2018.09.24 at 22h 48m 19s.xml">
-      <configuration name="SmallestRangeIITest" configurationId="JUnit" />
+    <history-entry file="JumpGameIITest - 2018.09.25 at 12h 33m 42s.xml">
+      <configuration name="JumpGameIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest - 2018.09.24 at 22h 50m 40s.xml">
-      <configuration name="SmallestRangeIITest" configurationId="JUnit" />
+    <history-entry file="JumpGameIITest_test03 - 2018.09.25 at 12h 32m 55s.xml">
+      <configuration name="JumpGameIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test01 - 2018.09.24 at 22h 24m 26s.xml">
-      <configuration name="SmallestRangeIITest.test01" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest - 2018.09.24 at 23h 54m 36s.xml">
+      <configuration name="SpiralMatrixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test01 - 2018.09.24 at 22h 24m 55s.xml">
-      <configuration name="SmallestRangeIITest.test01" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest - 2018.09.24 at 23h 55m 57s.xml">
+      <configuration name="SpiralMatrixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test01 - 2018.09.24 at 22h 25m 29s.xml">
-      <configuration name="SmallestRangeIITest.test01" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest - 2018.09.24 at 23h 56m 20s.xml">
+      <configuration name="SpiralMatrixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test02 - 2018.09.24 at 22h 50m 29s.xml">
-      <configuration name="SmallestRangeIITest.test02" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest - 2018.09.24 at 23h 58m 33s.xml">
+      <configuration name="SpiralMatrixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test04 - 2018.09.24 at 22h 50m 34s.xml">
-      <configuration name="SmallestRangeIITest.test04" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest_test02 - 2018.09.24 at 23h 58m 11s.xml">
+      <configuration name="SpiralMatrixTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test05 - 2018.09.24 at 22h 28m 38s.xml">
-      <configuration name="SmallestRangeIITest.test05" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest_test02 - 2018.09.24 at 23h 58m 29s.xml">
+      <configuration name="SpiralMatrixTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestRangeIITest_test05 - 2018.09.24 at 22h 28m 53s.xml">
-      <configuration name="SmallestRangeIITest.test05" configurationId="JUnit" />
+    <history-entry file="SpiralMatrixTest_test05 - 2018.09.24 at 23h 54m 32s.xml">
+      <configuration name="SpiralMatrixTest.test05" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262405000" />
+    <option name="totallyTimeSpent" value="266180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -995,10 +961,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22298221" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19562243" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20600858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20600858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1090,8 +1056,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Valid Sudoku" />
-    <MESSAGE value="Add recursion solution for Binary Tree Inorder traversal" />
     <MESSAGE value="Add iterative solution for Binary Tree Inorder traversal" />
     <MESSAGE value="Add Invert Binary Tree" />
     <MESSAGE value="Add Permutation II" />
@@ -1115,7 +1079,9 @@
     <MESSAGE value="Add Group Anagrams" />
     <MESSAGE value="Add Pow(x, y)" />
     <MESSAGE value="Add Smallest Range I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Smallest Range I" />
+    <MESSAGE value="Add Smallest Range II" />
+    <MESSAGE value="Add Spiral Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Spiral Matrix" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1277,10 +1243,20 @@
           <properties />
           <option name="timeStamp" value="151" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/45. Jump Game II/first/JumpGameII.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="152" />
+      <option name="time" value="155" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="list.toString()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1318,21 +1294,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/226. Invert Binary Tree/first/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/226. Invert Binary Tree/first/InvertBinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/47. Permutations II/first/PermutationsII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -1700,26 +1661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/910. Smallest Range II/first/SmallestRangeIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
@@ -1733,8 +1674,47 @@
     <entry file="file://$PROJECT_DIR$/910. Smallest Range II/first/SmallestRangeII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/54. Spiral Matrix/first/SpiralMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45. Jump Game II/first/JumpGameIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45. Jump Game II/first/JumpGameII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
