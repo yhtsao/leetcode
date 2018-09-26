@@ -76,6 +76,8 @@
       <sourceFolder url="file://$MODULE_DIR$/54. Spiral Matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/908. Smallest Range I" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/910. Smallest Range II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/909. Snakes and Ladders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/911. Online Election" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
