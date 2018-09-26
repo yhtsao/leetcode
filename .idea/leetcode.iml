@@ -78,6 +78,8 @@
       <sourceFolder url="file://$MODULE_DIR$/910. Smallest Range II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/909. Snakes and Ladders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/911. Online Election" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/621. Task Scheduler" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
