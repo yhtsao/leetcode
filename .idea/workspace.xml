@@ -30,15 +30,22 @@
     <splitter split-orientation="horizontal" split-proportion="0.5422031">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="LongestPalindromicSubseq.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseq.java">
+          <file leaf-file-name="PalindromicSubstring.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstring.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-                  <folding>
-                    <element signature="e#105#106#0" expanded="true" />
-                    <element signature="e#156#157#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="57">
+                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PalindromeNumber.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="95">
+                  <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -57,24 +64,34 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="LongestPalindromicSubseqTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseqTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="LongestPalindromicTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/first/LongestPalindromicTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="295">
                   <caret line="17" column="37" lean-forward="false" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="28" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PalindromicSubstringTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstringTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PalindromeNumberTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumberTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -115,9 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/52. N-Queens II/NQueensIITest.java" />
-        <option value="$PROJECT_DIR$/52. N-Queens II/NQueensII.java" />
-        <option value="$PROJECT_DIR$/60. Permutation Sequence/PermutationSequenceTest.java" />
         <option value="$PROJECT_DIR$/60. Permutation Sequence/PermutationSequence.java" />
         <option value="$PROJECT_DIR$/77. Combinations/CombinationsTest.java" />
         <option value="$PROJECT_DIR$/77. Combinations/Combinations.java" />
@@ -166,6 +180,9 @@
         <option value="$PROJECT_DIR$/5. Longest Palindromic Substring/first/LongestPalindromic.java" />
         <option value="$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseqTest.java" />
         <option value="$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseq.java" />
+        <option value="$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumberTest.java" />
+        <option value="$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java" />
       </list>
     </option>
   </component>
@@ -256,6 +273,28 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="9. Palindrome Number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="9. Palindrome Number" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="647. Palindromic Substrings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="647. Palindromic Substrings" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -341,7 +380,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestPalindromicSubseqTest">
+  <component name="RunManager" selected="JUnit.PalindromeNumberTest">
     <configuration name="LongestPalindromicSubseqTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -392,7 +431,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TaskSchedulerTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -403,9 +442,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.TaskSchedulerTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="first.PalindromeNumberTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -417,7 +456,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TaskSchedulerTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeNumberTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -428,8 +467,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.TaskSchedulerTest" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="MAIN_CLASS_NAME" value="first.PalindromeNumberTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -535,19 +574,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest.test03" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test03" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest.test03" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PalindromeNumberTest.test01" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PalindromeNumberTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest.test03" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test03" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PalindromeNumberTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PalindromeNumberTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubseqTest.test03" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TaskSchedulerTest.test03" />
       </list>
     </recent_temporary>
   </component>
@@ -577,13 +616,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00048" summary="Update String to Integer">
-      <created>1532478401525</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1532478401525</updated>
     </task>
     <task id="LOCAL-00049" summary="Update String to Integer">
       <created>1532533053654</created>
@@ -921,7 +953,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538017607767</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Add Longest Palindromic Subsequence">
+      <created>1538060174855</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1538060174856</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -934,14 +973,14 @@
     <history-entry file="MyQueueTest_test01 - 2018.09.26 at 22h 19m 40s.xml">
       <configuration name="MyQueueTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SnakesAndLaddersTest - 2018.09.26 at 21h 29m 28s.xml">
-      <configuration name="SnakesAndLaddersTest" configurationId="JUnit" />
+    <history-entry file="PalindromeNumberTest - 2018.09.27 at 23h 03m 59s.xml">
+      <configuration name="PalindromeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SnakesAndLaddersTest_test09 - 2018.09.26 at 21h 29m 18s.xml">
-      <configuration name="SnakesAndLaddersTest.test09" configurationId="JUnit" />
+    <history-entry file="PalindromeNumberTest - 2018.09.27 at 23h 05m 29s.xml">
+      <configuration name="PalindromeNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SnakesAndLaddersTest_test09 - 2018.09.26 at 21h 30m 44s.xml">
-      <configuration name="SnakesAndLaddersTest.test09" configurationId="JUnit" />
+    <history-entry file="PalindromeNumberTest_test01 - 2018.09.27 at 23h 03m 55s.xml">
+      <configuration name="PalindromeNumberTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TaskSchedulerTest_test01 - 2018.09.26 at 23h 40m 56s.xml">
       <configuration name="TaskSchedulerTest.test01" configurationId="JUnit" />
@@ -957,7 +996,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291471000" />
+    <option name="totallyTimeSpent" value="293066000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1073,7 +1112,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add N Queens" />
     <MESSAGE value="Add N Queens II" />
     <MESSAGE value="Update N Queens II" />
     <MESSAGE value="Add Permutation Sequence" />
@@ -1098,7 +1136,8 @@
     <MESSAGE value="Add Snakes and Ladders" />
     <MESSAGE value="Add Implement Queue using Stacks" />
     <MESSAGE value="Add Task Scheduler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Task Scheduler" />
+    <MESSAGE value="Add Longest Palindromic Subsequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Longest Palindromic Subsequence" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1319,16 +1358,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1. Two Sum/first/ArrayPartitionI.java" />
-    <entry file="file://$PROJECT_DIR$/1. Two Sum/first/ArrayPartitionITest.java" />
-    <entry file="file://$PROJECT_DIR$/common/common.java" />
-    <entry file="file://$PROJECT_DIR$/common/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/94. Binary Tree Inorder Traversal/first/BinaryTreeInorder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -1752,12 +1781,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseq.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
             <element signature="e#105#106#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
