@@ -80,6 +80,7 @@
       <sourceFolder url="file://$MODULE_DIR$/911. Online Election" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/621. Task Scheduler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
