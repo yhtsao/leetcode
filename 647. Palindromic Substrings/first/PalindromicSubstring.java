@@ -2,7 +2,7 @@ package first;
 
 public class PalindromicSubstring {
     public int countSubstrings(String s) {
-        return countSubstringsDP(s);
+        return countSubstringsByMiddle(s);
     }
 
     private int countSubstringsDP(String s) {
@@ -25,6 +25,22 @@ public class PalindromicSubstring {
                     dp[i][j] = false;
                 }
             }
+        }
+        return count;
+    }
+
+    private int countSubstringsByMiddle(String s) {
+        int count = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            // odd length, middle is (i)
+            for (int j = 0; i - j >= 0 && i + j < s.length()
+                    && s.charAt(i - j) == s.charAt(i + j); j++)
+                count++;
+            // even length, middle is (i, i + 1)
+            for (int j = 0; i - j >= 0 && i + j + 1 < s.length()
+                    && s.charAt(i - j) == s.charAt(i + j + 1); j++)
+                count++;
         }
         return count;
     }
