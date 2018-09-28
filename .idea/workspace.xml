@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java" afterPath="$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -43,8 +43,8 @@
           <file leaf-file-name="PalindromeNumber.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <state relative-caret-position="114">
+                  <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
@@ -617,13 +617,6 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
     </task>
-    <task id="LOCAL-00049" summary="Update String to Integer">
-      <created>1532533053654</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1532533053654</updated>
-    </task>
     <task id="LOCAL-00050" summary="Update Generate Parentheses">
       <created>1532620463448</created>
       <option name="number" value="00050" />
@@ -960,7 +953,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538060174856</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Add Palindrome Number">
+      <created>1538062519216</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1538062519216</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -970,20 +970,20 @@
     <history-entry file="LongestPalindromicSubseqTest_test03 - 2018.09.27 at 22h 53m 30s.xml">
       <configuration name="LongestPalindromicSubseqTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyQueueTest_test01 - 2018.09.26 at 22h 19m 40s.xml">
-      <configuration name="MyQueueTest.test01" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PalindromeNumberTest - 2018.09.27 at 23h 03m 59s.xml">
       <configuration name="PalindromeNumberTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PalindromeNumberTest - 2018.09.27 at 23h 05m 29s.xml">
       <configuration name="PalindromeNumberTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PalindromeNumberTest - 2018.09.28 at 09h 53m 32s.xml">
+      <configuration name="PalindromeNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeNumberTest - 2018.09.28 at 09h 54m 53s.xml">
+      <configuration name="PalindromeNumberTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="PalindromeNumberTest_test01 - 2018.09.27 at 23h 03m 55s.xml">
       <configuration name="PalindromeNumberTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaskSchedulerTest_test01 - 2018.09.26 at 23h 40m 56s.xml">
-      <configuration name="TaskSchedulerTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TaskSchedulerTest_test01 - 2018.09.27 at 11h 05m 15s.xml">
       <configuration name="TaskSchedulerTest.test01" configurationId="JUnit" />
@@ -996,7 +996,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293066000" />
+    <option name="totallyTimeSpent" value="293831000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1112,7 +1112,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add N Queens II" />
     <MESSAGE value="Update N Queens II" />
     <MESSAGE value="Add Permutation Sequence" />
     <MESSAGE value="Add iterative solution for Permutation Sequence" />
@@ -1137,7 +1136,8 @@
     <MESSAGE value="Add Implement Queue using Stacks" />
     <MESSAGE value="Add Task Scheduler" />
     <MESSAGE value="Add Longest Palindromic Subsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Longest Palindromic Subsequence" />
+    <MESSAGE value="Add Palindrome Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Palindrome Number" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1818,8 +1818,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
       </provider>
