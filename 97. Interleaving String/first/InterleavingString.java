@@ -1,9 +1,12 @@
 package first;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class InterleavingString {
     public boolean isInterleave(String s1, String s2, String s3) {
         if (s1.length() + s2.length() != s3.length()) return false;
-        return isInterleaveDP(s1, s2, s3);
+        return isInterleaveBFS(s1, s2, s3);
     }
 
     private boolean isInterleaveDP(String s1, String s2, String s3) {
@@ -44,5 +47,26 @@ public class InterleavingString {
                 | (s2.charAt(s2Ptr) == s3.charAt(s3Ptr) && recur(s1, s1Ptr, s2, s2Ptr + 1, s3, s3Ptr + 1, memo));
         memo[s1Ptr][s2Ptr] = res ? 1 : -1;
         return res;
+    }
+
+    private boolean isInterleaveBFS(String s1, String s2, String s3) {
+        boolean[][] visited = new boolean[s1.length() + 1][s2.length() + 1];
+
+        Queue<int[]> queue = new LinkedList<>();
+        queue.offer(new int[]{0, 0});
+        while (!queue.isEmpty()) {
+            int[] p = queue.poll();
+            if (visited[p[0]][p[1]]) continue;
+            if (p[0] == s1.length() && p[1] == s2.length()) return true;
+
+            int k = p[0] + p[1];
+            if (p[0] < s1.length() && s1.charAt(p[0]) == s3.charAt(k))
+                queue.offer(new int[]{p[0] + 1, p[1]});
+
+            if (p[1] < s2.length() && s2.charAt(p[1]) == s3.charAt(k))
+                queue.offer(new int[]{p[0], p[1] + 1});
+            visited[p[0]][p[1]] = true;
+        }
+        return false;
     }
 }

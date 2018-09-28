@@ -85,4 +85,13 @@ public class InterleavingStringTest {
         boolean result = interleavingString.isInterleave(s1, s2, s3);
         Assertions.assertFalse(result);
     }
+
+    @Test
+    public void test09() {
+        String s1 = "aab";
+        String s2 = "abc";
+        String s3 = "aaabcb";
+        boolean result = interleavingString.isInterleave(s1, s2, s3);
+        Assertions.assertTrue(result);
+    }
 }
