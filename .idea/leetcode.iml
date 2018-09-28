@@ -83,6 +83,7 @@
       <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/97. Interleaving String" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
