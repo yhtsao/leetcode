@@ -53,12 +53,8 @@
       <sourceFolder url="file://$MODULE_DIR$/52. N-Queens II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/55. Jump Game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/561. Array Partition I" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/60. Permutation Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/636. Exclusive Time of Functions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7. Reverse Integer" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/76. Minimum Window Substring" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/77. Combinations" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/78. Subsets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8. String to Integer (atoi)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/832. Flipping an Image" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/840. Magic Squares In Grid" isTestSource="false" />
@@ -84,8 +80,15 @@
       <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/97. Interleaving String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/56. Merge Intervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/60. Permutation Sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/62. Unique Paths" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/66. Plus One" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/69. Sqrt(x)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/76. Minimum Window Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/77. Combinations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/78. Subsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/84. Largest Rectangle in Histogram" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
