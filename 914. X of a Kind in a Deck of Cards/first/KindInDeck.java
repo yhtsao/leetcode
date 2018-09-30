@@ -18,12 +18,10 @@ public class KindInDeck {
 
         int gcd = map.get(deck[0]);
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            gcd = Math.min(gcd, gcd(entry.getValue(), gcd));
-            if (gcd == 1)
-                return false;
+            gcd = gcd(entry.getValue(), gcd);
         }
 
-        return true;
+        return gcd > 1;
     }
 
     private int gcd(int m, int n) {
