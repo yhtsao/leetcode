@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Update new solution">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/914. X of a Kind in a Deck of Cards/first/KindInDeck.java" afterPath="$PROJECT_DIR$/914. X of a Kind in a Deck of Cards/first/KindInDeck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSet.java" afterPath="$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSet.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -28,24 +26,24 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.58154505">
+    <splitter split-orientation="horizontal" split-proportion="0.65522176">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="CatAndMouse.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouse.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+                <state relative-caret-position="76">
+                  <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="PartitionToDisjointSet.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSet.java">
+          <file leaf-file-name="LargestRectangleInHistogram.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogram.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+                <state relative-caret-position="238">
+                  <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -65,14 +63,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="PartitionToDisjointSetTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSetTest.java">
+          <file leaf-file-name="LargestRectangleInHistogramTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogramTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="475">
+                  <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -156,7 +152,6 @@
         <option value="$PROJECT_DIR$/56. Merge Intervals/first/MergeIntervalsTest.java" />
         <option value="$PROJECT_DIR$/56. Merge Intervals/first/MergeIntervals.java" />
         <option value="$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogramTest.java" />
-        <option value="$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogram.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/Test.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/Solution1.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/Solution2.java" />
@@ -168,6 +163,7 @@
         <option value="$PROJECT_DIR$/916. Word Subsets/first/WordSubsets.java" />
         <option value="$PROJECT_DIR$/914. X of a Kind in a Deck of Cards/first/KindInDeck.java" />
         <option value="$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSet.java" />
+        <option value="$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogram.java" />
       </list>
     </option>
   </component>
@@ -272,34 +268,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="56. Merge Intervals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="56. Merge Intervals" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="84. Largest Rectangle in Histogram" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="84. Largest Rectangle in Histogram" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="913. Cat and Mouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="913. Cat and Mouse" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -409,8 +383,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PartitionToDisjointSetTest">
-    <configuration name="KindInDeckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LargestRectangleInHistogramTest.test04">
+    <configuration name="LargestRectangleInHistogramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -421,9 +395,59 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KindInDeckTest" />
+      <option name="MAIN_CLASS_NAME" value="first.LargestRectangleInHistogramTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="LargestRectangleInHistogramTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.LargestRectangleInHistogramTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="LargestRectangleInHistogramTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.LargestRectangleInHistogramTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -460,31 +484,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="PartitionToDisjointSetTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.PartitionToDisjointSetTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="PartitionToDisjointSetTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -499,31 +498,6 @@
       <option name="MAIN_CLASS_NAME" value="first.PartitionToDisjointSetTest" />
       <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WordSubsetsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordSubsetsTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -603,19 +577,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.KindInDeckTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WordSubsetsTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest.test04" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest.test04" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LargestRectangleInHistogramTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LargestRectangleInHistogramTest.test04" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LargestRectangleInHistogramTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest.test04" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KindInDeckTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.WordSubsetsTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LargestRectangleInHistogramTest.test04" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LargestRectangleInHistogramTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LargestRectangleInHistogramTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PartitionToDisjointSetTest.test04" />
       </list>
     </recent_temporary>
   </component>
@@ -645,13 +619,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00064" summary="Add insert and backtracking solutions for Permutations">
-      <created>1534063749398</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1534063749398</updated>
     </task>
     <task id="LOCAL-00065" summary="Add Valid Sudoku">
       <created>1534065943425</created>
@@ -989,43 +956,50 @@
       <option name="project" value="LOCAL" />
       <updated>1538307440499</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Update new solution">
+      <created>1538309725390</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1538309725391</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KindInDeckTest - 2018.09.30 at 12h 15m 42s.xml">
-      <configuration name="KindInDeckTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2018.09.30 at 20h 57m 25s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KindInDeckTest - 2018.09.30 at 19h 43m 52s.xml">
-      <configuration name="KindInDeckTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2018.09.30 at 21h 01m 44s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PartitionToDisjointSetTest - 2018.09.30 at 12h 18m 08s.xml">
-      <configuration name="PartitionToDisjointSetTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2018.09.30 at 21h 01m 52s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PartitionToDisjointSetTest - 2018.09.30 at 12h 19m 48s.xml">
-      <configuration name="PartitionToDisjointSetTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test01 - 2018.09.30 at 20h 49m 27s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PartitionToDisjointSetTest - 2018.09.30 at 20h 13m 48s.xml">
-      <configuration name="PartitionToDisjointSetTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test01 - 2018.09.30 at 20h 53m 23s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PartitionToDisjointSetTest_test01 - 2018.09.30 at 20h 12m 28s.xml">
-      <configuration name="PartitionToDisjointSetTest.test01" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test01 - 2018.09.30 at 21h 15m 57s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PartitionToDisjointSetTest_test04 - 2018.09.30 at 20h 13m 43s.xml">
-      <configuration name="PartitionToDisjointSetTest.test04" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test04 - 2018.09.30 at 20h 53m 28s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test02 - 2018.09.30 at 10h 48m 12s.xml">
-      <configuration name="SolutionTest.test02" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test04 - 2018.09.30 at 21h 16m 01s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSubsetsTest - 2018.09.30 at 19h 35m 23s.xml">
-      <configuration name="WordSubsetsTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test04 - 2018.09.30 at 21h 18m 42s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSubsetsTest_test01 - 2018.09.30 at 17h 53m 43s.xml">
-      <configuration name="WordSubsetsTest.test01" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_test04 - 2018.09.30 at 21h 20m 56s.xml">
+      <configuration name="LargestRectangleInHistogramTest.test04" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329451000" />
+    <option name="totallyTimeSpent" value="333413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1141,7 +1115,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Pow(x, y)" />
     <MESSAGE value="Add Smallest Range I" />
     <MESSAGE value="Add Smallest Range II" />
     <MESSAGE value="Add Spiral Matrix" />
@@ -1166,7 +1139,8 @@
     <MESSAGE value="Add X of Kind in a Deck of Cards" />
     <MESSAGE value="Add Partition Array into Disjoint Intervals" />
     <MESSAGE value="Add Word Subsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Word Subsets" />
+    <MESSAGE value="Update new solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update new solution" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1358,8 +1332,14 @@
           <properties />
           <option name="timeStamp" value="182" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogram.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="201" />
+      <option name="time" value="205" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1719,16 +1699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogramTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11. Container With Most Water/first/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1741,14 +1711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1821,14 +1783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/914. X of a Kind in a Deck of Cards/first/KindInDeck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1853,14 +1807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1873,8 +1819,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/915. Partition Array into Disjoint Intervals/first/PartitionToDisjointSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="190">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/first/LargestRectangleInHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
