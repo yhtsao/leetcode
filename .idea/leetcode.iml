@@ -89,6 +89,11 @@
       <sourceFolder url="file://$MODULE_DIR$/77. Combinations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/78. Subsets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/84. Largest Rectangle in Histogram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Weekly Contest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/913. Cat and Mouse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/914. X of a Kind in a Deck of Cards" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/915. Partition Array into Disjoint Intervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/916. Word Subsets" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
