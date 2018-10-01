@@ -63,7 +63,6 @@
       <sourceFolder url="file://$MODULE_DIR$/90. Subsets II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/94. Binary Tree Inorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/common" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/First" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/49. Group Anagrams" isTestSource="false" />
@@ -94,6 +93,10 @@
       <sourceFolder url="file://$MODULE_DIR$/914. X of a Kind in a Deck of Cards" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/915. Partition Array into Disjoint Intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/916. Word Subsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/124. Binary Tree Maximum Path Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/144. Binary Tree Preorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/145. Binary Tree Postorder Traversal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
