@@ -30,31 +30,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.55722463">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="CountUniquePalindrome.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindrome.java">
+          <file leaf-file-name="FirstUniqueChar.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="LongestPalindromicSubseq.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseq.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="235">
-                  <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="PalindromicSubstring.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstring.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <state relative-caret-position="209">
+                  <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -64,11 +44,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="CountUniquePalindromeTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindromeTest.java">
+          <file leaf-file-name="FirstUniqueCharTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueCharTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="969">
-                  <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+                <state relative-caret-position="494">
+                  <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="22" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -116,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/232. Implement Queue using Stacks/first/QueueByStack.java" />
-        <option value="$PROJECT_DIR$/232. Implement Queue using Stacks/first/QueueByStackTest.java" />
         <option value="$PROJECT_DIR$/232. Implement Queue using Stacks/first/My.java" />
         <option value="$PROJECT_DIR$/232. Implement Queue using Stacks/first/MyQueueTest.java" />
         <option value="$PROJECT_DIR$/232. Implement Queue using Stacks/first/MyQueue.java" />
@@ -165,8 +143,10 @@
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/first/BinaryTreeMaxPath.java" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/first/BinaryTreeMaxPathSumTest.java" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/first/BinaryTreeMaxPathSum.java" />
-        <option value="$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindrome.java" />
         <option value="$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindromeTest.java" />
+        <option value="$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindrome.java" />
+        <option value="$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueCharTest.java" />
+        <option value="$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java" />
       </list>
     </option>
   </component>
@@ -260,12 +240,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="516. Longest Palindromic Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="387. First Unique Character in a String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="516. Longest Palindromic Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="387. First Unique Character in a String" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -353,8 +333,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CountUniquePalindromeTest">
-    <configuration name="BinaryTreeMaxPathSumTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FirstUniqueCharTest">
+    <configuration name="FirstUniqueCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -365,57 +345,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.BinaryTreeMaxPathSumTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="BinaryTreeMaxPathSumTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.BinaryTreeMaxPathSumTest" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="CountUniquePalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.CountUniquePalindromeTest" />
+      <option name="MAIN_CLASS_NAME" value="first.FirstUniqueCharTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -429,7 +359,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CountUniquePalindromeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstUniqueCharTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -440,8 +370,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.CountUniquePalindromeTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="first.FirstUniqueCharTest" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -454,7 +384,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CountUniquePalindromeTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstUniqueCharTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -465,8 +395,58 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.CountUniquePalindromeTest" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="MAIN_CLASS_NAME" value="first.FirstUniqueCharTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="FirstUniqueCharTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.FirstUniqueCharTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="FirstUniqueCharTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.FirstUniqueCharTest" />
+      <option name="METHOD_NAME" value="test05" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -547,19 +527,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BinaryTreeMaxPathSumTest.test03" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BinaryTreeMaxPathSumTest.test04" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CountUniquePalindromeTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CountUniquePalindromeTest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CountUniquePalindromeTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test02" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test03" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test04" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test05" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CountUniquePalindromeTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CountUniquePalindromeTest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CountUniquePalindromeTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BinaryTreeMaxPathSumTest.test04" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BinaryTreeMaxPathSumTest.test03" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test05" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test04" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test03" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FirstUniqueCharTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -589,13 +569,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00070" summary="Add Subsets">
-      <created>1534952700753</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1534952700754</updated>
     </task>
     <task id="LOCAL-00071" summary="Add Subsets II">
       <created>1535203753003</created>
@@ -933,31 +906,17 @@
       <option name="project" value="LOCAL" />
       <updated>1538395785746</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Add Count Different Palindromic Subsequences">
+      <created>1538461056416</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1538461056417</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinaryTreeMaxPathSumTest - 2018.10.01 at 19h 54m 34s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryTreeMaxPathSumTest_test01 - 2018.10.01 at 19h 47m 40s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryTreeMaxPathSumTest_test01 - 2018.10.01 at 19h 48m 33s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryTreeMaxPathSumTest_test01 - 2018.10.01 at 19h 50m 39s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryTreeMaxPathSumTest_test01 - 2018.10.01 at 19h 54m 15s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryTreeMaxPathSumTest_test03 - 2018.10.01 at 19h 57m 07s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryTreeMaxPathSumTest_test04 - 2018.10.01 at 20h 01m 52s.xml">
-      <configuration name="BinaryTreeMaxPathSumTest.test04" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CountUniquePalindromeTest - 2018.10.02 at 14h 16m 00s.xml">
       <configuration name="CountUniquePalindromeTest" configurationId="JUnit" />
     </history-entry>
@@ -967,9 +926,30 @@
     <history-entry file="CountUniquePalindromeTest_test02 - 2018.10.02 at 14h 13m 34s.xml">
       <configuration name="CountUniquePalindromeTest.test02" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FirstUniqueCharTest - 2018.10.02 at 15h 45m 51s.xml">
+      <configuration name="FirstUniqueCharTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstUniqueCharTest_test02 - 2018.10.02 at 15h 42m 24s.xml">
+      <configuration name="FirstUniqueCharTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstUniqueCharTest_test03 - 2018.10.02 at 15h 44m 09s.xml">
+      <configuration name="FirstUniqueCharTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstUniqueCharTest_test03 - 2018.10.02 at 15h 45m 28s.xml">
+      <configuration name="FirstUniqueCharTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstUniqueCharTest_test03 - 2018.10.02 at 15h 45m 37s.xml">
+      <configuration name="FirstUniqueCharTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstUniqueCharTest_test04 - 2018.10.02 at 15h 45m 43s.xml">
+      <configuration name="FirstUniqueCharTest.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FirstUniqueCharTest_test05 - 2018.10.02 at 15h 45m 47s.xml">
+      <configuration name="FirstUniqueCharTest.test05" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345438000" />
+    <option name="totallyTimeSpent" value="346776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1085,7 +1065,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Snakes and Ladders" />
     <MESSAGE value="Add Implement Queue using Stacks" />
     <MESSAGE value="Add Task Scheduler" />
     <MESSAGE value="Add Longest Palindromic Subsequence" />
@@ -1110,7 +1089,8 @@
     <MESSAGE value="Add Binary Tree Preorder" />
     <MESSAGE value="Add Binary Tree Postorder Traversal" />
     <MESSAGE value="Add Binary Tree Maximum Path Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Binary Tree Maximum Path Sum" />
+    <MESSAGE value="Add Count Different Palindromic Subsequences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Count Different Palindromic Subsequences" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1320,8 +1300,14 @@
           <properties />
           <option name="timeStamp" value="208" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="209" />
+      <option name="time" value="210" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1366,24 +1352,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/621. Task Scheduler/first/TaskScheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseqTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1798,10 +1766,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseq.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="159">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1824,10 +1800,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindrome.java">
+    <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueCharTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="494">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding />
         </state>
       </provider>

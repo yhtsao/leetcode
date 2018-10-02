@@ -20,14 +20,11 @@
       <sourceFolder url="file://$MODULE_DIR$/2. Add Two Numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20. Valid Parentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21. Merge Two Sorted Lists" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/218. The Skyline Problem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/22. Generate Parentheses" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/226. Invert Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/23. Merge k Sorted Lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/26. Remove Duplicates from Sorted Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/27. Remove Element" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/28. Implement strStr()" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/283. Move Zeroes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/29. Divide Two Integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3. Longest Substring Without Repeating Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/31. Next Permutation" isTestSource="false" />
@@ -42,7 +39,6 @@
       <sourceFolder url="file://$MODULE_DIR$/40. Combination Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/41. First Missing Positive" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/42. Trapping Rain Water" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/438. Find All Anagrams in a String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/44. Wildcard Matching" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/45. Jump Game II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/46. Permutations" isTestSource="false" />
@@ -64,7 +60,6 @@
       <sourceFolder url="file://$MODULE_DIR$/94. Binary Tree Inorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/common" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/First" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/49. Group Anagrams" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/50. Pow(x, n)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/53. Maximum Subarray" isTestSource="false" />
@@ -73,7 +68,6 @@
       <sourceFolder url="file://$MODULE_DIR$/910. Smallest Range II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/909. Snakes and Ladders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/911. Online Election" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/621. Task Scheduler" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
@@ -98,6 +92,16 @@
       <sourceFolder url="file://$MODULE_DIR$/144. Binary Tree Preorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/145. Binary Tree Postorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/730. Count Different Palindromic Subsequences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/146. LRU Cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/218. The Skyline Problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/226. Invert Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/283. Move Zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/387. First Unique Character in a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/438. Find All Anagrams in a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
