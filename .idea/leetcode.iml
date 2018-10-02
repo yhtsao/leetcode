@@ -97,6 +97,7 @@
       <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/144. Binary Tree Preorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/145. Binary Tree Postorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/730. Count Different Palindromic Subsequences" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
