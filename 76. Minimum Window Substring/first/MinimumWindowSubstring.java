@@ -2,30 +2,26 @@ package first;
 
 public class MinimumWindowSubstring {
     public String minWindow(String s, String t) {
-        int lo = 0, minLo = 0, minLen = Integer.MAX_VALUE;
-        int[] map = new int[256];
-        for (char c : t.toCharArray())
-            map[c]++;
-
+        int start = 0, end = 0;
+        int startOfMinLen = 0, minLen = Integer.MAX_VALUE;
         int count = t.length();
-        for (int i = 0; i < s.length(); i++) {
-            if (map[s.charAt(i)]-- > 0) {
-                count--;
-            }
-            if (count == 0) {
-                while (map[s.charAt(lo)]++ < 0) {
-                    lo++;
+        int[] map = new int[256];
+
+        // initial map for string t
+        for (char c : t.toCharArray()) map[c]++;
+
+        for (end = 0; end < s.length(); end++) {
+            if (map[s.charAt(end)]-- > 0) count--;
+
+            while (count == 0) {
+                if (end - start + 1 < minLen) {
+                    minLen = end - start + 1;
+                    startOfMinLen = start;
                 }
-                if (i - lo + 1 < minLen) {
-                    minLen = i - lo + 1;
-                    minLo = lo;
-                }
-                count++;
-                lo++;
+                if (map[s.charAt(start++)]++ == 0) count++;
             }
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(minLo, minLo + minLen);
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(startOfMinLen, startOfMinLen + minLen);
     }
-
 }
