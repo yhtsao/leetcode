@@ -2,21 +2,21 @@ package first;
 
 public class LongestSubstringWoRepeat {
     public int lengthOfLongestSubstring(String s) {
-        int[] map = new int[256];
-        int lo = 0, maxLen = 0;
-        int i;
-        for (i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (map[c] > 0) { // already exist
-                maxLen = Math.max(maxLen, i - lo);
-                while (s.charAt(lo) != c) {
-                    map[s.charAt(lo++)] = 0;
+        if (s.length() < 2) return s.length();
+
+        boolean[] map = new boolean[256];
+        int start = 0, end = 0;
+        int maxLen = 0;
+        for (end = 0; end < s.length(); end++) {
+            if (map[s.charAt(end)]) {
+                maxLen = Math.max(maxLen, end - start);
+                while (s.charAt(start) != s.charAt(end)) {
+                    map[s.charAt(start++)] = false;
                 }
-                lo++;
+                start++;
             }
-            map[c] = 1;
+            map[s.charAt(end)] = true;
         }
-        maxLen = Math.max(maxLen, i - lo);
-        return maxLen;
+        return Math.max(maxLen, end - start);
     }
 }
