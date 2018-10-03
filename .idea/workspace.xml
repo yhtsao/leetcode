@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/first/LongestSubstringWoRepeat.java" afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/first/LongestSubstringWoRepeat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java" afterPath="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstring.java" afterPath="$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstring.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -26,15 +30,43 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55722463">
+    <splitter split-orientation="horizontal" split-proportion="0.6509299">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="LongestSubstrKRepeat.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-                  <folding />
+                <state relative-caret-position="532">
+                  <caret line="67" column="5" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="67" selection-end-column="5" />
+                  <folding>
+                    <element signature="method#recur#0;class#LongestSubstrKRepeat#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LongestSubstringWoRepeat.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/first/LongestSubstringWoRepeat.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#106#107#0" expanded="true" />
+                    <element signature="e#129#130#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstring.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="152">
+                  <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#102#103#0" expanded="true" />
+                    <element signature="e#127#128#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -46,11 +78,21 @@
           <file leaf-file-name="LongestSubstrKRepeatTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeatTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="227">
+                <state relative-caret-position="266">
                   <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MinimumWindowSubstringTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstringTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -95,10 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/232. Implement Queue using Stacks/first/MyQueue.java" />
-        <option value="$PROJECT_DIR$/621. Task Scheduler/first/TaskSchedulerTest.java" />
-        <option value="$PROJECT_DIR$/621. Task Scheduler/first/TaskScheduler.java" />
-        <option value="$PROJECT_DIR$/5. Longest Palindromic Substring/first/LongestPalindromic.java" />
         <option value="$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseqTest.java" />
         <option value="$PROJECT_DIR$/516. Longest Palindromic Subsequence/first/LongestPalindromicSubseq.java" />
         <option value="$PROJECT_DIR$/9. Palindrome Number/first/PalindromeNumberTest.java" />
@@ -145,6 +183,10 @@
         <option value="$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueCharTest.java" />
         <option value="$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java" />
         <option value="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeatTest.java" />
+        <option value="$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/README.md" />
+        <option value="$PROJECT_DIR$/340. Longest Substring with At Most K Distinct Characters/README.md" />
+        <option value="$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/first/LongestSubstringWoRepeat.java" />
         <option value="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java" />
       </list>
     </option>
@@ -239,13 +281,34 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="387. First Unique Character in a String" type="462c0819:PsiDirectoryNode" />
+              <item name="3. Longest Substring Without Repeating Characters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="387. First Unique Character in a String" type="462c0819:PsiDirectoryNode" />
+              <item name="3. Longest Substring Without Repeating Characters" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="76. Minimum Window Substring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="76. Minimum Window Substring" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="159. Longest Substring with At Most Two Distinct Characters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="340. Longest Substring with At Most K Distinct Characters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -579,13 +642,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00072" summary="Add N Queens">
-      <created>1535282866903</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1535282866904</updated>
     </task>
     <task id="LOCAL-00073" summary="Add N Queens II">
       <created>1535283458141</created>
@@ -923,43 +979,50 @@
       <option name="project" value="LOCAL" />
       <updated>1538466465340</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Add Longest Substring with At Least K Repeating Characters">
+      <created>1538479388009</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1538479388009</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestSubstrKRepeatTest - 2018.10.02 at 16h 17m 48s.xml">
-      <configuration name="LongestSubstrKRepeatTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstrKRepeatTest - 2018.10.02 at 16h 20m 28s.xml">
-      <configuration name="LongestSubstrKRepeatTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LongestSubstrKRepeatTest - 2018.10.02 at 19h 19m 52s.xml">
       <configuration name="LongestSubstrKRepeatTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LongestSubstrKRepeatTest - 2018.10.02 at 19h 20m 22s.xml">
       <configuration name="LongestSubstrKRepeatTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestSubstrKRepeatTest_test01 - 2018.10.02 at 16h 15m 50s.xml">
-      <configuration name="LongestSubstrKRepeatTest.test01" configurationId="JUnit" />
+    <history-entry file="LongestSubstrKRepeatTest - 2018.10.03 at 14h 19m 34s.xml">
+      <configuration name="LongestSubstrKRepeatTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestSubstrKRepeatTest - 2018.10.03 at 14h 24m 02s.xml">
+      <configuration name="LongestSubstrKRepeatTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LongestSubstrKRepeatTest_test01 - 2018.10.02 at 19h 20m 16s.xml">
+      <configuration name="LongestSubstrKRepeatTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestSubstrKRepeatTest_test01 - 2018.10.03 at 14h 23m 41s.xml">
+      <configuration name="LongestSubstrKRepeatTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestSubstrKRepeatTest_test01 - 2018.10.03 at 14h 23m 54s.xml">
       <configuration name="LongestSubstrKRepeatTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LongestSubstrKRepeatTest_test02 - 2018.10.02 at 19h 20m 19s.xml">
       <configuration name="LongestSubstrKRepeatTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestSubstrKRepeatTest_test05 - 2018.10.02 at 16h 15m 28s.xml">
-      <configuration name="LongestSubstrKRepeatTest.test05" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstrKRepeatTest_test07 - 2018.10.02 at 16h 20m 17s.xml">
-      <configuration name="LongestSubstrKRepeatTest.test07" configurationId="JUnit" />
+    <history-entry file="LongestSubstrKRepeatTest_test02 - 2018.10.03 at 14h 23m 59s.xml">
+      <configuration name="LongestSubstrKRepeatTest.test02" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LongestSubstrKRepeatTest_test08 - 2018.10.02 at 19h 19m 48s.xml">
       <configuration name="LongestSubstrKRepeatTest.test08" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350584000" />
+    <option name="totallyTimeSpent" value="355009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -988,7 +1051,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2599179" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34473324" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1075,7 +1138,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Task Scheduler" />
     <MESSAGE value="Add Longest Palindromic Subsequence" />
     <MESSAGE value="Add Palindrome Number" />
     <MESSAGE value="Update solution for Palindrome Number" />
@@ -1100,7 +1162,8 @@
     <MESSAGE value="Add Binary Tree Maximum Path Sum" />
     <MESSAGE value="Add Count Different Palindromic Subsequences" />
     <MESSAGE value="Add First Unique Character in a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add First Unique Character in a String" />
+    <MESSAGE value="Add Longest Substring with At Least K Repeating Characters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Longest Substring with At Least K Repeating Characters" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1316,8 +1379,20 @@
           <properties />
           <option name="timeStamp" value="209" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="213" />
+      <option name="time" value="215" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1357,52 +1432,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/first/LongestPalindromicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-412">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" column="25" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/first/LongestPalindromic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/97. Interleaving String/first/InterleavingStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1786">
-          <caret line="94" column="30" lean-forward="false" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/97. Interleaving String/first/InterleavingString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/66. Plus One/first/PlusOneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -1797,6 +1826,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/159. Longest Substring with At Most Two Distinct Characters/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/340. Longest Substring with At Most K Distinct Characters/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1805,9 +1856,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters/first/LongestSubstringWoRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/76. Minimum Window Substring/first/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1817,9 +1898,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/first/LongestSubstrKRepeat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="532">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="method#recur#0;class#LongestSubstrKRepeat#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
