@@ -105,6 +105,8 @@
       <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. Longest Substring with At Most K Distinct Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121. Best Time to Buy and Sell Stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

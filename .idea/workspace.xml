@@ -30,11 +30,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.52575105">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="UniqueSubstringInWraparoundStr.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/467. Unique Substrings in Wraparound String/first/UniqueSubstringInWraparoundStr.java">
+          <file leaf-file-name="BestTimeForStock.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStock.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BestTimeForStockII.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockII.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -44,14 +54,24 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="UniqueSubstringInWraparoundStrTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/467. Unique Substrings in Wraparound String/first/UniqueSubstringInWraparoundStrTest.java">
+          <file leaf-file-name="BestTimeForStockTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStockTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="760">
-                  <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+                <state relative-caret-position="190">
+                  <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BestTimeForStockIITest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockIITest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -96,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/69. Sqrt(x)/first/SqrtTest.java" />
-        <option value="$PROJECT_DIR$/69. Sqrt(x)/first/Sqrt.java" />
         <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/first/FuncExclusiveTimeTest.java" />
         <option value="$PROJECT_DIR$/636. Exclusive Time of Functions/first/FuncExclusiveTime.java" />
         <option value="$PROJECT_DIR$/common/common/Interval.java" />
@@ -147,6 +165,8 @@
         <option value="$PROJECT_DIR$/454. 4Sum II/first/FourSumII.java" />
         <option value="$PROJECT_DIR$/467. Unique Substrings in Wraparound String/first/UniqueSubstringInWraparoundStrTest.java" />
         <option value="$PROJECT_DIR$/467. Unique Substrings in Wraparound String/first/UniqueSubstringInWraparoundStr.java" />
+        <option value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStockTest.java" />
+        <option value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStock.java" />
       </list>
     </option>
   </component>
@@ -251,12 +271,23 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="467. Unique Substrings in Wraparound String" type="462c0819:PsiDirectoryNode" />
+              <item name="121. Best Time to Buy and Sell Stock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="467. Unique Substrings in Wraparound String" type="462c0819:PsiDirectoryNode" />
+              <item name="121. Best Time to Buy and Sell Stock" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="122. Best Time to Buy and Sell Stock II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="122. Best Time to Buy and Sell Stock II" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -344,7 +375,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UniqueSubstringInWraparoundStrTest">
+  <component name="RunManager" selected="JUnit.BestTimeForStockTest">
+    <configuration name="BestTimeForStockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.BestTimeForStockTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="BestTimeForStockTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.BestTimeForStockTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="UniqueSubstringInWraparoundStrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -359,56 +440,6 @@
       <option name="MAIN_CLASS_NAME" value="first.UniqueSubstringInWraparoundStrTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="UniqueSubstringInWraparoundStrTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.UniqueSubstringInWraparoundStrTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="UniqueSubstringInWraparoundStrTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.UniqueSubstringInWraparoundStrTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -538,19 +569,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test03" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test04" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test05" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test04" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test05" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.BestTimeForStockTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BestTimeForStockTest.test01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test05" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test04" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test03" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test02" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BestTimeForStockTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BestTimeForStockTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test05" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UniqueSubstringInWraparoundStrTest.test04" />
       </list>
     </recent_temporary>
   </component>
@@ -580,13 +611,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00079" summary="Update common ListNode and TreeNode">
-      <created>1537504507432</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1537504507432</updated>
     </task>
     <task id="LOCAL-00080" summary="Add Longest Consecutive Sequence">
       <created>1537510108325</created>
@@ -924,12 +948,40 @@
       <option name="project" value="LOCAL" />
       <updated>1538643965014</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Add Unique Substrings in Wraparound String">
+      <created>1538657848790</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1538657848790</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UniqueSubstringInWraparoundStrTest - 2018.10.04 at 20h 40m 23s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest" configurationId="JUnit" />
+    <history-entry file="BestTimeForStockTest - 2018.10.04 at 22h 05m 53s.xml">
+      <configuration name="BestTimeForStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest - 2018.10.04 at 22h 07m 17s.xml">
+      <configuration name="BestTimeForStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest - 2018.10.04 at 22h 11m 05s.xml">
+      <configuration name="BestTimeForStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest - 2018.10.04 at 22h 12m 52s.xml">
+      <configuration name="BestTimeForStockTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest_test01 - 2018.10.04 at 22h 06m 46s.xml">
+      <configuration name="BestTimeForStockTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest_test01 - 2018.10.04 at 22h 07m 14s.xml">
+      <configuration name="BestTimeForStockTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest_test01 - 2018.10.04 at 22h 12m 06s.xml">
+      <configuration name="BestTimeForStockTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BestTimeForStockTest_test01 - 2018.10.04 at 22h 12m 49s.xml">
+      <configuration name="BestTimeForStockTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="UniqueSubstringInWraparoundStrTest - 2018.10.04 at 20h 42m 16s.xml">
       <configuration name="UniqueSubstringInWraparoundStrTest" configurationId="JUnit" />
@@ -937,30 +989,9 @@
     <history-entry file="UniqueSubstringInWraparoundStrTest - 2018.10.04 at 20h 54m 59s.xml">
       <configuration name="UniqueSubstringInWraparoundStrTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test02 - 2018.10.04 at 20h 27m 14s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test02" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test02 - 2018.10.04 at 20h 28m 37s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test02" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test03 - 2018.10.04 at 20h 28m 41s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test03 - 2018.10.04 at 20h 37m 39s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test03 - 2018.10.04 at 20h 40m 13s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test04 - 2018.10.04 at 20h 40m 17s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UniqueSubstringInWraparoundStrTest_test05 - 2018.10.04 at 20h 40m 20s.xml">
-      <configuration name="UniqueSubstringInWraparoundStrTest.test05" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378572000" />
+    <option name="totallyTimeSpent" value="379897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -984,7 +1015,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.49427754" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19562243" sideWeight="0.49427754" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12446352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12446352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1076,7 +1107,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add DP solution for Interleaving String" />
     <MESSAGE value="Add BFS solution for Interleaving String" />
     <MESSAGE value="Add Plus One" />
     <MESSAGE value="Add Sqrx(x)" />
@@ -1101,7 +1131,8 @@
     <MESSAGE value="Add Longest Substring with At Most Two/K Distinct Characters" />
     <MESSAGE value="Add LRU Cache" />
     <MESSAGE value="Add 4 Sum II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 4 Sum II" />
+    <MESSAGE value="Add Unique Substrings in Wraparound String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Unique Substrings in Wraparound String" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1371,14 +1402,16 @@
           <properties />
           <option name="timeStamp" value="234" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStock.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="236" />
+      <option name="time" value="237" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="map.toString()" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1416,38 +1449,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Weekly Contest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/914. X of a Kind in a Deck of Cards/KindInDeck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Weekly Contest/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Weekly Contest/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1867,7 +1868,7 @@
     <entry file="file://$PROJECT_DIR$/467. Unique Substrings in Wraparound String/first/UniqueSubstringInWraparoundStrTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1876,8 +1877,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/467. Unique Substrings in Wraparound String/first/UniqueSubstringInWraparoundStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/first/BestTimeForStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding />
         </state>
       </provider>
