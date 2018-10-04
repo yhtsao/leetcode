@@ -107,6 +107,7 @@
       <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/121. Best Time to Buy and Sell Stock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/108. Convert Sorted Array to Binary Search Tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

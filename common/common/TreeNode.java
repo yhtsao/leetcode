@@ -2,6 +2,7 @@ package common;
 
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 public class TreeNode {
     public int val;
@@ -35,19 +36,32 @@ public class TreeNode {
 
     @Override
     public String toString() {
-        StringBuilder sb = new StringBuilder();
-        sb.append("val = ").append(val)
-                .append(", left = ");
-        if (left == null)
-            sb.append("null");
-        else
-            sb.append(left.val);
-        sb.append(", right = ");
-        if (right == null)
-            sb.append("null");
-        else
-            sb.append(right.val);
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        queue.offer(this);
 
+        StringBuilder sb = new StringBuilder();
+        sb.append("[");
+        sb.append(this.val).append(",");
+        while (!queue.isEmpty()) {
+            TreeNode tmp = queue.poll();
+            //sb.append(tmp.val).append(",");
+
+            if (tmp.left == null && tmp.right == null) continue;
+
+            if (tmp.left == null) sb.append("null,");
+            else {
+                sb.append(tmp.left.val).append(",");
+                queue.offer(tmp.left);
+            }
+
+            if (tmp.right == null) sb.append("null,");
+            else {
+                sb.append(tmp.right.val).append(",");
+                queue.offer(tmp.right);
+            }
+        }
+        sb.delete(sb.length() - 1, sb.length());
+        sb.append("]");
         return sb.toString();
     }
 }
