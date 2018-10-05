@@ -112,6 +112,8 @@
       <sourceFolder url="file://$MODULE_DIR$/103. Binary Tree Zigzag Level Order Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/348. Design Tic-Tac-Toe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/224. Basic Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/227. Basic Calculator II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
