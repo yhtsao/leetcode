@@ -114,6 +114,7 @@
       <sourceFolder url="file://$MODULE_DIR$/348. Design Tic-Tac-Toe" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/224. Basic Calculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/227. Basic Calculator II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/70. Climbing Stairs" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
