@@ -1,14 +1,19 @@
 package first;
 
 public class TicTacToe {
-    private int[][] board;
     private int n;
+    private int[] rowMove, colMove;
+    private int diagonal, antiDiagonal;
+
 
     /**
      * Initialize your data structure here.
      */
     public TicTacToe(int n) {
-        this.board = new int[n][n];
+        this.rowMove = new int[n];
+        this.colMove = new int[n];
+        this.diagonal = 0;
+        this.antiDiagonal = 0;
         this.n = n;
     }
 
@@ -24,35 +29,27 @@ public class TicTacToe {
      * 2: Player 2 wins.
      */
     public int move(int row, int col, int player) {
-        if (board[row][col] != 0)
-            return 0;
-        board[row][col] = player;
+        boolean isWin = false;
 
-        boolean isWin = true;
-        // check row
-        for (int i = 0; i < n; i++)
-            isWin = isWin & board[row][i] == player;
-        if (isWin) return player;
+        if (player == 1) {
+            isWin = isWin | (++rowMove[row] == n);
+            isWin = isWin | (++colMove[col] == n);
 
-        // check col
-        isWin = true;
-        for (int i = 0; i < n; i++)
-            isWin = isWin & board[i][col] == player;
-        if (isWin) return player;
+            if (row == col)
+                isWin = isWin | (++diagonal == n);
+            if (row == n - col - 1)
+                isWin = isWin | (++antiDiagonal == n);
+        } else {
+            isWin = isWin | (--rowMove[row] == -n);
+            isWin = isWin | (--colMove[col] == -n);
 
-        // check diagonal
-        isWin = true;
-        for (int i = 0; i < n; i++)
-            isWin = isWin & board[i][i] == player;
-        if (isWin) return player;
+            if (row == col)
+                isWin = isWin | (--diagonal == -n);
+            if (row == n - col - 1)
+                isWin = isWin | (--antiDiagonal == -n);
+        }
 
-        // check anti-diagonal
-        isWin = true;
-        for (int i = 0; i < n; i++)
-            isWin = isWin & board[i][n - i - 1] == player;
-        if (isWin) return player;
-
-        return 0;
+        return isWin ? player : 0;
     }
 }
 
