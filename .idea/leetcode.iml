@@ -115,6 +115,8 @@
       <sourceFolder url="file://$MODULE_DIR$/224. Basic Calculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/227. Basic Calculator II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/70. Climbing Stairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/917. Reverse Only Letters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/918. Maximum Sum Circular Subarray" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
