@@ -7,6 +7,7 @@
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
+    <ignored path="Weekly Contest/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,24 +31,12 @@
     <splitter split-orientation="horizontal" split-proportion="0.55722463">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="BasicCalculatorII.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/227. Basic Calculator II/first/BasicCalculatorII.java">
+          <file leaf-file-name="CoinChange.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/322. Coin Change/first/CoinChange.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+                <state relative-caret-position="293">
+                  <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MaxSumCircularSubarrayTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/918. Maximum Sum Circular Subarray/first/MaxSumCircularSubarrayTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="798">
-                  <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -56,11 +45,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="BasicCalculatorIITest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/227. Basic Calculator II/first/BasicCalculatorIITest.java">
+          <file leaf-file-name="CoinChangeTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/322. Coin Change/first/CoinChangeTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="893">
-                  <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+                <state relative-caret-position="437">
+                  <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -108,10 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/first/BinaryTreePreorder.java" />
-        <option value="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/first/BinaryTreePostorderTest.java" />
-        <option value="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/first/BinaryTreePostorder.java" />
-        <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/first/BinaryTreeMaxPath.java" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/first/BinaryTreeMaxPathSumTest.java" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/first/BinaryTreeMaxPathSum.java" />
         <option value="$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindromeTest.java" />
@@ -159,6 +144,10 @@
         <option value="$PROJECT_DIR$/917. Reverse Only Letters/first/ReverseOnlyLettersTest.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/SolutionTest.java" />
         <option value="$PROJECT_DIR$/918. Maximum Sum Circular Subarray/first/MaxSumCircularSubarrayTest.java" />
+        <option value="$PROJECT_DIR$/224. Basic Calculator/first/BasicCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/224. Basic Calculator/first/BasicCalculator.java" />
+        <option value="$PROJECT_DIR$/322. Coin Change/first/CoinChangeTest.java" />
+        <option value="$PROJECT_DIR$/322. Coin Change/first/CoinChange.java" />
       </list>
     </option>
   </component>
@@ -252,45 +241,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="70. Climbing Stairs" type="462c0819:PsiDirectoryNode" />
+              <item name="322. Coin Change" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="70. Climbing Stairs" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="227. Basic Calculator II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="227. Basic Calculator II" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="917. Reverse Only Letters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="917. Reverse Only Letters" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="918. Maximum Sum Circular Subarray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="918. Maximum Sum Circular Subarray" type="462c0819:PsiDirectoryNode" />
+              <item name="322. Coin Change" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -383,8 +339,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxSumCircularSubarrayTest">
-    <configuration name="MaxSumCircularSubarrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CoinChangeTest">
+    <configuration name="BasicCalculatorTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -395,73 +351,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MaxSumCircularSubarrayTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ReverseOnlyLettersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ReverseOnlyLettersTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SolutionTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test06" />
+      <option name="MAIN_CLASS_NAME" value="first.BasicCalculatorTest" />
+      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -474,14 +365,94 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SolutionTest.test09" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="CoinChangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="leetcode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test09" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.CoinChangeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CoinChangeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.CoinChangeTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CoinChangeTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.CoinChangeTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CoinChangeTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.CoinChangeTest" />
+      <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -562,19 +533,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest.test06" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest.test09" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ReverseOnlyLettersTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MaxSumCircularSubarrayTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.BasicCalculatorTest.test03" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CoinChangeTest.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CoinChangeTest.test02" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CoinChangeTest.test04" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CoinChangeTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MaxSumCircularSubarrayTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ReverseOnlyLettersTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest.test09" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest.test06" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CoinChangeTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CoinChangeTest.test04" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CoinChangeTest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CoinChangeTest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BasicCalculatorTest.test03" />
       </list>
     </recent_temporary>
   </component>
@@ -604,20 +575,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00092" summary="Add BFS solution for Jump Game II">
-      <created>1537850209676</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1537850209676</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Add Online Election">
-      <created>1537941627679</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1537941627679</updated>
     </task>
     <task id="LOCAL-00094" summary="Add Snakes and Ladders">
       <created>1537968717724</created>
@@ -948,43 +905,57 @@
       <option name="project" value="LOCAL" />
       <updated>1538895536250</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="Add Maximum Sum Circular Subarray">
+      <created>1538895563278</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1538895563278</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Add Basic Calculator">
+      <created>1538969278875</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1538969278875</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxSumCircularSubarrayTest - 2018.10.07 at 14h 58m 33s.xml">
-      <configuration name="MaxSumCircularSubarrayTest" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest - 2018.10.08 at 13h 11m 59s.xml">
+      <configuration name="CoinChangeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseOnlyLettersTest - 2018.10.07 at 14h 55m 36s.xml">
-      <configuration name="ReverseOnlyLettersTest" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest - 2018.10.08 at 13h 50m 12s.xml">
+      <configuration name="CoinChangeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.10.07 at 14h 46m 03s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest - 2018.10.08 at 13h 51m 08s.xml">
+      <configuration name="CoinChangeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test05 - 2018.10.07 at 10h 43m 36s.xml">
-      <configuration name="SolutionTest.test05" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test02 - 2018.10.08 at 13h 51m 01s.xml">
+      <configuration name="CoinChangeTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test06 - 2018.10.07 at 10h 43m 39s.xml">
-      <configuration name="SolutionTest.test06" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test04 - 2018.10.08 at 12h 45m 34s.xml">
+      <configuration name="CoinChangeTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test06 - 2018.10.07 at 14h 47m 54s.xml">
-      <configuration name="SolutionTest.test06" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test04 - 2018.10.08 at 13h 01m 41s.xml">
+      <configuration name="CoinChangeTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test09 - 2018.10.07 at 14h 47m 59s.xml">
-      <configuration name="SolutionTest.test09" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test04 - 2018.10.08 at 13h 08m 01s.xml">
+      <configuration name="CoinChangeTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test09 - 2018.10.07 at 14h 49m 20s.xml">
-      <configuration name="SolutionTest.test09" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test04 - 2018.10.08 at 13h 10m 42s.xml">
+      <configuration name="CoinChangeTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test09 - 2018.10.07 at 14h 50m 12s.xml">
-      <configuration name="SolutionTest.test09" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test04 - 2018.10.08 at 13h 11m 50s.xml">
+      <configuration name="CoinChangeTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_test09 - 2018.10.07 at 14h 50m 53s.xml">
-      <configuration name="SolutionTest.test09" configurationId="JUnit" />
+    <history-entry file="CoinChangeTest_test04 - 2018.10.08 at 13h 51m 05s.xml">
+      <configuration name="CoinChangeTest.test04" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="403992000" />
+    <option name="totallyTimeSpent" value="412108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1100,8 +1071,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Binary Tree Preorder" />
-    <MESSAGE value="Add Binary Tree Postorder Traversal" />
     <MESSAGE value="Add Binary Tree Maximum Path Sum" />
     <MESSAGE value="Add Count Different Palindromic Subsequences" />
     <MESSAGE value="Add First Unique Character in a String" />
@@ -1125,7 +1094,9 @@
     <MESSAGE value="Add Basic Calculator II" />
     <MESSAGE value="Add Climbing Stairs" />
     <MESSAGE value="Add Reverse Only Letters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Reverse Only Letters" />
+    <MESSAGE value="Add Maximum Sum Circular Subarray" />
+    <MESSAGE value="Add Basic Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Basic Calculator" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1425,15 +1396,16 @@
           <properties />
           <option name="timeStamp" value="255" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/322. Coin Change/first/CoinChange.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="258" />
+      <option name="time" value="262" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="new String(chars)" language="JAVA" />
-        <watch expression="chars[newIndex]" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1471,45 +1443,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/647. Palindromic Substrings/first/PalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/730. Count Different Palindromic Subsequences/first/CountUniquePalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/340. Longest Substring with At Most K Distinct Characters/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/387. First Unique Character in a String/first/FirstUniqueChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1928,14 +1861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/227. Basic Calculator II/first/BasicCalculatorII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/918. Maximum Sum Circular Subarray/first/MaxSumCircularSubarrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -1943,6 +1868,50 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/224. Basic Calculator/first/BasicCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/227. Basic Calculator II/first/BasicCalculatorII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/224. Basic Calculator/first/BasicCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/322. Coin Change/first/CoinChangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/322. Coin Change/first/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
