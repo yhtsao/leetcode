@@ -1,6 +1,5 @@
 package first;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
@@ -46,6 +45,23 @@ public class CourseScheduleIITest {
                 {1, 0},
                 {0, 2},
                 {2, 1}
+        };
+        int[] res = sol.findOrder(numCourses, prerequisties);
+        System.out.println(Arrays.toString(res));
+    }
+
+    @Test
+    public void test05() {
+        int numCourses = 8;
+        int[][] prerequisties = new int[][]{
+                {2, 0},
+                {3, 1},
+                {4, 2},
+                {4, 3},
+                {5, 4},
+                {6, 3},
+                {6, 5},
+                {7, 6},
         };
         int[] res = sol.findOrder(numCourses, prerequisties);
         System.out.println(Arrays.toString(res));
