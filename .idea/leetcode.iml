@@ -121,6 +121,7 @@
       <sourceFolder url="file://$MODULE_DIR$/207. Course Schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/210. Course Schedule II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/269. Alien Dictionary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/919. Complete Binary Tree Inserter" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
