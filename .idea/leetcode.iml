@@ -128,6 +128,7 @@
       <sourceFolder url="file://$MODULE_DIR$/297. Serialize and Deserialize Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/98. Validate Binary Search Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/79. Word Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/230. Kth Smallest Element in a BST" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
