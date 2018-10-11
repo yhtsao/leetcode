@@ -27,30 +27,63 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5901288">
+    <splitter split-orientation="horizontal" split-proportion="0.5772532">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="WordSearch.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/79. Word Search/first/WordSearch.java">
+          <file leaf-file-name="WordBreak.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/139. Word Break/first/WordBreak.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1064">
+                  <caret line="58" column="51" lean-forward="false" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+                  <folding>
+                    <element signature="e#259#260#0" expanded="true" />
+                    <element signature="e#308#309#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WordBreakII.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/140. Word Break II/first/WordBreakII.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="361">
-                  <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+                  <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#210#211#0" expanded="true" />
+                    <element signature="e#272#273#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/String.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="155">
+                  <caret line="1962" column="0" lean-forward="false" selection-start-line="1962" selection-start-column="0" selection-end-line="1962" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="WordSearchII.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="ReflectionUtils.class" pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="174">
+                  <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WordSearchII.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/212. Word Search II/first/WordSearchII.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="456">
-                  <caret line="104" column="29" lean-forward="false" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
+                <state relative-caret-position="320">
+                  <caret line="92" column="5" lean-forward="true" selection-start-line="80" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#210#211#0" expanded="true" />
-                    <element signature="e#264#265#0" expanded="true" />
-                    <element signature="e#2194#2195#0" expanded="true" />
-                    <element signature="e#2238#2239#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -60,11 +93,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="WordSearchTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/79. Word Search/first/WordSearchTest.java">
+          <file leaf-file-name="WordBreakTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/139. Word Break/first/WordBreakTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+                <state relative-caret-position="186">
+                  <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -72,11 +105,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="WordSearchIITest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/212. Word Search II/first/WordSearchIITest.java">
+          <file leaf-file-name="WordBreakIITest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/140. Word Break II/first/WordBreakIITest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="668">
-                  <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+                <state relative-caret-position="361">
+                  <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -124,10 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockII.java" />
-        <option value="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/first/SortedArrayToBST.java" />
-        <option value="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/first/SortedArrayToBSTTest.java" />
-        <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/first/BinaryTreeLevelOrderTest.java" />
         <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/first/BinaryTreeLevelOrder.java" />
         <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/first/BinaryTreeZigzagLevelOrderTest.java" />
         <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/first/BinaryTreeZigzagLevelOrder.java" />
@@ -175,6 +204,10 @@
         <option value="$PROJECT_DIR$/79. Word Search/first/WordSearch.java" />
         <option value="$PROJECT_DIR$/212. Word Search II/first/WordSearchII.java" />
         <option value="$PROJECT_DIR$/212. Word Search II/first/WordSearchIITest.java" />
+        <option value="$PROJECT_DIR$/139. Word Break/first/WordBreakTest.java" />
+        <option value="$PROJECT_DIR$/139. Word Break/first/WordBreak.java" />
+        <option value="$PROJECT_DIR$/140. Word Break II/first/WordBreakIITest.java" />
+        <option value="$PROJECT_DIR$/140. Word Break II/first/WordBreakII.java" />
       </list>
     </option>
   </component>
@@ -279,6 +312,28 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="139. Word Break" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="139. Word Break" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="140. Word Break II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="140. Word Break II" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="212. Word Search II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -378,8 +433,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WordSearchIITest.test02">
-    <configuration name="WordSearchIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WordBreakIITest">
+    <configuration name="WordBreakIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -390,82 +445,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordSearchIITest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WordSearchIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordSearchIITest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WordSearchIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordSearchIITest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WordSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordSearchTest" />
+      <option name="MAIN_CLASS_NAME" value="first.WordBreakIITest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -479,7 +459,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="WordSearchTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordBreakIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -490,9 +470,84 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordSearchTest" />
+      <option name="MAIN_CLASS_NAME" value="first.WordBreakIITest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="WordBreakIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.WordBreakIITest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="WordBreakIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.WordBreakIITest" />
       <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="WordBreakTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.WordBreakTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -572,19 +627,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.WordSearchTest.test03" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WordSearchTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.WordSearchIITest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.WordSearchIITest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.WordSearchIITest.test03" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.WordBreakTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.WordBreakIITest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.WordBreakIITest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WordBreakIITest.test03" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.WordBreakIITest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.WordSearchIITest.test02" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.WordSearchIITest.test03" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.WordSearchIITest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WordSearchTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.WordSearchTest.test03" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.WordBreakIITest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WordBreakIITest.test03" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.WordBreakIITest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.WordBreakIITest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.WordBreakTest" />
       </list>
     </recent_temporary>
   </component>
@@ -614,20 +669,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00105" summary="Add Plus One">
-      <created>1538135976890</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1538135976890</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Add Sqrx(x)">
-      <created>1538139587136</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1538139587136</updated>
     </task>
     <task id="LOCAL-00107" summary="Add Exclusive Time Of Functions">
       <created>1538210124990</created>
@@ -958,43 +999,57 @@
       <option name="project" value="LOCAL" />
       <updated>1539157583028</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Add Word Search II">
+      <created>1539185475174</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1539185475174</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Add Word Break">
+      <created>1539230819701</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1539230819705</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WordSearchIITest_test01 - 2018.10.10 at 20h 28m 30s.xml">
-      <configuration name="WordSearchIITest.test01" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest - 2018.10.11 at 15h 08m 54s.xml">
+      <configuration name="WordBreakIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchIITest_test01 - 2018.10.10 at 23h 24m 40s.xml">
-      <configuration name="WordSearchIITest.test01" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest_test01 - 2018.10.11 at 15h 04m 27s.xml">
+      <configuration name="WordBreakIITest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchIITest_test02 - 2018.10.10 at 20h 28m 44s.xml">
-      <configuration name="WordSearchIITest.test02" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest_test02 - 2018.10.11 at 14h 58m 20s.xml">
+      <configuration name="WordBreakIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchIITest_test02 - 2018.10.10 at 20h 29m 08s.xml">
-      <configuration name="WordSearchIITest.test02" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest_test02 - 2018.10.11 at 14h 59m 29s.xml">
+      <configuration name="WordBreakIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchIITest_test02 - 2018.10.10 at 23h 26m 49s.xml">
-      <configuration name="WordSearchIITest.test02" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest_test02 - 2018.10.11 at 15h 01m 10s.xml">
+      <configuration name="WordBreakIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchIITest_test02 - 2018.10.10 at 23h 30m 11s.xml">
-      <configuration name="WordSearchIITest.test02" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest_test02 - 2018.10.11 at 15h 04m 19s.xml">
+      <configuration name="WordBreakIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchIITest_test03 - 2018.10.10 at 23h 30m 06s.xml">
-      <configuration name="WordSearchIITest.test03" configurationId="JUnit" />
+    <history-entry file="WordBreakIITest_test03 - 2018.10.11 at 15h 04m 30s.xml">
+      <configuration name="WordBreakIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchTest - 2018.10.10 at 15h 44m 42s.xml">
-      <configuration name="WordSearchTest" configurationId="JUnit" />
+    <history-entry file="WordBreakTest - 2018.10.11 at 12h 05m 53s.xml">
+      <configuration name="WordBreakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchTest - 2018.10.10 at 15h 45m 03s.xml">
-      <configuration name="WordSearchTest" configurationId="JUnit" />
+    <history-entry file="WordBreakTest_test01 - 2018.10.11 at 12h 05m 50s.xml">
+      <configuration name="WordBreakTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordSearchTest - 2018.10.10 at 15h 45m 30s.xml">
-      <configuration name="WordSearchTest" configurationId="JUnit" />
+    <history-entry file="WordBreakTest_test02 - 2018.10.11 at 12h 05m 43s.xml">
+      <configuration name="WordBreakTest.test02" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="448108000" />
+    <option name="totallyTimeSpent" value="458563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1015,7 +1070,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.50572246" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22298221" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16826266" sideWeight="0.49427754" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34473324" sideWeight="0.49427754" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19562243" sideWeight="0.49427754" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1110,8 +1165,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Best Time to Buy and Sell Stock" />
-    <MESSAGE value="Add Best Time to Buy and Sell Stock II" />
     <MESSAGE value="Add Convert Sorted Array to Binary Search Tree" />
     <MESSAGE value="Add Binary Tree Level Order Traversal (2 Queue solution)" />
     <MESSAGE value="Add Binary Tree Level Order Traversal (1 Queue solution)" />
@@ -1135,7 +1188,9 @@
     <MESSAGE value="Add Serialize and Deserialize Binary Tree" />
     <MESSAGE value="Add Recursive solution for Serialize and Deserialize Binary Tree" />
     <MESSAGE value="Add Word Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Word Search" />
+    <MESSAGE value="Add Word Search II" />
+    <MESSAGE value="Add Word Break" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Word Break" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1501,8 +1556,20 @@
           <properties />
           <option name="timeStamp" value="281" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/139. Word Break/first/WordBreak.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/140. Word Break II/first/WordBreakII.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="283" />
+      <option name="time" value="289" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1542,56 +1609,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/first/BinaryTreeLevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/first/BinaryTreeLevelOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/first/BinaryTreeZigzagLevelOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/first/BinaryTreeZigzagLevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/94. Binary Tree Inorder Traversal/first/BinaryTreeInorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/first/ContructBstFromPreorderAndInorderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1990,14 +2007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="180" column="45" lean-forward="false" selection-start-line="180" selection-start-column="45" selection-end-line="180" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/79. Word Search/first/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -2016,16 +2025,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/139. Word Break/first/WordBreakTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/212. Word Search II/first/WordSearchII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="104" column="29" lean-forward="false" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
+        <state relative-caret-position="320">
+          <caret line="92" column="5" lean-forward="true" selection-start-line="80" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/139. Word Break/first/WordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="58" column="51" lean-forward="false" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="1962" column="0" lean-forward="false" selection-start-line="1962" selection-start-column="0" selection-end-line="1962" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140. Word Break II/first/WordBreakIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/140. Word Break II/first/WordBreakII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#2194#2195#0" expanded="true" />
-            <element signature="e#2238#2239#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
