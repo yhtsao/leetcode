@@ -1,6 +1,6 @@
 package first;
 
-import first.dp.NumMatrix;
+import first.bit.NumMatrix;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
