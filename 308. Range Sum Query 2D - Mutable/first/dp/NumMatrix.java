@@ -8,9 +8,6 @@ public class NumMatrix {
         this.matrix = matrix;
         this.rowSum = new int[matrix.length][matrix[0].length + 1];
 
-        for (int i = 0; i < matrix.length; i++)
-            rowSum[i][0] = 0;
-
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++)
                 rowSum[i][j + 1] = rowSum[i][j] + matrix[i][j];

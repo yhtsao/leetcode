@@ -134,6 +134,7 @@
       <sourceFolder url="file://$MODULE_DIR$/920. Number of Music Playlists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/307. Range Sum Query - Mutable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/303. Range Sum Query - Immutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/304. Range Sum Query 2D - Immutable" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
