@@ -129,6 +129,10 @@
       <sourceFolder url="file://$MODULE_DIR$/98. Validate Binary Search Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/79. Word Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/230. Kth Smallest Element in a BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/239. Sliding Window Maximum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/308. Range Sum Query 2D - Mutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/920. Number of Music Playlists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/307. Range Sum Query - Mutable" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
