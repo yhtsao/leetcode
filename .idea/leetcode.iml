@@ -140,6 +140,7 @@
       <sourceFolder url="file://$MODULE_DIR$/91. Decode Ways" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/138. Copy List with Random Pointer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/315. Count of Smaller Numbers After Self" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/327. Count of Range Sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
