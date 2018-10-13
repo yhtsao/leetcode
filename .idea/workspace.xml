@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -34,22 +33,14 @@
     <splitter split-orientation="horizontal" split-proportion="0.6244635">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="CountPrimes.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/204. Count Primes/first/CountPrimes.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="21" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="21" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ContainDuplicates.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="ContainDuplicates.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicates.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-                  <folding />
+                <state relative-caret-position="247">
+                  <caret line="13" column="21" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="13" selection-end-column="21" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -73,9 +64,11 @@
           <file leaf-file-name="ContainDuplicatesTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicatesTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-                  <folding />
+                <state relative-caret-position="418">
+                  <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -120,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/269. Alien Dictionary/first/AlienDictionary.java" />
-        <option value="$PROJECT_DIR$/269. Alien Dictionary/first/AlienDictionaryTest.java" />
         <option value="$PROJECT_DIR$/919. Complete Binary Tree Inserter/first/CompleteBSTInsert.java" />
         <option value="$PROJECT_DIR$/919. Complete Binary Tree Inserter/first/CompleteBSTInserter.java" />
         <option value="$PROJECT_DIR$/919. Complete Binary Tree Inserter/first/CBTInserterTest.java" />
@@ -171,6 +162,8 @@
         <option value="$PROJECT_DIR$/327. Count of Range Sum/first/CountRangeSum.java" />
         <option value="$PROJECT_DIR$/204. Count Primes/first/CountPrimesTest.java" />
         <option value="$PROJECT_DIR$/204. Count Primes/first/CountPrimes.java" />
+        <option value="$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicates.java" />
+        <option value="$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicatesTest.java" />
       </list>
     </option>
   </component>
@@ -380,7 +373,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CountPrimesTest.test02">
+  <component name="RunManager" selected="JUnit.ContainDuplicatesTest">
+    <configuration name="ContainDuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.ContainDuplicatesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="CountPrimesTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -481,31 +499,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SmallerCountAfterSelfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SmallerCountAfterSelfTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -574,19 +567,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SmallerCountAfterSelfTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest.test04" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest.test04" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ContainDuplicatesTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest.test04" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SmallerCountAfterSelfTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ContainDuplicatesTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CountRangeSumTest.test04" />
       </list>
     </recent_temporary>
   </component>
@@ -616,13 +609,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00120" summary="Add First Unique Character in a String">
-      <created>1538466465340</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1538466465340</updated>
     </task>
     <task id="LOCAL-00121" summary="Add Longest Substring with At Least K Repeating Characters">
       <created>1538479388009</created>
@@ -960,10 +946,20 @@
       <option name="project" value="LOCAL" />
       <updated>1539440016785</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="Add Count Primes">
+      <created>1539441359699</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1539441359700</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="ContainDuplicatesTest - 2018.10.13 at 22h 38m 39s.xml">
+      <configuration name="ContainDuplicatesTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="CountPrimesTest_test01 - 2018.10.13 at 22h 24m 10s.xml">
       <configuration name="CountPrimesTest.test01" configurationId="JUnit" />
     </history-entry>
@@ -991,12 +987,9 @@
     <history-entry file="CountRangeSumTest_test04 - 2018.10.13 at 22h 07m 29s.xml">
       <configuration name="CountRangeSumTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallerCountAfterSelfTest - 2018.10.13 at 14h 46m 39s.xml">
-      <configuration name="SmallerCountAfterSelfTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="493562000" />
+    <option name="totallyTimeSpent" value="493796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1112,7 +1105,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add BFS solution for Course Schedule I&amp;II" />
     <MESSAGE value="Add DFS solution for Course Schedule II" />
     <MESSAGE value="Add BFS solution for Alien Dictionary" />
     <MESSAGE value="Add README for Alien Dictionary" />
@@ -1137,7 +1129,8 @@
     <MESSAGE value="Add Count of Smaller Numbers After Self" />
     <MESSAGE value="Add Binary Search tree and Binary index tree solution for &quot;Count of Smaller Numbers After Self&quot;" />
     <MESSAGE value="Add Count of Range Sum (Super hard!!!)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Count of Range Sum (Super hard!!!)" />
+    <MESSAGE value="Add Count Primes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Count Primes" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1678,25 +1671,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/204. Count Primes/first/CountPrimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
