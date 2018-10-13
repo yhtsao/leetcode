@@ -30,14 +30,51 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6244635">
+    <splitter split-orientation="horizontal" split-proportion="0.55293274">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="DeleteNodeInLinkedList.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="DeleteNodeInLinkedList.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/237. Delete Node in a Linked List/first/DeleteNodeInLinkedList.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="190">
-                  <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CopyRandomPtrList.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="551">
+                  <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RandomListNode.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/common/common/RandomListNode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#143#144#0" expanded="true" />
+                    <element signature="e#173#174#0" expanded="true" />
+                    <element signature="e#578#579#0" expanded="true" />
+                    <element signature="e#629#630#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/common/common/ListNode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="348">
+                  <caret line="41" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -47,11 +84,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="DeleteNodeInLinkedListTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/237. Delete Node in a Linked List/first/DeleteNodeInLinkedListTest.java">
+          <file leaf-file-name="CopyRandomPtrListTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrListTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+                <state relative-caret-position="418">
+                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -99,9 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/919. Complete Binary Tree Inserter/first/CBTInserterTest.java" />
-        <option value="$PROJECT_DIR$/common/common/TreeNode.java" />
-        <option value="$PROJECT_DIR$/919. Complete Binary Tree Inserter/first/CBTInserter.java" />
         <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/first/ValidateBSTtest.java" />
         <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/first/ValidateBSTTest.java" />
         <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/first/ValidateBST.java" />
@@ -150,6 +184,9 @@
         <option value="$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/237. Delete Node in a Linked List/first/DeleteNodeInLinkedList.java" />
         <option value="$PROJECT_DIR$/237. Delete Node in a Linked List/first/DeleteNodeInLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/common/common/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrListTest.java" />
+        <option value="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java" />
       </list>
     </option>
   </component>
@@ -243,46 +280,24 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="204. Count Primes" type="462c0819:PsiDirectoryNode" />
+              <item name="138. Copy List with Random Pointer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="204. Count Primes" type="462c0819:PsiDirectoryNode" />
+              <item name="138. Copy List with Random Pointer" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="217. Contains Duplicate" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="217. Contains Duplicate" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="237. Delete Node in a Linked List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="237. Delete Node in a Linked List" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="327. Count of Range Sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="327. Count of Range Sum" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,7 +385,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DeleteNodeInLinkedListTest.test02">
+  <component name="RunManager" selected="JUnit.CopyRandomPtrListTest.test01">
     <configuration name="ContainDuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -396,7 +411,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CountPrimesTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CopyRandomPtrListTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -407,7 +422,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.CountPrimesTest" />
+      <option name="MAIN_CLASS_NAME" value="first.CopyRandomPtrListTest" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -564,19 +579,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ContainDuplicatesTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test02" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ContainDuplicatesTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CopyRandomPtrListTest.test01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test02" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ContainDuplicatesTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CopyRandomPtrListTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DeleteNodeInLinkedListTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ContainDuplicatesTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CountPrimesTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -606,13 +621,6 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-    </task>
-    <task id="LOCAL-00122" summary="Add two pointers solution for Longest Substring with At Least K Repeating Characters">
-      <created>1538547985897</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1538547985897</updated>
     </task>
     <task id="LOCAL-00123" summary="Update Longest Substrings without Repeating Characters">
       <created>1538549643118</created>
@@ -950,30 +958,37 @@
       <option name="project" value="LOCAL" />
       <updated>1539441602178</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Add Delete Node in a Linked List">
+      <created>1539442195729</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1539442195729</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="ContainDuplicatesTest - 2018.10.13 at 22h 38m 39s.xml">
       <configuration name="ContainDuplicatesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountPrimesTest_test01 - 2018.10.13 at 22h 24m 10s.xml">
-      <configuration name="CountPrimesTest.test01" configurationId="JUnit" />
+    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.13 at 23h 09m 26s.xml">
+      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountPrimesTest_test01 - 2018.10.13 at 22h 26m 53s.xml">
-      <configuration name="CountPrimesTest.test01" configurationId="JUnit" />
+    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.13 at 23h 21m 32s.xml">
+      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountPrimesTest_test01 - 2018.10.13 at 22h 32m 52s.xml">
-      <configuration name="CountPrimesTest.test01" configurationId="JUnit" />
+    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.13 at 23h 23m 14s.xml">
+      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountPrimesTest_test02 - 2018.10.13 at 22h 24m 15s.xml">
-      <configuration name="CountPrimesTest.test02" configurationId="JUnit" />
+    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.13 at 23h 26m 11s.xml">
+      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountPrimesTest_test02 - 2018.10.13 at 22h 27m 00s.xml">
-      <configuration name="CountPrimesTest.test02" configurationId="JUnit" />
+    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.13 at 23h 28m 44s.xml">
+      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountPrimesTest_test02 - 2018.10.13 at 22h 32m 54s.xml">
-      <configuration name="CountPrimesTest.test02" configurationId="JUnit" />
+    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.13 at 23h 31m 15s.xml">
+      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DeleteNodeInLinkedListTest_test01 - 2018.10.13 at 22h 42m 16s.xml">
       <configuration name="DeleteNodeInLinkedListTest.test01" configurationId="JUnit" />
@@ -986,7 +1001,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="494209000" />
+    <option name="totallyTimeSpent" value="496239000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1102,7 +1117,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add BFS solution for Alien Dictionary" />
     <MESSAGE value="Add README for Alien Dictionary" />
     <MESSAGE value="Add Complete Binary Tree Inserter" />
     <MESSAGE value="Add Validate Binary Search Tree" />
@@ -1127,7 +1141,8 @@
     <MESSAGE value="Add Count of Range Sum (Super hard!!!)" />
     <MESSAGE value="Add Count Primes" />
     <MESSAGE value="Add Contains Duplicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Contains Duplicate" />
+    <MESSAGE value="Add Delete Node in a Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Delete Node in a Linked List" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1187,10 +1202,20 @@
           <properties />
           <option name="timeStamp" value="322" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrListTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="323" />
+      <option name="time" value="327" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="queue.toString()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1228,38 +1253,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/first/dp/ValidateBSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/first/dp/ValidateBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/first/dp/FindKthInBSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/first/dp/FindKthInBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/first/dp/CodecRecursiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1292,14 +1285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/common/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/79. Word Search/first/dp/WordSearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1320,14 +1305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="668">
           <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1691,8 +1668,65 @@
     <entry file="file://$PROJECT_DIR$/237. Delete Node in a Linked List/first/DeleteNodeInLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
