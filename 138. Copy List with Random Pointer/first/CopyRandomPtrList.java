@@ -8,6 +8,19 @@ import java.util.Map;
 public class CopyRandomPtrList {
     public RandomListNode copyRandomList(RandomListNode head) {
         if (head == null) return null;
+        RandomListNode cur = head;
+        while (cur != null) {
+            RandomListNode next = new RandomListNode(cur.label);
+            next.next = cur.next;
+            cur.next = next;
+            cur = cur.next;
+        }
+        return copyRandomListHash(head);
+    }
+
+    // time: O(n), space: O(n)
+    public RandomListNode copyRandomListHash(RandomListNode head) {
+        if (head == null) return null;
         Map<RandomListNode, RandomListNode> map = new HashMap<>();
         RandomListNode root = new RandomListNode(head.label);
         RandomListNode cur = root;
@@ -23,7 +36,6 @@ public class CopyRandomPtrList {
 
             if (head.random != null) {
                 if (!map.containsKey(head.random)) {
-
                     cur.random = new RandomListNode(head.random.label);
                     map.put(head.random, cur.random);
                 } else
