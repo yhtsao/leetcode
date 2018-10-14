@@ -147,6 +147,7 @@
       <sourceFolder url="file://$MODULE_DIR$/921. Minimum Add to Make Parentheses Valid" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/922. Sort Array By Parity II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/923. 3Sum With Multiplicity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/418. Sentence Screen Fitting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
