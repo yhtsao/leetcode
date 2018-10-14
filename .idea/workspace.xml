@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java" afterPath="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/common/RandomListNode.java" afterPath="$PROJECT_DIR$/common/common/RandomListNode.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -32,17 +30,15 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6809728">
+    <splitter split-orientation="horizontal" split-proportion="0.6709585">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="CopyRandomPtrList.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java">
+          <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWays.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="171">
+                  <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -51,24 +47,14 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="CopyRandomPtrListTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrListTest.java">
+          <file leaf-file-name="DecodeWaysTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWaysTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+                <state relative-caret-position="1235">
+                  <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="RandomListNode.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/common/common/RandomListNode.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="215">
-                  <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -113,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/212. Word Search II/first/WordSearchII.java" />
-        <option value="$PROJECT_DIR$/212. Word Search II/first/WordSearchIITest.java" />
         <option value="$PROJECT_DIR$/139. Word Break/first/WordBreakTest.java" />
         <option value="$PROJECT_DIR$/139. Word Break/first/WordBreak.java" />
         <option value="$PROJECT_DIR$/140. Word Break II/first/WordBreakIITest.java" />
@@ -164,6 +148,8 @@
         <option value="$PROJECT_DIR$/922. Sort Array By Parity II/first/SortArrayByParityIITest.java" />
         <option value="$PROJECT_DIR$/common/common/RandomListNode.java" />
         <option value="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java" />
+        <option value="$PROJECT_DIR$/91. Decode Ways/first/DecodeWaysTest.java" />
+        <option value="$PROJECT_DIR$/91. Decode Ways/first/DecodeWays.java" />
       </list>
     </option>
   </component>
@@ -378,8 +364,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CopyRandomPtrListTest.test01">
-    <configuration name="CopyRandomPtrListTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DecodeWaysTest">
+    <configuration name="DecodeWaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -390,32 +376,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.CopyRandomPtrListTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MinAddToValidParentheseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MinAddToValidParentheseTest" />
+      <option name="MAIN_CLASS_NAME" value="first.DecodeWaysTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -429,14 +390,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SolutionTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="DecodeWaysTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="leetcode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -449,7 +415,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SortArrayByParityIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DecodeWaysTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -460,8 +426,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SortArrayByParityIITest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="first.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="test05" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -474,7 +440,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ThreeSumWithMultiplicityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DecodeWaysTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -485,9 +451,34 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ThreeSumWithMultiplicityTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="first.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DecodeWaysTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="test07" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -567,19 +558,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ThreeSumWithMultiplicityTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MinAddToValidParentheseTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SortArrayByParityIITest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CopyRandomPtrListTest.test01" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test02" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test05" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test06" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test07" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CopyRandomPtrListTest.test01" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SortArrayByParityIITest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MinAddToValidParentheseTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest.test01" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ThreeSumWithMultiplicityTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test07" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test05" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.test06" />
       </list>
     </recent_temporary>
   </component>
@@ -609,14 +600,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="14326000" />
-    </task>
-    <task id="LOCAL-00127" summary="Add 4 Sum II">
-      <created>1538643965014</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1538643965014</updated>
+      <workItem from="1539480757328" duration="19686000" />
     </task>
     <task id="LOCAL-00128" summary="Add Unique Substrings in Wraparound String">
       <created>1538657848790</created>
@@ -954,43 +938,50 @@
       <option name="project" value="LOCAL" />
       <updated>1539500715178</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="Update Copy List with Random Pointer">
+      <created>1539509767172</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1539509767173</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 16h 34m 07s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest - 2018.10.14 at 18h 57m 11s.xml">
+      <configuration name="DecodeWaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 13m 31s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest - 2018.10.14 at 19h 11m 36s.xml">
+      <configuration name="DecodeWaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 15m 47s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test02 - 2018.10.14 at 18h 57m 08s.xml">
+      <configuration name="DecodeWaysTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 16m 10s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test05 - 2018.10.14 at 18h 57m 03s.xml">
+      <configuration name="DecodeWaysTest.test05" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 22m 40s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test06 - 2018.10.14 at 18h 27m 54s.xml">
+      <configuration name="DecodeWaysTest.test06" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 27m 59s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test06 - 2018.10.14 at 18h 56m 49s.xml">
+      <configuration name="DecodeWaysTest.test06" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 28m 17s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test07 - 2018.10.14 at 19h 10m 05s.xml">
+      <configuration name="DecodeWaysTest.test07" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 31m 10s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test07 - 2018.10.14 at 19h 10m 34s.xml">
+      <configuration name="DecodeWaysTest.test07" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 34m 18s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test07 - 2018.10.14 at 19h 11m 11s.xml">
+      <configuration name="DecodeWaysTest.test07" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CopyRandomPtrListTest_test01 - 2018.10.14 at 17h 34m 38s.xml">
-      <configuration name="CopyRandomPtrListTest.test01" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_test07 - 2018.10.14 at 19h 11m 30s.xml">
+      <configuration name="DecodeWaysTest.test07" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="511844000" />
+    <option name="totallyTimeSpent" value="517204000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1014,7 +1005,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11764706" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13662376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13662376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1064,7 +1055,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Serialize and Deserialize Binary Tree" />
     <MESSAGE value="Add Recursive solution for Serialize and Deserialize Binary Tree" />
     <MESSAGE value="Add Word Search" />
     <MESSAGE value="Add Word Search II" />
@@ -1089,7 +1079,8 @@
     <MESSAGE value="Add 3 Sum With Multiplicity" />
     <MESSAGE value="Add Minimum Add to Make Parentheses Valid" />
     <MESSAGE value="Add Sort Array By Parity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Sort Array By Parity" />
+    <MESSAGE value="Update Copy List with Random Pointer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Copy List with Random Pointer" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1185,12 +1176,24 @@
           <properties />
           <option name="timeStamp" value="355" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWays.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWaysTest.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="357" />
+      <option name="time" value="363" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="head.toString()" language="JAVA" />
+        <watch expression="Arrays.toString(dp)" language="JAVA" custom="java.util.Arrays" />
       </configuration>
     </watches-manager>
   </component>
@@ -1230,7 +1233,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/139. Word Break/first/dp/WordBreak.java" />
     <entry file="file://$PROJECT_DIR$/140. Word Break II/first/dp/WordBreakIITest.java" />
     <entry file="file://$PROJECT_DIR$/212. Word Search II/first/dp/WordSearchII.java" />
     <entry file="file://$PROJECT_DIR$/139. Word Break/first/dp/WordBreakTest.java" />
@@ -1490,13 +1492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15. 3Sum/first/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -1589,11 +1584,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        <state relative-caret-position="760">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWaysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/91. Decode Ways/first/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
