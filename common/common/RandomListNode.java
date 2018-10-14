@@ -20,6 +20,13 @@ public class RandomListNode {
     }
 
     public String toString() {
-        return Integer.toString(this.label);
+        StringBuilder sb = new StringBuilder();
+        sb.append(this.label);
+        RandomListNode cur = this.next;
+        while (cur != null) {
+            sb.append(" -> ").append(cur.label);
+            cur = cur.next;
+        }
+        return sb.toString();
     }
 }
