@@ -87,7 +87,7 @@
             <entry file="file://$PROJECT_DIR$/344. Reverse String/first/ReverseStringTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="152">
-                  <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+                  <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -647,14 +647,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="34544000" />
-    </task>
-    <task id="LOCAL-00133" summary="Add Binary Tree Level Order Traversal (1 Queue solution)">
-      <created>1538710355159</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1538710355159</updated>
+      <workItem from="1539480757328" duration="34560000" />
     </task>
     <task id="LOCAL-00134" summary="Add Binary Tree Zigzag Level Order Traversal">
       <created>1538711555538</created>
@@ -992,7 +985,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539616842423</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Add Reverse String">
+      <created>1539617620364</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1539617620364</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1028,7 +1028,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="532062000" />
+    <option name="totallyTimeSpent" value="532078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1128,7 +1128,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Range Sum Query - Mutable" />
     <MESSAGE value="Add Range Sum Query - Immutable" />
     <MESSAGE value="Add Range Sum Query 2D - Mutable (DP solution)" />
     <MESSAGE value="Add Range Sum Query 2D - Mutable (Binary Index Tree solution)" />
@@ -1153,7 +1152,8 @@
     <MESSAGE value="Update solution for Sentence Screen Fitting" />
     <MESSAGE value="Update Longest Substring with At Most K Distinct Characters" />
     <MESSAGE value="Add Max Points on a Line" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Max Points on a Line" />
+    <MESSAGE value="Add Reverse String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Reverse String" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1724,7 +1724,7 @@
     <entry file="file://$PROJECT_DIR$/344. Reverse String/first/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
