@@ -148,6 +148,7 @@
       <sourceFolder url="file://$MODULE_DIR$/922. Sort Array By Parity II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/923. 3Sum With Multiplicity" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/418. Sentence Screen Fitting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/149. Max Points on a Line" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
