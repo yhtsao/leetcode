@@ -41,4 +41,13 @@ public class SentenceScreenFittingTest {
         int res = sol.wordsTyping(sentence, rows, cols);
         Assertions.assertEquals(ans, res);
     }
+
+    @Test
+    public void test05() {
+        String[] sentence = new String[]{"I", "eat", "yo"};
+        int rows = 5, cols = 7;
+        int ans = 3;
+        int res = sol.wordsTyping(sentence, rows, cols);
+        Assertions.assertEquals(ans, res);
+    }
 }
