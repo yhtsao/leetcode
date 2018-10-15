@@ -94,8 +94,6 @@
       <sourceFolder url="file://$MODULE_DIR$/730. Count Different Palindromic Subsequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/146. LRU Cache" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/283. Move Zeroes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/387. First Unique Character in a String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/438. Find All Anagrams in a String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
@@ -107,7 +105,6 @@
       <sourceFolder url="file://$MODULE_DIR$/102. Binary Tree Level Order Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/103. Binary Tree Zigzag Level Order Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/348. Design Tic-Tac-Toe" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/70. Climbing Stairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/917. Reverse Only Letters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/918. Maximum Sum Circular Subarray" isTestSource="false" />
@@ -149,6 +146,12 @@
       <sourceFolder url="file://$MODULE_DIR$/923. 3Sum With Multiplicity" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/418. Sentence Screen Fitting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/149. Max Points on a Line" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/295. Find Median from Data Stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/344. Reverse String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/348. Design Tic-Tac-Toe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/387. First Unique Character in a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/412. Fizz Buzz" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
