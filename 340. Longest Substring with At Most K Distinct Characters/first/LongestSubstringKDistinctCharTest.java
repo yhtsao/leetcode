@@ -28,6 +28,14 @@ public class LongestSubstringKDistinctCharTest {
         }
     }
 
+    @Test
+    public void test03() {
+        String s = "nfhiexxjrtvpfhkrxcutexxcodfioburrtjefrgwrnqtyzelvtpvwdvvpsbudwtiryqzzy";
+        int k = 25;
+        Assertions.assertEquals(solution.correctAns(s, k),
+                solution.lengthOfLongestSubstringKistinct(s, k));
+    }
+
     private String randomString(int k) {
         Random rand = new Random();
         int len = rand.nextInt(50) + 5;
