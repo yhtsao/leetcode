@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -31,40 +30,40 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55078685">
+    <splitter split-orientation="horizontal" split-proportion="0.58512163">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="MedianFinder.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java">
+            <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/tree/MedianFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
                   <folding>
-                    <element signature="e#202#203#0" expanded="true" />
-                    <element signature="e#226#227#0" expanded="true" />
+                    <element signature="e#393#394#0" expanded="true" />
+                    <element signature="e#422#423#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ReverseString.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/344. Reverse String/first/ReverseString.java">
+          <file leaf-file-name="MedianFinder.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/412. Fizz Buzz/first/FizzBuzz.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="190">
-                  <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+                <state relative-caret-position="608">
+                  <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
+            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="134">
+                  <caret line="335" column="0" lean-forward="false" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -73,21 +72,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="MedianFinderTest.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="MedianFinderTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinderTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ReverseStringTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/344. Reverse String/first/ReverseStringTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+                <state relative-caret-position="180">
+                  <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -135,8 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/first/NumMatrixTest.java" />
-        <option value="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/first/bit/NumMatrix.java" />
         <option value="$PROJECT_DIR$/304. Range Sum Query 2D - Immutable/first/NumMatrixImmutableTest.java" />
         <option value="$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/first/dp/NumMatrix.java" />
         <option value="$PROJECT_DIR$/304. Range Sum Query 2D - Immutable/first/NumMatrixImmutable.java" />
@@ -182,10 +169,12 @@
         <option value="$PROJECT_DIR$/common/common/Point.java" />
         <option value="$PROJECT_DIR$/149. Max Points on a Line/first/MaxPointOnLineTest.java" />
         <option value="$PROJECT_DIR$/149. Max Points on a Line/first/MaxPointOnLine.java" />
-        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java" />
         <option value="$PROJECT_DIR$/344. Reverse String/first/ReverseString.java" />
         <option value="$PROJECT_DIR$/344. Reverse String/first/ReverseStringTest.java" />
         <option value="$PROJECT_DIR$/412. Fizz Buzz/first/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/tree/MedianFinder.java" />
+        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinderTest.java" />
+        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java" />
       </list>
     </option>
   </component>
@@ -316,13 +305,8 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="412. Fizz Buzz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="412. Fizz Buzz" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="295. Find Median from Data Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -411,11 +395,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseStringTest.test01">
+  <component name="RunManager" selected="JUnit.MedianFinderTest.test02">
     <configuration name="MaxPointOnLineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="first.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,60 +421,10 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MaxPointOnLineTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MaxPointOnLineTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MaxPointOnLineTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MaxPointOnLineTest" />
-      <option name="METHOD_NAME" value="test07" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="MaxPointOnLineTest.test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="first.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -512,10 +446,60 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="MedianFinderTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MedianFinderTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MedianFinderTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MedianFinderTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="ReverseStringTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="first.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -606,18 +590,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test07" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test08" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ReverseStringTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test08" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ReverseStringTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MedianFinderTest.test01" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MedianFinderTest.test02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ReverseStringTest.test01" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test08" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test03" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test07" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MedianFinderTest.test02" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MedianFinderTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ReverseStringTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MaxPointOnLineTest.test08" />
       </list>
     </recent_temporary>
   </component>
@@ -647,14 +631,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="34560000" />
-    </task>
-    <task id="LOCAL-00134" summary="Add Binary Tree Zigzag Level Order Traversal">
-      <created>1538711555538</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1538711555539</updated>
+      <workItem from="1539480757328" duration="40171000" />
     </task>
     <task id="LOCAL-00135" summary="Add Construct Binary Tree from Preorder and Inorder Traversal">
       <created>1538715741598</created>
@@ -992,43 +969,50 @@
       <option name="project" value="LOCAL" />
       <updated>1539617620364</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="Add Fizz Buzz">
+      <created>1539617640323</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1539617640323</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxPointOnLineTest - 2018.10.15 at 22h 36m 29s.xml">
-      <configuration name="MaxPointOnLineTest" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 22m 41s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest - 2018.10.15 at 22h 36m 49s.xml">
-      <configuration name="MaxPointOnLineTest" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 29m 36s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest - 2018.10.15 at 23h 01m 27s.xml">
-      <configuration name="MaxPointOnLineTest" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 31m 45s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest - 2018.10.15 at 23h 02m 42s.xml">
-      <configuration name="MaxPointOnLineTest" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 32m 20s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest - 2018.10.15 at 23h 18m 03s.xml">
-      <configuration name="MaxPointOnLineTest" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 33m 05s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest_test03 - 2018.10.15 at 23h 02m 17s.xml">
-      <configuration name="MaxPointOnLineTest.test03" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 33m 14s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest_test03 - 2018.10.15 at 23h 02m 39s.xml">
-      <configuration name="MaxPointOnLineTest.test03" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 33m 42s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest_test08 - 2018.10.15 at 23h 07m 56s.xml">
-      <configuration name="MaxPointOnLineTest.test08" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 34m 00s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxPointOnLineTest_test08 - 2018.10.15 at 23h 17m 58s.xml">
-      <configuration name="MaxPointOnLineTest.test08" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test01 - 2018.10.16 at 11h 38m 49s.xml">
+      <configuration name="MedianFinderTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseStringTest_test01 - 2018.10.15 at 23h 29m 18s.xml">
-      <configuration name="ReverseStringTest.test01" configurationId="JUnit" />
+    <history-entry file="MedianFinderTest_test02 - 2018.10.16 at 11h 38m 53s.xml">
+      <configuration name="MedianFinderTest.test02" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="532078000" />
+    <option name="totallyTimeSpent" value="537689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1050,13 +1034,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2134063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11764706" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69220245" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13662376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.037911303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1504788" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4131327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1078,19 +1062,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2134063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2134063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11764706" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13662376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.037911303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1504788" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4131327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1128,7 +1112,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Range Sum Query - Immutable" />
     <MESSAGE value="Add Range Sum Query 2D - Mutable (DP solution)" />
     <MESSAGE value="Add Range Sum Query 2D - Mutable (Binary Index Tree solution)" />
     <MESSAGE value="Add Range Sum Query 2D - Immutable" />
@@ -1153,7 +1136,8 @@
     <MESSAGE value="Update Longest Substring with At Most K Distinct Characters" />
     <MESSAGE value="Add Max Points on a Line" />
     <MESSAGE value="Add Reverse String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Reverse String" />
+    <MESSAGE value="Add Fizz Buzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Fizz Buzz" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1273,8 +1257,14 @@
           <properties />
           <option name="timeStamp" value="370" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="371" />
+      <option name="time" value="378" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1314,20 +1304,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/308. Range Sum Query 2D - Mutable/first/NumMatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/first/SlidingWindowMaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1702,29 +1678,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/344. Reverse String/first/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/412. Fizz Buzz/first/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1739,10 +1706,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/412. Fizz Buzz/first/FizzBuzz.java">
+    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/tree/MedianFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="335" column="0" lean-forward="false" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
