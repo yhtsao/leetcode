@@ -152,6 +152,7 @@
       <sourceFolder url="file://$MODULE_DIR$/387. First Unique Character in a String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/412. Fizz Buzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/329. Longest Increasing Path in a Matrix" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
