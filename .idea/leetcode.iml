@@ -160,6 +160,7 @@
       <sourceFolder url="file://$MODULE_DIR$/246. Strobogrammatic Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/247. Strobogrammatic Number II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/126. Word Ladder II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/433. Minimum Genetic Mutation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
