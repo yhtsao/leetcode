@@ -34,23 +34,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5472103">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="MinGeneticMutation.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutation.java">
+          <file leaf-file-name="StrobogrammaticNumber.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/246. Strobogrammatic Number/first/StrobogrammaticNumber.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="67">
-                  <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="58" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="-210">
+                  <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/127. Word Ladder/first/WordLadder.java">
+          <file leaf-file-name="StrobogrammaticNumberII.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberII.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+                <state relative-caret-position="-38">
+                  <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -60,11 +58,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="MinGeneticMutationTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutationTest.java">
+          <file leaf-file-name="StrobogrammaticNumberIITest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberIITest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="627">
-                  <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+                <state relative-caret-position="209">
+                  <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -116,8 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/327. Count of Range Sum/first/CountRangeSumTest.java" />
-        <option value="$PROJECT_DIR$/327. Count of Range Sum/first/CountRangeSum.java" />
         <option value="$PROJECT_DIR$/204. Count Primes/first/CountPrimesTest.java" />
         <option value="$PROJECT_DIR$/204. Count Primes/first/CountPrimes.java" />
         <option value="$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicates.java" />
@@ -167,6 +163,8 @@
         <option value="$PROJECT_DIR$/126. Word Ladder II/first/WordLadderII.java" />
         <option value="$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutationTest.java" />
         <option value="$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutation.java" />
+        <option value="$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberIITest.java" />
+        <option value="$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberII.java" />
       </list>
     </option>
   </component>
@@ -275,23 +273,23 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="130. Surrounded Regions" type="462c0819:PsiDirectoryNode" />
+              <item name="246. Strobogrammatic Number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="130. Surrounded Regions" type="462c0819:PsiDirectoryNode" />
+              <item name="246. Strobogrammatic Number" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="166. Fraction to Recurring Decimal" type="462c0819:PsiDirectoryNode" />
+              <item name="247. Strobogrammatic Number II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="166. Fraction to Recurring Decimal" type="462c0819:PsiDirectoryNode" />
+              <item name="247. Strobogrammatic Number II" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -304,17 +302,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="433. Minimum Genetic Mutation" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -392,7 +379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MinGeneticMutationTest">
+  <component name="RunManager" selected="JUnit.StrobogrammaticNumberIITest.test04">
     <configuration name="MinGeneticMutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -418,7 +405,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MinGeneticMutationTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrobogrammaticNumberIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -429,7 +416,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MinGeneticMutationTest" />
+      <option name="MAIN_CLASS_NAME" value="first.StrobogrammaticNumberIITest" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -443,7 +430,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MinGeneticMutationTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrobogrammaticNumberIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -454,7 +441,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MinGeneticMutationTest" />
+      <option name="MAIN_CLASS_NAME" value="first.StrobogrammaticNumberIITest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -468,7 +455,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="WordLadderIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrobogrammaticNumberIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -479,8 +466,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordLadderIITest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="first.StrobogrammaticNumberIITest" />
+      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -493,7 +480,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="WordLadderIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StrobogrammaticNumberIITest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -504,8 +491,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WordLadderIITest" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="MAIN_CLASS_NAME" value="first.StrobogrammaticNumberIITest" />
+      <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -586,19 +573,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.WordLadderIITest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WordLadderIITest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test02" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test03" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WordLadderIITest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.WordLadderIITest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test04" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test03" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StrobogrammaticNumberIITest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MinGeneticMutationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -628,14 +615,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="60059000" />
-    </task>
-    <task id="LOCAL-00142" summary="Add Basic Calculator">
-      <created>1538969278875</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1538969278875</updated>
+      <workItem from="1539480757328" duration="62155000" />
     </task>
     <task id="LOCAL-00143" summary="Add Coin Change">
       <created>1538977925212</created>
@@ -973,43 +953,50 @@
       <option name="project" value="LOCAL" />
       <updated>1539739490787</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="Add Minimum Genetic Mutation">
+      <created>1539741606681</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1539741606681</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MinGeneticMutationTest - 2018.10.17 at 09h 47m 22s.xml">
-      <configuration name="MinGeneticMutationTest" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test02 - 2018.10.17 at 10h 32m 24s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinGeneticMutationTest_test01 - 2018.10.17 at 09h 46m 22s.xml">
-      <configuration name="MinGeneticMutationTest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test02 - 2018.10.17 at 10h 32m 48s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinGeneticMutationTest_test01 - 2018.10.17 at 09h 47m 04s.xml">
-      <configuration name="MinGeneticMutationTest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 32m 54s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MinGeneticMutationTest_test02 - 2018.10.17 at 09h 47m 08s.xml">
-      <configuration name="MinGeneticMutationTest.test02" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 33m 30s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordLadderIITest_test01 - 2018.10.17 at 08h 49m 59s.xml">
-      <configuration name="WordLadderIITest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 33m 51s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordLadderIITest_test01 - 2018.10.17 at 08h 51m 33s.xml">
-      <configuration name="WordLadderIITest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 35m 16s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordLadderIITest_test01 - 2018.10.17 at 08h 53m 31s.xml">
-      <configuration name="WordLadderIITest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 35m 54s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordLadderIITest_test01 - 2018.10.17 at 08h 56m 48s.xml">
-      <configuration name="WordLadderIITest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 36m 16s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordLadderIITest_test01 - 2018.10.17 at 08h 58m 10s.xml">
-      <configuration name="WordLadderIITest.test01" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test03 - 2018.10.17 at 10h 36m 43s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordLadderIITest_test02 - 2018.10.17 at 08h 58m 18s.xml">
-      <configuration name="WordLadderIITest.test02" configurationId="JUnit" />
+    <history-entry file="StrobogrammaticNumberIITest_test04 - 2018.10.17 at 10h 36m 50s.xml">
+      <configuration name="StrobogrammaticNumberIITest.test04" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="557577000" />
+    <option name="totallyTimeSpent" value="559673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1033,11 +1020,11 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36798906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3502052" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1062,16 +1049,16 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36798906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36798906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1109,7 +1096,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Count of Smaller Numbers After Self" />
     <MESSAGE value="Add Binary Search tree and Binary index tree solution for &quot;Count of Smaller Numbers After Self&quot;" />
     <MESSAGE value="Add Count of Range Sum (Super hard!!!)" />
     <MESSAGE value="Add Count Primes" />
@@ -1134,7 +1120,8 @@
     <MESSAGE value="Add Word Ladder" />
     <MESSAGE value="Add Strobogrammatic Number" />
     <MESSAGE value="Add Word Ladder II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Word Ladder II" />
+    <MESSAGE value="Add Minimum Genetic Mutation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Minimum Genetic Mutation" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1278,12 +1265,24 @@
           <properties />
           <option name="timeStamp" value="403" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberII.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberII.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="404" />
+      <option name="time" value="411" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="queue.toString()" language="JAVA" />
+        <watch expression="res.toString()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1323,21 +1322,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/204. Count Primes/first/CountPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicatesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/217. Contains Duplicate/first/ContainDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1698,17 +1682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/246. Strobogrammatic Number/first/StrobogrammaticNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/246. Strobogrammatic Number/first/StrobogrammaticNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -1726,14 +1699,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1755,31 +1720,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/127. Word Ladder/first/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="58" />
+        <state relative-caret-position="76">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/433. Minimum Genetic Mutation/first/MinGeneticMutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="174" column="33" lean-forward="true" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/246. Strobogrammatic Number/first/StrobogrammaticNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/247. Strobogrammatic Number II/first/StrobogrammaticNumberII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
