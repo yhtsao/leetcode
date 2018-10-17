@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -31,14 +30,14 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.65665233">
+    <splitter split-orientation="horizontal" split-proportion="0.4792561">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SingleNumber.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumber.java">
+          <file leaf-file-name="MaximumDepthofBinaryTree.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTree.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <state relative-caret-position="171">
+                  <caret line="9" column="57" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="57" />
                   <folding />
                 </state>
               </provider>
@@ -48,11 +47,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SingleNumberTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumberTest.java">
+          <file leaf-file-name="MaximumDepthofBinaryTreeTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTreeTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+                <state relative-caret-position="171">
+                  <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -104,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/922. Sort Array By Parity II/first/SortArrayByParityIITest.java" />
-        <option value="$PROJECT_DIR$/common/common/RandomListNode.java" />
         <option value="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java" />
         <option value="$PROJECT_DIR$/91. Decode Ways/first/DecodeWaysTest.java" />
         <option value="$PROJECT_DIR$/91. Decode Ways/first/DecodeWays.java" />
@@ -155,6 +152,8 @@
         <option value="$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java" />
         <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumberTest.java" />
         <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTreeTest.java" />
+        <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -263,6 +262,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="104. Maximum Depth of Binary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="104. Maximum Depth of Binary Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="136. Single Number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -358,7 +368,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SingleNumberTest">
+  <component name="RunManager" selected="JUnit.MaximumDepthofBinaryTreeTest">
+    <configuration name="MaximumDepthofBinaryTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MaximumDepthofBinaryTreeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MaximumDepthofBinaryTreeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MaximumDepthofBinaryTreeTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="SingleNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -373,56 +433,6 @@
       <option name="MAIN_CLASS_NAME" value="first.SingleNumberTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WiggleSortTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WiggleSortTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WiggleSortTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WiggleSortTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -552,19 +562,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SingleNumberTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SingleNumberTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MaximumDepthofBinaryTreeTest.test01" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MaximumDepthofBinaryTreeTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SingleNumberTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MaximumDepthofBinaryTreeTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MaximumDepthofBinaryTreeTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SingleNumberTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
       </list>
     </recent_temporary>
   </component>
@@ -594,14 +604,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="85134000" />
-    </task>
-    <task id="LOCAL-00151" summary="Add Serialize and Deserialize Binary Tree">
-      <created>1539144959602</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1539144959603</updated>
+      <workItem from="1539480757328" duration="85567000" />
     </task>
     <task id="LOCAL-00152" summary="Add Recursive solution for Serialize and Deserialize Binary Tree">
       <created>1539147094595</created>
@@ -939,15 +942,22 @@
       <option name="project" value="LOCAL" />
       <updated>1539789989755</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="Add Single Number">
+      <created>1539790578172</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1539790578172</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaximumProductSubarrayTest - 2018.10.17 at 21h 01m 04s.xml">
-      <configuration name="MaximumProductSubarrayTest" configurationId="JUnit" />
+    <history-entry file="MaximumDepthofBinaryTreeTest - 2018.10.17 at 23h 45m 41s.xml">
+      <configuration name="MaximumDepthofBinaryTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximumProductSubarrayTest - 2018.10.17 at 21h 01m 15s.xml">
-      <configuration name="MaximumProductSubarrayTest" configurationId="JUnit" />
+    <history-entry file="MaximumDepthofBinaryTreeTest_test01 - 2018.10.17 at 23h 44m 38s.xml">
+      <configuration name="MaximumDepthofBinaryTreeTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MaximumProductSubarrayTest - 2018.10.17 at 21h 03m 40s.xml">
       <configuration name="MaximumProductSubarrayTest" configurationId="JUnit" />
@@ -975,7 +985,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="582652000" />
+    <option name="totallyTimeSpent" value="583085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1075,7 +1085,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Sort Array By Parity" />
     <MESSAGE value="Update Copy List with Random Pointer" />
     <MESSAGE value="Add Decode Ways" />
     <MESSAGE value="Add Sentence Screen Fitting" />
@@ -1100,7 +1109,8 @@
     <MESSAGE value="Add Largest Number" />
     <MESSAGE value="Add Maximum Product Subarray" />
     <MESSAGE value="Add Wiggle Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Wiggle Sort" />
+    <MESSAGE value="Add Single Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Single Number" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1313,25 +1323,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/418. Sentence Screen Fitting/first/SentenceScreenFitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/340. Longest Substring with At Most K Distinct Characters/first/LongestSubstringKDistinctCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/340. Longest Substring with At Most K Distinct Characters/first/LongestSubstringKDistinctChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1790,7 +1781,25 @@
     <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="57" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="57" />
           <folding />
         </state>
       </provider>
