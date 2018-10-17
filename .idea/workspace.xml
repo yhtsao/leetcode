@@ -34,11 +34,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.65665233">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="WiggleSort.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java">
+          <file leaf-file-name="SingleNumber.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumber.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+                <state relative-caret-position="228">
+                  <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -48,11 +48,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="WiggleSortTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSortTest.java">
+          <file leaf-file-name="SingleNumberTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumberTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+                <state relative-caret-position="361">
+                  <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -104,8 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Weekly Contest/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/922. Sort Array By Parity II/first/SortArrayByParityII.java" />
         <option value="$PROJECT_DIR$/922. Sort Array By Parity II/first/SortArrayByParityIITest.java" />
         <option value="$PROJECT_DIR$/common/common/RandomListNode.java" />
         <option value="$PROJECT_DIR$/138. Copy List with Random Pointer/first/CopyRandomPtrList.java" />
@@ -155,6 +153,8 @@
         <option value="$PROJECT_DIR$/152. Maximum Product Subarray/first/MaximumProductSubarray.java" />
         <option value="$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSortTest.java" />
         <option value="$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java" />
+        <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumberTest.java" />
+        <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumber.java" />
       </list>
     </option>
   </component>
@@ -263,23 +263,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="280. Wiggle Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="136. Single Number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="280. Wiggle Sort" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="324. Wiggle Sort II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="324. Wiggle Sort II" type="462c0819:PsiDirectoryNode" />
+              <item name="136. Single Number" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -369,8 +358,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WiggleSortTest.test04">
-    <configuration name="MaximumProductSubarrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SingleNumberTest">
+    <configuration name="SingleNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -381,7 +370,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MaximumProductSubarrayTest" />
+      <option name="MAIN_CLASS_NAME" value="first.SingleNumberTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -563,19 +552,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MaximumProductSubarrayTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test01" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test02" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SingleNumberTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test01" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MaximumProductSubarrayTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SingleNumberTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test04" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test03" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.WiggleSortTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -605,14 +594,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="84598000" />
-    </task>
-    <task id="LOCAL-00150" summary="Add Kth Smallest Element in a BST">
-      <created>1539139186816</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1539139186816</updated>
+      <workItem from="1539480757328" duration="85134000" />
     </task>
     <task id="LOCAL-00151" summary="Add Serialize and Deserialize Binary Tree">
       <created>1539144959602</created>
@@ -950,7 +932,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539781755604</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="Add Wiggle Sort">
+      <created>1539789989753</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1539789989755</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -966,8 +955,8 @@
     <history-entry file="MaximumProductSubarrayTest - 2018.10.17 at 21h 07m 03s.xml">
       <configuration name="MaximumProductSubarrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximumProductSubarrayTest_test04 - 2018.10.17 at 21h 01m 00s.xml">
-      <configuration name="MaximumProductSubarrayTest.test04" configurationId="JUnit" />
+    <history-entry file="SingleNumberTest - 2018.10.17 at 23h 35m 14s.xml">
+      <configuration name="SingleNumberTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WiggleSortTest_test01 - 2018.10.17 at 23h 19m 59s.xml">
       <configuration name="WiggleSortTest.test01" configurationId="JUnit" />
@@ -986,7 +975,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="582116000" />
+    <option name="totallyTimeSpent" value="582652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -999,7 +988,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1008,7 +996,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1038,9 +1026,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1087,7 +1075,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Minimum Add to Make Parentheses Valid" />
     <MESSAGE value="Add Sort Array By Parity" />
     <MESSAGE value="Update Copy List with Random Pointer" />
     <MESSAGE value="Add Decode Ways" />
@@ -1112,7 +1099,8 @@
     <MESSAGE value="Add Minimize Malware Spread" />
     <MESSAGE value="Add Largest Number" />
     <MESSAGE value="Add Maximum Product Subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Maximum Product Subarray" />
+    <MESSAGE value="Add Wiggle Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Wiggle Sort" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1325,24 +1313,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/418. Sentence Screen Fitting/first/SentenceScreenFittingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/418. Sentence Screen Fitting/first/SentenceScreenFitting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
@@ -1791,8 +1761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        <state relative-caret-position="380">
+          <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1801,8 +1771,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="247">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/136. Single Number/first/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
