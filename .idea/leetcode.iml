@@ -153,9 +153,6 @@
       <sourceFolder url="file://$MODULE_DIR$/145. Binary Tree Postorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/146. LRU Cache" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/149. Max Points on a Line" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/155. Min Stack" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/243. Shortest Word Distance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/246. Strobogrammatic Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/247. Strobogrammatic Number II" isTestSource="false" />
@@ -163,6 +160,11 @@
       <sourceFolder url="file://$MODULE_DIR$/433. Minimum Genetic Mutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/248. Strobogrammatic Number III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/924. Minimize Malware Spread" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/152. Maximum Product Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155. Min Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
