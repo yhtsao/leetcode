@@ -15,17 +15,11 @@ public class StrobogrammaticNumberII {
         map.put("6", "9");
         map.put("9", "6");
 
-        if (n == 0) return new ArrayList<>();
-        if (n == 1) return Arrays.asList("0", "1", "8");
-
-        List<String> dfsResult = dfs(map, n);
-        List<String> res = new ArrayList<>();
-        for (String num : dfsResult)
-            if (num.charAt(0) != '0') res.add(num);
+        List<String> res = recur(map, n, n);
         return res;
     }
 
-    private List<String> dfs(Map<String, String> map, int n) {
+    private List<String> recur(Map<String, String> map, int target, int n) {
         List<String> res = new ArrayList<>();
         if (n == 1)
             return Arrays.asList("0", "1", "8");
@@ -34,11 +28,12 @@ public class StrobogrammaticNumberII {
             return res;
         }
 
-        List<String> otherList = dfs(map, n - 2);
+        List<String> innerStrList = recur(map, target, n - 2);
         for (Map.Entry<String, String> entry : map.entrySet()) {
-            for (String other : otherList) {
+            for (String innerStr : innerStrList) {
+                if (target == n && entry.getKey().equals("0")) continue;
                 StringBuilder sb = new StringBuilder();
-                sb.append(entry.getKey()).append(other).append(entry.getValue());
+                sb.append(entry.getKey()).append(innerStr).append(entry.getValue());
                 res.add(sb.toString());
             }
         }
