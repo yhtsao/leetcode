@@ -47,11 +47,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BitwiseAndOfRange.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java">
+          <file leaf-file-name="NumberOf1Bits.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1Bits.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+                <state relative-caret-position="209">
+                  <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -75,11 +75,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BitwiseAndOfRangeTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRangeTest.java">
+          <file leaf-file-name="NumberOf1BitsTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1BitsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="475">
-                  <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+                <state relative-caret-position="798">
+                  <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -131,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/340. Longest Substring with At Most K Distinct Characters/first/LongestSubstringKDistinctChar.java" />
-        <option value="$PROJECT_DIR$/common/common/Point.java" />
         <option value="$PROJECT_DIR$/149. Max Points on a Line/first/MaxPointOnLineTest.java" />
         <option value="$PROJECT_DIR$/149. Max Points on a Line/first/MaxPointOnLine.java" />
         <option value="$PROJECT_DIR$/344. Reverse String/first/ReverseString.java" />
@@ -182,6 +180,8 @@
         <option value="$PROJECT_DIR$/371. Sum of Two Integers/first/SumOfTwoIntTest.java" />
         <option value="$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java" />
         <option value="$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRangeTest.java" />
+        <option value="$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1BitsTest.java" />
+        <option value="$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1Bits.java" />
       </list>
     </option>
   </component>
@@ -290,12 +290,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="201. Bitwise AND of Numbers Range" type="462c0819:PsiDirectoryNode" />
+              <item name="191. Number of 1 Bits" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="201. Bitwise AND of Numbers Range" type="462c0819:PsiDirectoryNode" />
+              <item name="191. Number of 1 Bits" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -407,7 +407,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BitwiseAndOfRangeTest.test03">
+  <component name="RunManager" selected="JUnit.NumberOf1BitsTest">
     <configuration name="BitwiseAndOfRangeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -483,7 +483,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MissingNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOf1BitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -494,7 +494,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.MissingNumberTest" />
+      <option name="MAIN_CLASS_NAME" value="first.NumberOf1BitsTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -508,7 +508,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SumOfTwoIntTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOf1BitsTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -519,8 +519,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.SumOfTwoIntTest" />
-      <option name="METHOD_NAME" value="test04" />
+      <option name="MAIN_CLASS_NAME" value="first.NumberOf1BitsTest" />
+      <option name="METHOD_NAME" value="test05" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -601,19 +601,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MissingNumberTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SumOfTwoIntTest.test04" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test02" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test03" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test02" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test03" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.NumberOf1BitsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NumberOf1BitsTest.test05" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test03" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SumOfTwoIntTest.test04" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MissingNumberTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NumberOf1BitsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.NumberOf1BitsTest.test05" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test03" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BitwiseAndOfRangeTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -643,14 +643,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="87375000" />
-    </task>
-    <task id="LOCAL-00154" summary="Add Word Search II">
-      <created>1539185475174</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1539185475174</updated>
+      <workItem from="1539480757328" duration="88245000" />
     </task>
     <task id="LOCAL-00155" summary="Add Word Break">
       <created>1539230819701</created>
@@ -988,7 +981,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539825241796</updated>
     </task>
-    <option name="localTasksCounter" value="203" />
+    <task id="LOCAL-00203" summary="Add Bitwise AND of Numbers Range">
+      <created>1539827546432</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1539827546432</updated>
+    </task>
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1001,30 +1001,30 @@
     <history-entry file="BitwiseAndOfRangeTest_test03 - 2018.10.18 at 09h 47m 29s.xml">
       <configuration name="BitwiseAndOfRangeTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximumDepthofBinaryTreeTest - 2018.10.17 at 23h 45m 41s.xml">
-      <configuration name="MaximumDepthofBinaryTreeTest" configurationId="JUnit" />
+    <history-entry file="NumberOf1BitsTest - 2018.10.18 at 09h 58m 04s.xml">
+      <configuration name="NumberOf1BitsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximumDepthofBinaryTreeTest_test01 - 2018.10.17 at 23h 44m 38s.xml">
-      <configuration name="MaximumDepthofBinaryTreeTest.test01" configurationId="JUnit" />
+    <history-entry file="NumberOf1BitsTest - 2018.10.18 at 10h 06m 20s.xml">
+      <configuration name="NumberOf1BitsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MissingNumberTest - 2018.10.18 at 09h 10m 11s.xml">
-      <configuration name="MissingNumberTest" configurationId="JUnit" />
+    <history-entry file="NumberOf1BitsTest_test05 - 2018.10.18 at 10h 01m 46s.xml">
+      <configuration name="NumberOf1BitsTest.test05" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MissingNumberTest - 2018.10.18 at 09h 12m 30s.xml">
-      <configuration name="MissingNumberTest" configurationId="JUnit" />
+    <history-entry file="NumberOf1BitsTest_test05 - 2018.10.18 at 10h 03m 30s.xml">
+      <configuration name="NumberOf1BitsTest.test05" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SingleNumberTest - 2018.10.17 at 23h 35m 14s.xml">
-      <configuration name="SingleNumberTest" configurationId="JUnit" />
+    <history-entry file="NumberOf1BitsTest_test05 - 2018.10.18 at 10h 05m 11s.xml">
+      <configuration name="NumberOf1BitsTest.test05" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfTwoIntTest_test04 - 2018.10.18 at 09h 23m 17s.xml">
-      <configuration name="SumOfTwoIntTest.test04" configurationId="JUnit" />
+    <history-entry file="NumberOf1BitsTest_test05 - 2018.10.18 at 10h 06m 11s.xml">
+      <configuration name="NumberOf1BitsTest.test05" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SumOfTwoIntTest_test04 - 2018.10.18 at 09h 23m 27s.xml">
       <configuration name="SumOfTwoIntTest.test04" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="584893000" />
+    <option name="totallyTimeSpent" value="585763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1124,7 +1124,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Sentence Screen Fitting" />
     <MESSAGE value="Update solution for Sentence Screen Fitting" />
     <MESSAGE value="Update Longest Substring with At Most K Distinct Characters" />
     <MESSAGE value="Add Max Points on a Line" />
@@ -1149,7 +1148,8 @@
     <MESSAGE value="Add Single Number" />
     <MESSAGE value="Add Maximum Depth of Binary Tree" />
     <MESSAGE value="Add Missing Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Missing Number" />
+    <MESSAGE value="Add Bitwise AND of Numbers Range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Bitwise AND of Numbers Range" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1318,7 +1318,7 @@
           <option name="timeStamp" value="441" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="442" />
+      <option name="time" value="445" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1362,25 +1362,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/344. Reverse String/first/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/tree/MedianFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1806,6 +1787,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/371. Sum of Two Integers/first/SumOfTwoInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1829,20 +1828,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRangeTest.java">
+    <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1BitsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="798">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java">
+    <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1Bits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
