@@ -23,4 +23,13 @@ public class KthLargestElemInArrayTest {
         int res = sol.findKthLargest(nums, k);
         Assertions.assertEquals(ans, res);
     }
+
+    @Test
+    public void test03() {
+        int[] nums = new int[]{4, 6, 1, 5, 3, 2};
+        int k = 3;
+        int ans = 4;
+        int res = sol.findKthLargest(nums, k);
+        Assertions.assertEquals(ans, res);
+    }
 }
