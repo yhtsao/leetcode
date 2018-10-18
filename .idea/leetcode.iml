@@ -171,6 +171,8 @@
       <sourceFolder url="file://$MODULE_DIR$/324. Wiggle Sort II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/104. Maximum Depth of Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/136. Single Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/371. Sum of Two Integers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/268. Missing Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
