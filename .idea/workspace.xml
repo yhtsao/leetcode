@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java" afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArrayTest.java" afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArrayTest.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -32,19 +31,15 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57439196">
+    <splitter split-orientation="horizontal" split-proportion="0.7525036">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="KthLargestElemInArray.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java">
+          <file leaf-file-name="EvalRPN.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPN.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#160#161#0" expanded="true" />
-                    <element signature="e#213#214#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="304">
+                  <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -53,11 +48,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="KthLargestElemInArrayTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArrayTest.java">
+          <file leaf-file-name="EvalRPNTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPNTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="171">
-                  <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <state relative-caret-position="475">
+                  <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -109,8 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/166. Fraction to Recurring Decimal/first/FractionToRecurringDecimalTest.java" />
-        <option value="$PROJECT_DIR$/166. Fraction to Recurring Decimal/first/FractionToRecurringDecimal.java" />
         <option value="$PROJECT_DIR$/130. Surrounded Regions/first/SurroundedRegions.java" />
         <option value="$PROJECT_DIR$/130. Surrounded Regions/first/SurroundedRegionsTest.java" />
         <option value="$PROJECT_DIR$/127. Word Ladder/first/WordLadderTest.java" />
@@ -160,6 +153,8 @@
         <option value="$PROJECT_DIR$/324. Wiggle Sort II/first/WiggleSortII.java" />
         <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArrayTest.java" />
         <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java" />
+        <option value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPNTest.java" />
+        <option value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPN.java" />
       </list>
     </option>
   </component>
@@ -274,6 +269,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="137. Single Number II" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="150. Evaluate Reverse Polish Notation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="150. Evaluate Reverse Polish Notation" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -429,7 +435,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.KthLargestElemInArrayTest">
+  <component name="RunManager" selected="JUnit.EvalRPNTest.test03">
+    <configuration name="EvalRPNTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.EvalRPNTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EvalRPNTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.EvalRPNTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EvalRPNTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.EvalRPNTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="KthLargestElemInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -468,81 +549,6 @@
       <option name="PACKAGE_NAME" value="first" />
       <option name="MAIN_CLASS_NAME" value="first.KthLargestElemInArrayTest" />
       <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="KthLargestElemInArrayTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KthLargestElemInArrayTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WiggleSortIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WiggleSortIITest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="WiggleSortIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.WiggleSortIITest" />
-      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -623,19 +629,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.WiggleSortIITest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.WiggleSortIITest.test03" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest.test03" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EvalRPNTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.EvalRPNTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.EvalRPNTest.test03" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest.test03" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WiggleSortIITest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.WiggleSortIITest.test03" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.EvalRPNTest.test03" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EvalRPNTest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EvalRPNTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KthLargestElemInArrayTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -665,14 +671,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="100113000" />
-    </task>
-    <task id="LOCAL-00163" summary="Add Min Stack">
-      <created>1539314696093</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1539314696097</updated>
+      <workItem from="1539480757328" duration="101245000" />
     </task>
     <task id="LOCAL-00164" summary="Add Max Stack">
       <created>1539331851178</created>
@@ -1010,24 +1009,34 @@
       <option name="project" value="LOCAL" />
       <updated>1539866594559</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="Update quick select solution for Kth Largest Element in an Array">
+      <created>1539869235766</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1539869235766</updated>
+    </task>
+    <option name="localTasksCounter" value="213" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KthLargestElemInArrayTest - 2018.10.18 at 20h 36m 18s.xml">
-      <configuration name="KthLargestElemInArrayTest" configurationId="JUnit" />
+    <history-entry file="EvalRPNTest_test01 - 2018.10.18 at 22h 31m 09s.xml">
+      <configuration name="EvalRPNTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KthLargestElemInArrayTest - 2018.10.18 at 20h 40m 21s.xml">
-      <configuration name="KthLargestElemInArrayTest" configurationId="JUnit" />
+    <history-entry file="EvalRPNTest_test02 - 2018.10.18 at 22h 31m 14s.xml">
+      <configuration name="EvalRPNTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvalRPNTest_test03 - 2018.10.18 at 22h 31m 17s.xml">
+      <configuration name="EvalRPNTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvalRPNTest_test03 - 2018.10.18 at 22h 32m 35s.xml">
+      <configuration name="EvalRPNTest.test03" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KthLargestElemInArrayTest - 2018.10.18 at 21h 23m 33s.xml">
       <configuration name="KthLargestElemInArrayTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KthLargestElemInArrayTest - 2018.10.18 at 21h 25m 56s.xml">
       <configuration name="KthLargestElemInArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KthLargestElemInArrayTest_test01 - 2018.10.18 at 20h 40m 17s.xml">
-      <configuration name="KthLargestElemInArrayTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KthLargestElemInArrayTest_test01 - 2018.10.18 at 21h 25m 50s.xml">
       <configuration name="KthLargestElemInArrayTest.test01" configurationId="JUnit" />
@@ -1041,12 +1050,9 @@
     <history-entry file="KthLargestElemInArrayTest_test03 - 2018.10.18 at 21h 23m 28s.xml">
       <configuration name="KthLargestElemInArrayTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WiggleSortIITest_test02 - 2018.10.18 at 20h 20m 43s.xml">
-      <configuration name="WiggleSortIITest.test02" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="597631000" />
+    <option name="totallyTimeSpent" value="598763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1064,11 +1070,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1093,13 +1099,13 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1146,7 +1152,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Surrounded Regions" />
     <MESSAGE value="Add Word Ladder" />
     <MESSAGE value="Add Strobogrammatic Number" />
     <MESSAGE value="Add Word Ladder II" />
@@ -1171,7 +1176,8 @@
     <MESSAGE value="Add Single Number III" />
     <MESSAGE value="Add Wiggle Sort II" />
     <MESSAGE value="Add Kth Largest Element in an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Kth Largest Element in an Array" />
+    <MESSAGE value="Update quick select solution for Kth Largest Element in an Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update quick select solution for Kth Largest Element in an Array" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1351,13 +1357,18 @@
           <properties />
           <option name="timeStamp" value="451" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPN.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="453" />
+      <option name="time" value="454" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="Arrays.toString(nums)" language="JAVA" custom="java.util.Arrays" />
-        <watch expression="pq.peek()" language="JAVA" />
+        <watch expression="stack.toString()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1397,26 +1408,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/130. Surrounded Regions/first/SurroundedRegionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="81" column="26" lean-forward="false" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/246. Strobogrammatic Number/first/StrobogrammaticNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/127. Word Ladder/first/WordLadderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -1882,13 +1873,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="399">
+          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#160#161#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPNTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
