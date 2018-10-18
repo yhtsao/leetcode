@@ -34,11 +34,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.58360654">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SingleNumberII.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="SingleNumberII.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/137. Single Number II/first/SingleNumberII.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="38" column="17" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="38" selection-end-column="17" />
+                <state relative-caret-position="209">
+                  <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
                   <folding>
                     <element signature="e#86#87#0" expanded="true" />
                     <element signature="e#135#136#0" expanded="true" />
@@ -47,15 +47,37 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="SingleNumberIII.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/260. Single Number III/first/SingleNumberIII.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="456">
+                  <caret line="24" column="19" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SingleNumberIITest.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="SingleNumberIITest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/137. Single Number II/first/SingleNumberIITest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="323">
                   <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SingleNumberIIITest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/260. Single Number III/first/SingleNumberIIITest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="228">
+                  <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="43" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -107,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/412. Fizz Buzz/first/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/tree/MedianFinder.java" />
         <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinderTest.java" />
         <option value="$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java" />
         <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/first/LongestIncreasingPathTest.java" />
@@ -158,6 +178,8 @@
         <option value="$PROJECT_DIR$/190. Reverse Bits/first/ReverseBits.java" />
         <option value="$PROJECT_DIR$/137. Single Number II/first/SingleNumberIITest.java" />
         <option value="$PROJECT_DIR$/137. Single Number II/first/SingleNumberII.java" />
+        <option value="$PROJECT_DIR$/260. Single Number III/first/SingleNumberIIITest.java" />
+        <option value="$PROJECT_DIR$/260. Single Number III/first/SingleNumberIII.java" />
       </list>
     </option>
   </component>
@@ -288,6 +310,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="260. Single Number III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="260. Single Number III" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="268. Missing Number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -394,7 +427,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SingleNumberIITest">
+  <component name="RunManager" selected="JUnit.SingleNumberIIITest">
     <configuration name="ReverseBitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -420,7 +453,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ReverseBitsTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingleNumberIIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -431,9 +464,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ReverseBitsTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="first.SingleNumberIIITest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -588,19 +621,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ReverseBitsTest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ReverseBitsTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ReverseBitsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test02" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SingleNumberIIITest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ReverseBitsTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ReverseBitsTest.test02" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SingleNumberIIITest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SingleNumberIITest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ReverseBitsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -630,14 +663,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="93261000" />
-    </task>
-    <task id="LOCAL-00159" summary="Add Range Sum Query 2D - Mutable (DP solution)">
-      <created>1539268463520</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1539268463520</updated>
+      <workItem from="1539480757328" duration="94072000" />
     </task>
     <task id="LOCAL-00160" summary="Add Range Sum Query 2D - Mutable (Binary Index Tree solution)">
       <created>1539271396514</created>
@@ -975,7 +1001,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539831993200</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="Add Single Number II">
+      <created>1539847924646</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1539847924651</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -987,6 +1020,9 @@
     </history-entry>
     <history-entry file="ReverseBitsTest_test02 - 2018.10.18 at 10h 43m 37s.xml">
       <configuration name="ReverseBitsTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingleNumberIIITest - 2018.10.18 at 16h 34m 20s.xml">
+      <configuration name="SingleNumberIIITest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SingleNumberIITest - 2018.10.18 at 13h 50m 02s.xml">
       <configuration name="SingleNumberIITest" configurationId="JUnit" />
@@ -1006,12 +1042,9 @@
     <history-entry file="SumOfTwoIntTest_test03 - 2018.10.18 at 10h 14m 36s.xml">
       <configuration name="SumOfTwoIntTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfTwoIntTest_test04 - 2018.10.18 at 10h 14m 29s.xml">
-      <configuration name="SumOfTwoIntTest.test04" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="590779000" />
+    <option name="totallyTimeSpent" value="591590000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1062,9 +1095,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1111,7 +1144,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Fizz Buzz" />
     <MESSAGE value="Add Find Median from Data Stream" />
     <MESSAGE value="Add Longest Increasing Path in a Matrix" />
     <MESSAGE value="Add Fraction to Recurring Decimal" />
@@ -1136,7 +1168,8 @@
     <MESSAGE value="Add Sum of Two Integers" />
     <MESSAGE value="Update Sum of Two Integers" />
     <MESSAGE value="Add Reverse Bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Reverse Bits" />
+    <MESSAGE value="Add Single Number II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Single Number II" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1305,7 +1338,7 @@
           <option name="timeStamp" value="441" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="445" />
+      <option name="time" value="446" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1349,26 +1382,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/first/LongestIncreasingPathTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="81" column="9" lean-forward="false" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/166. Fraction to Recurring Decimal/first/FractionToRecurringDecimalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/166. Fraction to Recurring Decimal/first/FractionToRecurringDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1828,12 +1841,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/137. Single Number II/first/SingleNumberII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="209">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/260. Single Number III/first/SingleNumberIIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/260. Single Number III/first/SingleNumberIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
