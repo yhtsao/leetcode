@@ -47,7 +47,7 @@ public class SmallerCountAfterSelf {
     /* ---------------------------------------------------------------
      * Binary search tree solution
      * ---------------------------------------------------------------*/
-    class TreeNode {
+    private class TreeNode {
         TreeNode left;
         TreeNode right;
         int val;
