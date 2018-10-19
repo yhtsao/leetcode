@@ -1,6 +1,5 @@
 package first;
 
-import first.sol1.WordDistance;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

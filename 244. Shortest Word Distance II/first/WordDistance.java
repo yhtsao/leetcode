@@ -1,4 +1,4 @@
-package first.sol1;
+package first;
 
 import java.util.ArrayList;
 import java.util.HashMap;

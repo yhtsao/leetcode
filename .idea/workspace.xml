@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/244. Shortest Word Distance II/first/sol1/WordDistance.java" afterPath="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistance.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistanceTest.java" afterPath="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistanceTest.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -34,10 +36,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="WordDistance.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance II/first/sol1/WordDistance.java">
+            <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistance.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+                <state relative-caret-position="152">
+                  <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -52,8 +54,8 @@
           <file leaf-file-name="WordDistanceTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistanceTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+                <state relative-caret-position="209">
+                  <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -163,9 +165,9 @@
         <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/first/BinaryTreeRightSideViewTest.java" />
         <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/first/BinaryTreeRightSideView.java" />
         <option value="$PROJECT_DIR$/244. Shortest Word Distance II/README.md" />
-        <option value="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistance.java" />
         <option value="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistanceTest.java" />
         <option value="$PROJECT_DIR$/244. Shortest Word Distance II/first/sol1/WordDistance.java" />
+        <option value="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistance.java" />
       </list>
     </option>
   </component>
@@ -296,12 +298,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="244. Shortest Word Distance II" type="462c0819:PsiDirectoryNode" />
-              <item name="sol1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -379,7 +375,7 @@
     <configuration name="BinaryTreeRightSideViewTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="first.sol1.*" />
+          <option name="PATTERN" value="first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,7 +400,7 @@
     <configuration name="BinaryTreeRightSideViewTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="first.sol1.*" />
+          <option name="PATTERN" value="first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -479,7 +475,7 @@
     <configuration name="WordDistanceTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="first.sol1.*" />
+          <option name="PATTERN" value="first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -611,14 +607,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="113690000" />
-    </task>
-    <task id="LOCAL-00169" summary="Add Count Primes">
-      <created>1539441359699</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1539441359700</updated>
+      <workItem from="1539480757328" duration="113733000" />
     </task>
     <task id="LOCAL-00170" summary="Add Contains Duplicate">
       <created>1539441602177</created>
@@ -956,7 +945,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539917247683</updated>
     </task>
-    <option name="localTasksCounter" value="218" />
+    <task id="LOCAL-00218" summary="Add Shortest word distance II">
+      <created>1539922085821</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1539922085822</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -992,7 +988,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="611208000" />
+    <option name="totallyTimeSpent" value="611251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1016,7 +1012,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1092,7 +1088,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Update Strobogrammatic Number II" />
     <MESSAGE value="Update Strobogrammatic Number III" />
     <MESSAGE value="Update Shortest Word Distance" />
     <MESSAGE value="Add Minimize Malware Spread" />
@@ -1117,7 +1112,8 @@
     <MESSAGE value="Add Sort List" />
     <MESSAGE value="Add Lowest Common Ancestor of a Binary Tree" />
     <MESSAGE value="Add Binary Tree Right Side View" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Binary Tree Right Side View" />
+    <MESSAGE value="Add Shortest word distance II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Shortest word distance II" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1821,18 +1817,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistanceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+        <state relative-caret-position="209">
+          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance II/first/sol1/WordDistance.java">
+    <entry file="file://$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="152">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
