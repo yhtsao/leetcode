@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -31,17 +30,28 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5829757">
+    <splitter split-orientation="horizontal" split-proportion="0.50214595">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Trie.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/Trie.java">
+          <file leaf-file-name="PopulateNextRightPtr.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="42" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+                <state relative-caret-position="266">
+                  <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TreeLinkNode.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/common/common/TreeLinkNode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
                   <folding>
-                    <element signature="e#1145#1146#0" expanded="true" />
-                    <element signature="e#1192#1193#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#195#196#0" expanded="true" />
+                    <element signature="e#218#219#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -51,11 +61,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="TrieTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/TrieTest.java">
+          <file leaf-file-name="PopulateNextRightPtrTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtrTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <state relative-caret-position="304">
+                  <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -107,9 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSortTest.java" />
-        <option value="$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java" />
-        <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumberTest.java" />
         <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumber.java" />
         <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTree.java" />
@@ -158,6 +165,9 @@
         <option value="$PROJECT_DIR$/189. Rotate Array/first/RotateArray.java" />
         <option value="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/TrieTest.java" />
         <option value="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/Trie.java" />
+        <option value="$PROJECT_DIR$/common/common/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java" />
+        <option value="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtrTest.java" />
       </list>
     </option>
   </component>
@@ -266,23 +276,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="189. Rotate Array" type="462c0819:PsiDirectoryNode" />
+              <item name="116. Populating Next Right Pointers in Each Node" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="189. Rotate Array" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="208. Implement Trie (Prefix Tree)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="208. Implement Trie (Prefix Tree)" type="462c0819:PsiDirectoryNode" />
+              <item name="116. Populating Next Right Pointers in Each Node" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,6 +294,17 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="277. Find the Celebrity" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -372,7 +382,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrieTest.test">
+  <component name="RunManager" selected="JUnit.PopulateNextRightPtrTest.test01">
+    <configuration name="PopulateNextRightPtrTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.PopulateNextRightPtrTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="RotateArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -411,31 +446,6 @@
       <option name="PACKAGE_NAME" value="first" />
       <option name="MAIN_CLASS_NAME" value="first.RotateArrayTest" />
       <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="RotateArrayTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.RotateArrayTest" />
-      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -567,18 +577,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RotateArrayTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TrieTest.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test03" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RotateArrayTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TrieTest.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PopulateNextRightPtrTest.test01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TrieTest.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RotateArrayTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test03" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test01" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test02" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PopulateNextRightPtrTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TrieTest.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RotateArrayTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test03" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -608,14 +618,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="123798000" />
-    </task>
-    <task id="LOCAL-00175" summary="Add Sort Array By Parity">
-      <created>1539500715178</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1539500715178</updated>
+      <workItem from="1539480757328" duration="125722000" />
     </task>
     <task id="LOCAL-00176" summary="Update Copy List with Random Pointer">
       <created>1539509767172</created>
@@ -953,24 +956,31 @@
       <option name="project" value="LOCAL" />
       <updated>1539935420743</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <task id="LOCAL-00224" summary="Add Implement Trie (Prefix Tree)">
+      <created>1539936689535</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1539936689536</updated>
+    </task>
+    <option name="localTasksCounter" value="225" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="PopulateNextRightPtrTest_test01 - 2018.10.19 at 16h 47m 33s.xml">
+      <configuration name="PopulateNextRightPtrTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PopulateNextRightPtrTest_test01 - 2018.10.19 at 16h 47m 59s.xml">
+      <configuration name="PopulateNextRightPtrTest.test01" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="RotateArrayTest - 2018.10.19 at 15h 46m 41s.xml">
       <configuration name="RotateArrayTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RotateArrayTest - 2018.10.19 at 15h 47m 29s.xml">
       <configuration name="RotateArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest_test01 - 2018.10.19 at 15h 39m 02s.xml">
-      <configuration name="RotateArrayTest.test01" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RotateArrayTest_test01 - 2018.10.19 at 15h 40m 20s.xml">
       <configuration name="RotateArrayTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_test02 - 2018.10.19 at 15h 39m 06s.xml">
-      <configuration name="RotateArrayTest.test02" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RotateArrayTest_test02 - 2018.10.19 at 15h 39m 14s.xml">
       <configuration name="RotateArrayTest.test02" configurationId="JUnit" />
@@ -989,7 +999,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621316000" />
+    <option name="totallyTimeSpent" value="623240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1013,7 +1023,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09585121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1044,7 +1054,7 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09585121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1089,7 +1099,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Wiggle Sort" />
     <MESSAGE value="Add Single Number" />
     <MESSAGE value="Add Maximum Depth of Binary Tree" />
     <MESSAGE value="Add Missing Number" />
@@ -1114,7 +1123,8 @@
     <MESSAGE value="Add Find the Celebrity" />
     <MESSAGE value="Add Valid Palindrome" />
     <MESSAGE value="Add Rotate Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Rotate Array" />
+    <MESSAGE value="Add Implement Trie (Prefix Tree)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Implement Trie (Prefix Tree)" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1326,13 +1336,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/Trie.java</url>
-          <line>14</line>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="477" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/Trie.java</url>
-          <line>24</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="478" />
         </line-breakpoint>
@@ -1381,45 +1391,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/268. Missing Number/first/MissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#86#87#0" expanded="false" />
-            <element signature="e#131#132#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/268. Missing Number/first/MissingNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRangeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1869,11 +1840,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/first/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="19">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtrTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
