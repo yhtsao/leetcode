@@ -110,18 +110,6 @@
       <sourceFolder url="file://$MODULE_DIR$/716. Max Stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/91. Decode Ways" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/327. Count of Range Sum" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/204. Count Primes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/207. Course Schedule" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/210. Course Schedule II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/212. Word Search II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/217. Contains Duplicate" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/218. The Skyline Problem" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/224. Basic Calculator" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/226. Invert Binary Tree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/227. Basic Calculator II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/230. Kth Smallest Element in a BST" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/237. Delete Node in a Linked List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/921. Minimum Add to Make Parentheses Valid" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/922. Sort Array By Parity II" isTestSource="false" />
@@ -173,14 +161,29 @@
       <sourceFolder url="file://$MODULE_DIR$/136. Single Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/371. Sum of Two Integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268. Missing Number" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/201. Bitwise AND of Numbers Range" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/191. Number of 1 Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190. Reverse Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/137. Single Number II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260. Single Number III" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/215. Kth Largest Element in an Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/150. Evaluate Reverse Polish Notation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/134. Gas Station" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/148. Sort List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/199. Binary Tree Right Side View" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/201. Bitwise AND of Numbers Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/204. Count Primes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/207. Course Schedule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/210. Course Schedule II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/212. Word Search II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/215. Kth Largest Element in an Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/217. Contains Duplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/218. The Skyline Problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/224. Basic Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/226. Invert Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/227. Basic Calculator II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/230. Kth Smallest Element in a BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/236. Lowest Common Ancestor of a Binary Tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
