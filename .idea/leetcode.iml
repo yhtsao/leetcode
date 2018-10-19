@@ -135,8 +135,6 @@
       <sourceFolder url="file://$MODULE_DIR$/152. Maximum Product Subarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/155. Min Stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/244. Shortest Word Distance II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/245. Shortest Word Distance III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/246. Strobogrammatic Number" isTestSource="false" />
@@ -187,6 +185,10 @@
       <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/124. Binary Tree Maximum Path Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/163. Missing Ranges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
