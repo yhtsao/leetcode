@@ -37,7 +37,7 @@
             <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="266">
-                  <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+                  <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
@@ -618,14 +618,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="125722000" />
-    </task>
-    <task id="LOCAL-00176" summary="Update Copy List with Random Pointer">
-      <created>1539509767172</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1539509767173</updated>
+      <workItem from="1539480757328" duration="125749000" />
     </task>
     <task id="LOCAL-00177" summary="Add Decode Ways">
       <created>1539515577025</created>
@@ -963,7 +956,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539936689536</updated>
     </task>
-    <option name="localTasksCounter" value="225" />
+    <task id="LOCAL-00225" summary="Add Populating Next Right Pointers in Each Node">
+      <created>1539939035001</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1539939035001</updated>
+    </task>
+    <option name="localTasksCounter" value="226" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -999,7 +999,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="623240000" />
+    <option name="totallyTimeSpent" value="623267000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1099,7 +1099,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Single Number" />
     <MESSAGE value="Add Maximum Depth of Binary Tree" />
     <MESSAGE value="Add Missing Number" />
     <MESSAGE value="Add Bitwise AND of Numbers Range" />
@@ -1124,7 +1123,8 @@
     <MESSAGE value="Add Valid Palindrome" />
     <MESSAGE value="Add Rotate Array" />
     <MESSAGE value="Add Implement Trie (Prefix Tree)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Implement Trie (Prefix Tree)" />
+    <MESSAGE value="Add Populating Next Right Pointers in Each Node" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Populating Next Right Pointers in Each Node" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1872,7 +1872,7 @@
     <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
       </provider>
