@@ -190,6 +190,7 @@
       <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/208. Implement Trie (Prefix Tree)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/285. Inorder Successor in BST" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

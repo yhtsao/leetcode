@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Add TreeLinkNode">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -30,29 +31,25 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.50214595">
+    <splitter split-orientation="horizontal" split-proportion="0.5951359">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="PopulateNextRightPtr.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
+          <file leaf-file-name="MissingRanges.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/163. Missing Ranges/first/MissingRanges.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TreeLinkNode.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/common/common/TreeLinkNode.java">
+          <file leaf-file-name="InorderSuccessorInBST.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBST.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#195#196#0" expanded="true" />
-                    <element signature="e#218#219#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="76">
+                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -61,11 +58,21 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="PopulateNextRightPtrTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtrTest.java">
+          <file leaf-file-name="MissingRangesTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/163. Missing Ranges/first/MissingRangesTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="InorderSuccessorInBSTTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBSTTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1026">
+                  <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -117,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/136. Single Number/first/SingleNumber.java" />
-        <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTreeTest.java" />
-        <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/first/MaximumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/268. Missing Number/first/MissingNumberTest.java" />
         <option value="$PROJECT_DIR$/268. Missing Number/first/MissingNumber.java" />
         <option value="$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java" />
@@ -168,6 +172,9 @@
         <option value="$PROJECT_DIR$/common/common/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java" />
         <option value="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtrTest.java" />
+        <option value="$PROJECT_DIR$/163. Missing Ranges/first/MissingRangesTest.java" />
+        <option value="$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBSTTest.java" />
+        <option value="$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBST.java" />
       </list>
     </option>
   </component>
@@ -287,12 +294,23 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="277. Find the Celebrity" type="462c0819:PsiDirectoryNode" />
+              <item name="163. Missing Ranges" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="277. Find the Celebrity" type="462c0819:PsiDirectoryNode" />
+              <item name="163. Missing Ranges" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="285. Inorder Successor in BST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="285. Inorder Successor in BST" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -382,8 +400,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PopulateNextRightPtrTest.test01">
-    <configuration name="PopulateNextRightPtrTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.InorderSuccessorInBSTTest">
+    <configuration name="InorderSuccessorInBSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -394,32 +412,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.PopulateNextRightPtrTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="RotateArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.RotateArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="first.InorderSuccessorInBSTTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -433,7 +426,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="RotateArrayTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InorderSuccessorInBSTTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -444,7 +437,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.RotateArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="first.InorderSuccessorInBSTTest" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -458,7 +451,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="RotateArrayTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InorderSuccessorInBSTTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -469,7 +462,32 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.RotateArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="first.InorderSuccessorInBSTTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InorderSuccessorInBSTTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.InorderSuccessorInBSTTest" />
       <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -483,7 +501,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TrieTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InorderSuccessorInBSTTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -494,8 +512,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.TrieTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="first.InorderSuccessorInBSTTest" />
+      <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -576,19 +594,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test03" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RotateArrayTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TrieTest.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PopulateNextRightPtrTest.test01" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test03" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test04" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PopulateNextRightPtrTest.test01" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TrieTest.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RotateArrayTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test03" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RotateArrayTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test04" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test03" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.InorderSuccessorInBSTTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -618,14 +636,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="125749000" />
-    </task>
-    <task id="LOCAL-00177" summary="Add Decode Ways">
-      <created>1539515577025</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1539515577025</updated>
+      <workItem from="1539480757328" duration="129511000" />
     </task>
     <task id="LOCAL-00178" summary="Add Sentence Screen Fitting">
       <created>1539530973184</created>
@@ -963,43 +974,50 @@
       <option name="project" value="LOCAL" />
       <updated>1539939035001</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="Add TreeLinkNode">
+      <created>1539939050666</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1539939050666</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PopulateNextRightPtrTest_test01 - 2018.10.19 at 16h 47m 33s.xml">
-      <configuration name="PopulateNextRightPtrTest.test01" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest - 2018.10.19 at 19h 21m 19s.xml">
+      <configuration name="InorderSuccessorInBSTTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PopulateNextRightPtrTest_test01 - 2018.10.19 at 16h 47m 59s.xml">
-      <configuration name="PopulateNextRightPtrTest.test01" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest - 2018.10.19 at 19h 29m 08s.xml">
+      <configuration name="InorderSuccessorInBSTTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest - 2018.10.19 at 15h 46m 41s.xml">
-      <configuration name="RotateArrayTest" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest - 2018.10.19 at 19h 29m 25s.xml">
+      <configuration name="InorderSuccessorInBSTTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest - 2018.10.19 at 15h 47m 29s.xml">
-      <configuration name="RotateArrayTest" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test01 - 2018.10.19 at 19h 09m 16s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest_test01 - 2018.10.19 at 15h 40m 20s.xml">
-      <configuration name="RotateArrayTest.test01" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test02 - 2018.10.19 at 19h 09m 20s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest_test02 - 2018.10.19 at 15h 39m 14s.xml">
-      <configuration name="RotateArrayTest.test02" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test03 - 2018.10.19 at 19h 09m 24s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest_test03 - 2018.10.19 at 15h 40m 56s.xml">
-      <configuration name="RotateArrayTest.test03" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test04 - 2018.10.19 at 19h 19m 19s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest_test03 - 2018.10.19 at 15h 46m 25s.xml">
-      <configuration name="RotateArrayTest.test03" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test04 - 2018.10.19 at 19h 19m 39s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateArrayTest_test03 - 2018.10.19 at 15h 46m 37s.xml">
-      <configuration name="RotateArrayTest.test03" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test04 - 2018.10.19 at 19h 20m 34s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test04" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrieTest_test - 2018.10.19 at 16h 09m 48s.xml">
-      <configuration name="TrieTest.test" configurationId="JUnit" />
+    <history-entry file="InorderSuccessorInBSTTest_test04 - 2018.10.19 at 19h 21m 13s.xml">
+      <configuration name="InorderSuccessorInBSTTest.test04" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="623267000" />
+    <option name="totallyTimeSpent" value="627029000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1012,6 +1030,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1020,10 +1039,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09585121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28683835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1050,11 +1069,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09585121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28683835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1099,7 +1118,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Maximum Depth of Binary Tree" />
     <MESSAGE value="Add Missing Number" />
     <MESSAGE value="Add Bitwise AND of Numbers Range" />
     <MESSAGE value="Add Number of 1 Bits" />
@@ -1124,7 +1142,8 @@
     <MESSAGE value="Add Rotate Array" />
     <MESSAGE value="Add Implement Trie (Prefix Tree)" />
     <MESSAGE value="Add Populating Next Right Pointers in Each Node" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Populating Next Right Pointers in Each Node" />
+    <MESSAGE value="Add TreeLinkNode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TreeLinkNode" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1346,8 +1365,14 @@
           <properties />
           <option name="timeStamp" value="478" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBST.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="479" />
+      <option name="time" value="483" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1391,42 +1416,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/201. Bitwise AND of Numbers Range/first/BitwiseAndOfRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits/first/NumberOf1BitsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/371. Sum of Two Integers/first/SumOfTwoIntTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/371. Sum of Two Integers/first/SumOfTwoInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1857,6 +1846,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/common/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1869,14 +1866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/first/PopulateNextRightPtrTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1884,6 +1873,40 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/163. Missing Ranges/first/MissingRanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/163. Missing Ranges/first/MissingRangesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/285. Inorder Successor in BST/first/InorderSuccessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
