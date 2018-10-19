@@ -87,14 +87,11 @@
       <sourceFolder url="file://$MODULE_DIR$/914. X of a Kind in a Deck of Cards" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/915. Partition Array into Disjoint Intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/916. Word Subsets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/124. Binary Tree Maximum Path Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/730. Count Different Palindromic Subsequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/438. Find All Anagrams in a String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. Longest Substring with At Most K Distinct Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/121. Best Time to Buy and Sell Stock" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/108. Convert Sorted Array to Binary Search Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/102. Binary Tree Level Order Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/103. Binary Tree Zigzag Level Order Traversal" isTestSource="false" />
@@ -185,6 +182,11 @@
       <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/236. Lowest Common Ancestor of a Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/277. Find the Celebrity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/116. Populating Next Right Pointers in Each Node" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121. Best Time to Buy and Sell Stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/124. Binary Tree Maximum Path Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

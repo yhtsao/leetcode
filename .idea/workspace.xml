@@ -34,18 +34,12 @@
     <splitter split-orientation="horizontal" split-proportion="0.5829757">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="FindCelebrity.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/277. Find the Celebrity/first/FindCelebrity.java">
+          <file leaf-file-name="ValidPalindrome.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindrome.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="350">
-                  <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#174#175#0" expanded="true" />
-                    <element signature="e#214#215#0" expanded="true" />
-                    <element signature="e#257#258#0" expanded="true" />
-                    <element signature="e#299#300#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="152">
+                  <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -54,11 +48,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="FindCelebrityTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/277. Find the Celebrity/first/FindCelebrityTest.java">
+          <file leaf-file-name="ValidPalindromeTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindromeTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1045">
-                  <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+                <state relative-caret-position="418">
+                  <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -110,8 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/924. Minimize Malware Spread/first/MinimizeMalwareSpreadTest.java" />
-        <option value="$PROJECT_DIR$/924. Minimize Malware Spread/first/MinimizeMalwareSpread.java" />
         <option value="$PROJECT_DIR$/179. Largest Number/first/LargestNumberTest.java" />
         <option value="$PROJECT_DIR$/179. Largest Number/first/LargestNumber.java" />
         <option value="$PROJECT_DIR$/152. Maximum Product Subarray/first/MaximumProductSubarrayTest.java" />
@@ -161,6 +153,8 @@
         <option value="$PROJECT_DIR$/244. Shortest Word Distance II/first/WordDistance.java" />
         <option value="$PROJECT_DIR$/277. Find the Celebrity/first/FindCelebrityTest.java" />
         <option value="$PROJECT_DIR$/277. Find the Celebrity/first/FindCelebrity.java" />
+        <option value="$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindrome.java" />
       </list>
     </option>
   </component>
@@ -269,6 +263,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="125. Valid Palindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="125. Valid Palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="277. Find the Celebrity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -353,7 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindCelebrityTest">
+  <component name="RunManager" selected="JUnit.ValidPalindromeTest.test03">
     <configuration name="FindCelebrityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -379,81 +384,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FindCelebrityTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.FindCelebrityTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="FindCelebrityTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.FindCelebrityTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="FindCelebrityTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.FindCelebrityTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="FindCelebrityTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -467,6 +397,81 @@
       <option name="PACKAGE_NAME" value="first" />
       <option name="MAIN_CLASS_NAME" value="first.FindCelebrityTest" />
       <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ValidPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.ValidPalindromeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ValidPalindromeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.ValidPalindromeTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ValidPalindromeTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.ValidPalindromeTest" />
+      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -547,19 +552,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test04" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test04" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ValidPalindromeTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ValidPalindromeTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ValidPalindromeTest.test03" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test04" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test03" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ValidPalindromeTest.test03" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ValidPalindromeTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ValidPalindromeTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FindCelebrityTest.test04" />
       </list>
     </recent_temporary>
   </component>
@@ -589,14 +594,7 @@
       <workItem from="1535202692373" duration="14986000" />
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
-      <workItem from="1539480757328" duration="120710000" />
-    </task>
-    <task id="LOCAL-00172" summary="Add Copy List with Random Pointer (HashMap solution)">
-      <created>1539444811671</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1539444811671</updated>
+      <workItem from="1539480757328" duration="121332000" />
     </task>
     <task id="LOCAL-00173" summary="Add 3 Sum With Multiplicity">
       <created>1539500010715</created>
@@ -934,43 +932,50 @@
       <option name="project" value="LOCAL" />
       <updated>1539924317279</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="Add Find the Celebrity">
+      <created>1539933112455</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1539933112455</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindCelebrityTest - 2018.10.19 at 14h 26m 32s.xml">
-      <configuration name="FindCelebrityTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindCelebrityTest - 2018.10.19 at 15h 04m 02s.xml">
-      <configuration name="FindCelebrityTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindCelebrityTest - 2018.10.19 at 15h 08m 25s.xml">
       <configuration name="FindCelebrityTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test01 - 2018.10.19 at 14h 02m 38s.xml">
-      <configuration name="FindCelebrityTest.test01" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest - 2018.10.19 at 15h 15m 43s.xml">
+      <configuration name="ValidPalindromeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test02 - 2018.10.19 at 14h 02m 52s.xml">
-      <configuration name="FindCelebrityTest.test02" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest_test01 - 2018.10.19 at 15h 15m 11s.xml">
+      <configuration name="ValidPalindromeTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test02 - 2018.10.19 at 14h 03m 53s.xml">
-      <configuration name="FindCelebrityTest.test02" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest_test01 - 2018.10.19 at 15h 15m 34s.xml">
+      <configuration name="ValidPalindromeTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test02 - 2018.10.19 at 14h 05m 05s.xml">
-      <configuration name="FindCelebrityTest.test02" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest_test03 - 2018.10.19 at 15h 16m 54s.xml">
+      <configuration name="ValidPalindromeTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test02 - 2018.10.19 at 14h 26m 29s.xml">
-      <configuration name="FindCelebrityTest.test02" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest_test03 - 2018.10.19 at 15h 17m 50s.xml">
+      <configuration name="ValidPalindromeTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test03 - 2018.10.19 at 14h 26m 25s.xml">
-      <configuration name="FindCelebrityTest.test03" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest_test03 - 2018.10.19 at 15h 18m 39s.xml">
+      <configuration name="ValidPalindromeTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindCelebrityTest_test04 - 2018.10.19 at 14h 31m 01s.xml">
-      <configuration name="FindCelebrityTest.test04" configurationId="JUnit" />
+    <history-entry file="ValidPalindromeTest_test03 - 2018.10.19 at 15h 19m 15s.xml">
+      <configuration name="ValidPalindromeTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidPalindromeTest_test03 - 2018.10.19 at 15h 20m 00s.xml">
+      <configuration name="ValidPalindromeTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidPalindromeTest_test03 - 2018.10.19 at 15h 21m 31s.xml">
+      <configuration name="ValidPalindromeTest.test03" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618228000" />
+    <option name="totallyTimeSpent" value="618850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -998,7 +1003,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22161423" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44596443" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1020,12 +1025,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1070,7 +1075,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Minimize Malware Spread" />
     <MESSAGE value="Add Largest Number" />
     <MESSAGE value="Add Maximum Product Subarray" />
     <MESSAGE value="Add Wiggle Sort" />
@@ -1095,7 +1099,8 @@
     <MESSAGE value="Add Shortest word distance II" />
     <MESSAGE value="Update Shortest word distance II" />
     <MESSAGE value="Update Shortest word distance III" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Shortest word distance III" />
+    <MESSAGE value="Add Find the Celebrity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Find the Celebrity" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1293,10 +1298,28 @@
           <properties />
           <option name="timeStamp" value="467" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindromeTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindrome.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="470" />
+      <option name="time" value="475" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="chars[i]" language="JAVA" />
+        <watch expression="chars[j]" language="JAVA" />
+        <watch expression="'a'" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1334,25 +1357,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/152. Maximum Product Subarray/first/MaximumProductSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="58" lean-forward="false" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1813,8 +1817,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/277. Find the Celebrity/first/FindCelebrity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="37" column="41" lean-forward="true" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        <state relative-caret-position="122">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#174#175#0" expanded="true" />
@@ -1822,6 +1826,24 @@
             <element signature="e#257#258#0" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/125. Valid Palindrome/first/ValidPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
