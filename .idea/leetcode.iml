@@ -189,6 +189,7 @@
       <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/208. Implement Trie (Prefix Tree)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
