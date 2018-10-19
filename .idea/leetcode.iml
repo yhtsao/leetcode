@@ -184,6 +184,7 @@
       <sourceFolder url="file://$MODULE_DIR$/230. Kth Smallest Element in a BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/236. Lowest Common Ancestor of a Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/277. Find the Celebrity" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
