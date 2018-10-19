@@ -156,17 +156,11 @@
       <sourceFolder url="file://$MODULE_DIR$/136. Single Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/371. Sum of Two Integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268. Missing Number" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/191. Number of 1 Bits" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/190. Reverse Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/137. Single Number II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260. Single Number III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/150. Evaluate Reverse Polish Notation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/134. Gas Station" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/148. Sort List" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/199. Binary Tree Right Side View" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/201. Bitwise AND of Numbers Range" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/204. Count Primes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/207. Course Schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/210. Course Schedule II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/212. Word Search II" isTestSource="false" />
@@ -187,10 +181,18 @@
       <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/163. Missing Ranges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/208. Implement Trie (Prefix Tree)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/285. Inorder Successor in BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/171. Excel Sheet Column Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/190. Reverse Bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/191. Number of 1 Bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/199. Binary Tree Right Side View" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/201. Bitwise AND of Numbers Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/204. Count Primes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/206. Reverse Linked List" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
