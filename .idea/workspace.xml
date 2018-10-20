@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -33,21 +34,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5164521">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="IntersectOfTwoLinkedList.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedList.java">
+          <file leaf-file-name="PalindromeLinkedList.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="17" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
+                <state relative-caret-position="532">
+                  <caret line="42" column="5" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="PalindromeLinkedList.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java">
+          <file leaf-file-name="MiddleOfLinkedList.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+                <state relative-caret-position="76">
+                  <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -60,8 +61,20 @@
           <file leaf-file-name="PalindromeLinkedListTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedListTest.java">
               <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="399">
+                  <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MiddleOfLinkedListTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedListTest.java">
+              <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="38">
-                  <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+                  <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
@@ -111,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/137. Single Number II/first/SingleNumberII.java" />
-        <option value="$PROJECT_DIR$/260. Single Number III/first/SingleNumberIIITest.java" />
-        <option value="$PROJECT_DIR$/260. Single Number III/first/SingleNumberIII.java" />
         <option value="$PROJECT_DIR$/324. Wiggle Sort II/first/WiggleSortIITest.java" />
         <option value="$PROJECT_DIR$/324. Wiggle Sort II/first/WiggleSortII.java" />
         <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArrayTest.java" />
@@ -162,6 +172,9 @@
         <option value="$PROJECT_DIR$/200. Number of Islands/first/NumberIslands.java" />
         <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedListTest.java" />
         <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedList.java" />
+        <option value="$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java" />
+        <option value="$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java" />
       </list>
     </option>
   </component>
@@ -326,6 +339,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="876. Middle of the Linked List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="876. Middle of the Linked List" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -387,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntersectOfTwoLinkedListTest">
+  <component name="RunManager" selected="JUnit.PalindromeLinkedListTest">
     <configuration name="IntersectOfTwoLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -402,31 +426,6 @@
       <option name="MAIN_CLASS_NAME" value="first.IntersectOfTwoLinkedListTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="NumberIslandsTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.NumberIslandsTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -513,6 +512,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="PalindromeLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.PalindromeLinkedListTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -581,19 +605,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test04" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.IntersectOfTwoLinkedListTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test02" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test03" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test04" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.IntersectOfTwoLinkedListTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PalindromeLinkedListTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.IntersectOfTwoLinkedListTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test04" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test03" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PalindromeLinkedListTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.IntersectOfTwoLinkedListTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test04" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test03" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -624,14 +648,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="9148000" />
-    </task>
-    <task id="LOCAL-00184" summary="Add Find Median from Data Stream">
-      <created>1539661238628</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1539661238628</updated>
+      <workItem from="1539993982851" duration="10221000" />
     </task>
     <task id="LOCAL-00185" summary="Add Longest Increasing Path in a Matrix">
       <created>1539663520603</created>
@@ -969,15 +986,19 @@
       <option name="project" value="LOCAL" />
       <updated>1540004493125</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="Add Intersection of Two Linked Lists">
+      <created>1540013337367</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1540013337367</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="IntersectOfTwoLinkedListTest - 2018.10.20 at 13h 22m 16s.xml">
       <configuration name="IntersectOfTwoLinkedListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberIslandsTest_test01 - 2018.10.20 at 10h 52m 13s.xml">
-      <configuration name="NumberIslandsTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumberIslandsTest_test02 - 2018.10.20 at 10h 52m 17s.xml">
       <configuration name="NumberIslandsTest.test02" configurationId="JUnit" />
@@ -1003,9 +1024,12 @@
     <history-entry file="NumberIslandsTest_test04 - 2018.10.20 at 11h 00m 31s.xml">
       <configuration name="NumberIslandsTest.test04" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PalindromeLinkedListTest - 2018.10.20 at 15h 45m 24s.xml">
+      <configuration name="PalindromeLinkedListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="641652000" />
+    <option name="totallyTimeSpent" value="642725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1105,7 +1129,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Single Number II" />
     <MESSAGE value="Add Single Number III" />
     <MESSAGE value="Add Wiggle Sort II" />
     <MESSAGE value="Add Kth Largest Element in an Array" />
@@ -1130,7 +1153,8 @@
     <MESSAGE value="Add Palindrome Partition" />
     <MESSAGE value="Add Set Matrix Zeros" />
     <MESSAGE value="Add Number of Islands" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Number of Islands" />
+    <MESSAGE value="Add Intersection of Two Linked Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Intersection of Two Linked Lists" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1394,8 +1418,14 @@
           <properties />
           <option name="timeStamp" value="498" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="499" />
+      <option name="time" value="500" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1439,21 +1469,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/134. Gas Station/first/GasStationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/first/MergeTwoSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1840,23 +1855,41 @@
     <entry file="file://$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
+          <caret line="21" column="17" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="399">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
           <folding />
         </state>
       </provider>
