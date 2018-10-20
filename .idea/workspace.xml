@@ -33,11 +33,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5164521">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="MiddleOfLinkedList.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java">
+          <file leaf-file-name="LinkedListCycle.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycle.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="31" />
+                <state relative-caret-position="285">
+                  <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -47,11 +47,23 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="MiddleOfLinkedListTest.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="MiddleOfLinkedListTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedListTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="380">
                   <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LinkedListCycleTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycleTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="931">
+                  <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -103,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/324. Wiggle Sort II/first/WiggleSortII.java" />
-        <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArrayTest.java" />
         <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java" />
         <option value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPNTest.java" />
         <option value="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/first/EvalRPN.java" />
@@ -154,6 +164,8 @@
         <option value="$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java" />
         <option value="$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java" />
         <option value="$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycleTest.java" />
+        <option value="$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycle.java" />
       </list>
     </option>
   </component>
@@ -285,6 +297,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="141. Linked List Cycle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="141. Linked List Cycle" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="160. Intersection of Two Linked Lists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -302,28 +325,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="200. Number of Islands" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="234. Palindrome Linked List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="234. Palindrome Linked List" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="876. Middle of the Linked List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="876. Middle of the Linked List" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -390,8 +391,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MiddleOfLinkedListTest">
-    <configuration name="IntersectOfTwoLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LinkedListCycleTest">
+    <configuration name="LinkedListCycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -402,9 +403,59 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.IntersectOfTwoLinkedListTest" />
+      <option name="MAIN_CLASS_NAME" value="first.LinkedListCycleTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListCycleTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.LinkedListCycleTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListCycleTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.LinkedListCycleTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -430,56 +481,6 @@
       <option name="MAIN_CLASS_NAME" value="first.MiddleOfLinkedListTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="NumberIslandsTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.NumberIslandsTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="NumberIslandsTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.NumberIslandsTest" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -584,19 +585,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test03" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test04" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.IntersectOfTwoLinkedListTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PalindromeLinkedListTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MiddleOfLinkedListTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PalindromeLinkedListTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MiddleOfLinkedListTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LinkedListCycleTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LinkedListCycleTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LinkedListCycleTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MiddleOfLinkedListTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PalindromeLinkedListTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IntersectOfTwoLinkedListTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test04" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.NumberIslandsTest.test03" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LinkedListCycleTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LinkedListCycleTest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LinkedListCycleTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MiddleOfLinkedListTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PalindromeLinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -627,14 +628,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="10378000" />
-    </task>
-    <task id="LOCAL-00186" summary="Add Fraction to Recurring Decimal">
-      <created>1539681429454</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1539681429455</updated>
+      <workItem from="1539993982851" duration="11378000" />
     </task>
     <task id="LOCAL-00187" summary="Add Surrounded Regions">
       <created>1539684078722</created>
@@ -972,27 +966,34 @@
       <option name="project" value="LOCAL" />
       <updated>1540021825608</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="Add Middle of the Linked List">
+      <created>1540021978131</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1540021978131</updated>
+    </task>
+    <option name="localTasksCounter" value="236" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="IntersectOfTwoLinkedListTest - 2018.10.20 at 13h 22m 16s.xml">
       <configuration name="IntersectOfTwoLinkedListTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LinkedListCycleTest - 2018.10.20 at 16h 01m 44s.xml">
+      <configuration name="LinkedListCycleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListCycleTest - 2018.10.20 at 16h 20m 38s.xml">
+      <configuration name="LinkedListCycleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListCycleTest_test01 - 2018.10.20 at 15h 59m 15s.xml">
+      <configuration name="LinkedListCycleTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListCycleTest_test02 - 2018.10.20 at 15h 59m 34s.xml">
+      <configuration name="LinkedListCycleTest.test02" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="MiddleOfLinkedListTest - 2018.10.20 at 15h 52m 40s.xml">
       <configuration name="MiddleOfLinkedListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberIslandsTest_test02 - 2018.10.20 at 10h 55m 03s.xml">
-      <configuration name="NumberIslandsTest.test02" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberIslandsTest_test02 - 2018.10.20 at 10h 55m 31s.xml">
-      <configuration name="NumberIslandsTest.test02" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberIslandsTest_test03 - 2018.10.20 at 10h 58m 10s.xml">
-      <configuration name="NumberIslandsTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberIslandsTest_test03 - 2018.10.20 at 10h 59m 16s.xml">
-      <configuration name="NumberIslandsTest.test03" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumberIslandsTest_test03 - 2018.10.20 at 10h 59m 29s.xml">
       <configuration name="NumberIslandsTest.test03" configurationId="JUnit" />
@@ -1008,7 +1009,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="642882000" />
+    <option name="totallyTimeSpent" value="643882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1032,7 +1033,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09656652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07582261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1108,7 +1109,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Wiggle Sort II" />
     <MESSAGE value="Add Kth Largest Element in an Array" />
     <MESSAGE value="Update quick select solution for Kth Largest Element in an Array" />
     <MESSAGE value="Update Evaluate Reverse Polish Notation" />
@@ -1133,7 +1133,8 @@
     <MESSAGE value="Add Number of Islands" />
     <MESSAGE value="Add Intersection of Two Linked Lists" />
     <MESSAGE value="Add Palindrome Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Palindrome Linked List" />
+    <MESSAGE value="Add Middle of the Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Middle of the Linked List" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1448,20 +1449,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/first/MergeTwoSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/56. Merge Intervals/first/MergeIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/first/MergeTwoSortedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -1857,14 +1844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1872,6 +1851,32 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
