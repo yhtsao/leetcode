@@ -201,6 +201,7 @@
       <sourceFolder url="file://$MODULE_DIR$/200. Number of Islands" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/234. Palindrome Linked List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/876. Middle of the Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/142. Linked List Cycle II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
