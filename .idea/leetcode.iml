@@ -54,10 +54,6 @@
       <sourceFolder url="file://$MODULE_DIR$/8. String to Integer (atoi)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/832. Flipping an Image" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/840. Magic Squares In Grid" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/86. Partition List" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/88. Merge Sorted Array" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/90. Subsets II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/94. Binary Tree Inorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/common" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/First" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/49. Group Anagrams" isTestSource="false" />
@@ -72,16 +68,11 @@
       <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/97. Interleaving String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/56. Merge Intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/60. Permutation Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/62. Unique Paths" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/66. Plus One" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/69. Sqrt(x)" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/76. Minimum Window Substring" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/77. Combinations" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/78. Subsets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/84. Largest Rectangle in Histogram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Weekly Contest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/913. Cat and Mouse" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/914. X of a Kind in a Deck of Cards" isTestSource="false" />
@@ -92,20 +83,13 @@
       <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. Longest Substring with At Most K Distinct Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/108. Convert Sorted Array to Binary Search Tree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/102. Binary Tree Level Order Traversal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/103. Binary Tree Zigzag Level Order Traversal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/70. Climbing Stairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/917. Reverse Only Letters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/918. Maximum Sum Circular Subarray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/919. Complete Binary Tree Inserter" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/98. Validate Binary Search Tree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/79. Word Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/239. Sliding Window Maximum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/920. Number of Music Playlists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/716. Max Stack" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/91. Decode Ways" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/327. Count of Range Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/237. Delete Node in a Linked List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/921. Minimum Add to Make Parentheses Valid" isTestSource="false" />
@@ -118,23 +102,9 @@
       <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/412. Fizz Buzz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/329. Longest Increasing Path in a Matrix" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/127. Word Ladder" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/130. Surrounded Regions" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/138. Copy List with Random Pointer" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/139. Word Break" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/140. Word Break II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/144. Binary Tree Preorder Traversal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/145. Binary Tree Postorder Traversal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/146. LRU Cache" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/149. Max Points on a Line" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/243. Shortest Word Distance" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/126. Word Ladder II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/433. Minimum Genetic Mutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/924. Minimize Malware Spread" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/152. Maximum Product Subarray" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/155. Min Stack" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/244. Shortest Word Distance II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/245. Shortest Word Distance III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/246. Strobogrammatic Number" isTestSource="false" />
@@ -152,15 +122,9 @@
       <sourceFolder url="file://$MODULE_DIR$/315. Count of Smaller Numbers After Self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/322. Coin Change" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/324. Wiggle Sort II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/104. Maximum Depth of Binary Tree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/136. Single Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/371. Sum of Two Integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268. Missing Number" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/137. Single Number II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260. Single Number III" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/150. Evaluate Reverse Polish Notation" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/134. Gas Station" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/148. Sort List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/207. Course Schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/210. Course Schedule II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/212. Word Search II" isTestSource="false" />
@@ -174,25 +138,68 @@
       <sourceFolder url="file://$MODULE_DIR$/232. Implement Queue using Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/236. Lowest Common Ancestor of a Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/277. Find the Celebrity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/208. Implement Trie (Prefix Tree)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/285. Inorder Successor in BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/201. Bitwise AND of Numbers Range" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/204. Count Primes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/206. Reverse Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/73. Set Matrix Zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/76. Minimum Window Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/77. Combinations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/78. Subsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/79. Word Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/84. Largest Rectangle in Histogram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/86. Partition List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88. Merge Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/90. Subsets II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/91. Decode Ways" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/94. Binary Tree Inorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/97. Interleaving String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/98. Validate Binary Search Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/102. Binary Tree Level Order Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/103. Binary Tree Zigzag Level Order Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/104. Maximum Depth of Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/108. Convert Sorted Array to Binary Search Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/116. Populating Next Right Pointers in Each Node" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/121. Best Time to Buy and Sell Stock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/124. Binary Tree Maximum Path Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/126. Word Ladder II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/127. Word Ladder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/128. Longest Consecutive Sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/130. Surrounded Regions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/131. Palindrome Partitioning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/134. Gas Station" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/136. Single Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/137. Single Number II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/138. Copy List with Random Pointer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/139. Word Break" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/140. Word Break II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/141. Linked List Cycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/144. Binary Tree Preorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/145. Binary Tree Postorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/146. LRU Cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/148. Sort List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/149. Max Points on a Line" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/150. Evaluate Reverse Polish Notation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/152. Maximum Product Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155. Min Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/160. Intersection of Two Linked Lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/163. Missing Ranges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/166. Fraction to Recurring Decimal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/208. Implement Trie (Prefix Tree)" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/285. Inorder Successor in BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/171. Excel Sheet Column Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/172. Factorial Trailing Zeroes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/179. Largest Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190. Reverse Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/191. Number of 1 Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/199. Binary Tree Right Side View" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/201. Bitwise AND of Numbers Range" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/204. Count Primes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/205. Isomorphic Strings" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/206. Reverse Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/200. Number of Islands" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/234. Palindrome Linked List" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
