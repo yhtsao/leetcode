@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -30,15 +31,31 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.45708156">
+    <splitter split-orientation="horizontal" split-proportion="0.57868385">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagram.java">
+          <file leaf-file-name="MeetingRooms.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRooms.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-                  <folding />
+                <state relative-caret-position="361">
+                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MeetingRoomsII.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsII.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1026">
+                  <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#290#291#0" expanded="true" />
+                    <element signature="e#345#346#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -47,11 +64,23 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ValidAnagramTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagramTest.java">
+          <file leaf-file-name="MeetingRoomsIITest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsIITest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="475">
-                  <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+                <state relative-caret-position="228">
+                  <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MeetingRoomsTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRoomsTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="232">
+                  <caret line="18" column="10" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="10" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -103,10 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/163. Missing Ranges/first/MissingRangesTest.java" />
-        <option value="$PROJECT_DIR$/163. Missing Ranges/first/MissingRanges.java" />
-        <option value="$PROJECT_DIR$/206. Reverse Linked List/first/ReverseLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/206. Reverse Linked List/first/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/131. Palindrome Partitioning/first/PalindromePartitionTest.java" />
         <option value="$PROJECT_DIR$/131. Palindrome Partitioning/first/PalindromePartition.java" />
         <option value="$PROJECT_DIR$/73. Set Matrix Zeroes/first/SetMatrixZeroTest.java" />
@@ -154,6 +179,10 @@
         <option value="$PROJECT_DIR$/72. Edit Distance/first/EditDistance.java" />
         <option value="$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagramTest.java" />
         <option value="$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagram.java" />
+        <option value="$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRooms.java" />
+        <option value="$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRoomsTest.java" />
+        <option value="$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsIITest.java" />
+        <option value="$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsII.java" />
       </list>
     </option>
   </component>
@@ -274,28 +303,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="925. Long Pressed Name" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="925. Long Pressed Name" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="926. Flip String to Monotone Increasing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="926. Flip String to Monotone Increasing" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -363,8 +370,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidAnagramTest">
-    <configuration name="EditDistanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MeetingRoomsIITest">
+    <configuration name="MeetingRoomsIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -375,7 +382,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.EditDistanceTest" />
+      <option name="MAIN_CLASS_NAME" value="first.MeetingRoomsIITest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -389,7 +396,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ValidAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MeetingRoomsIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -400,32 +407,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ValidAnagramTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ValidAnagramTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ValidAnagramTest" />
+      <option name="MAIN_CLASS_NAME" value="first.MeetingRoomsIITest" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -439,7 +421,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ValidAnagramTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MeetingRoomsIITest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -450,7 +432,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ValidAnagramTest" />
+      <option name="MAIN_CLASS_NAME" value="first.MeetingRoomsIITest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -464,7 +446,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ValidAnagramTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MeetingRoomsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -475,8 +457,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ValidAnagramTest" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="MAIN_CLASS_NAME" value="first.MeetingRoomsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MeetingRoomsTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MeetingRoomsTest" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -557,19 +564,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.EditDistanceTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest.test01" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest.test02" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest.test03" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MeetingRoomsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MeetingRoomsTest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MeetingRoomsIITest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MeetingRoomsIITest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MeetingRoomsIITest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest.test03" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ValidAnagramTest.test01" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.EditDistanceTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MeetingRoomsIITest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MeetingRoomsIITest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MeetingRoomsIITest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MeetingRoomsTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MeetingRoomsTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -600,14 +607,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="44475000" />
-    </task>
-    <task id="LOCAL-00202" summary="Add Missing Number">
-      <created>1539825241795</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1539825241796</updated>
+      <workItem from="1539993982851" duration="48486000" />
     </task>
     <task id="LOCAL-00203" summary="Add Bitwise AND of Numbers Range">
       <created>1539827546432</created>
@@ -945,43 +945,50 @@
       <option name="project" value="LOCAL" />
       <updated>1540135088404</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <task id="LOCAL-00251" summary="Add Valid Anagram">
+      <created>1540135512426</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1540135512426</updated>
+    </task>
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EditDistanceTest - 2018.10.21 at 23h 17m 16s.xml">
-      <configuration name="EditDistanceTest" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest - 2018.10.22 at 12h 34m 35s.xml">
+      <configuration name="MeetingRoomsIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EditDistanceTest_test01 - 2018.10.21 at 23h 17m 12s.xml">
-      <configuration name="EditDistanceTest.test01" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest - 2018.10.22 at 12h 37m 40s.xml">
+      <configuration name="MeetingRoomsIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindPeakElementTest - 2018.10.21 at 20h 20m 05s.xml">
-      <configuration name="FindPeakElementTest" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test01 - 2018.10.22 at 11h 39m 54s.xml">
+      <configuration name="MeetingRoomsIITest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindPeakElementTest - 2018.10.21 at 20h 20m 16s.xml">
-      <configuration name="FindPeakElementTest" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test01 - 2018.10.22 at 11h 40m 36s.xml">
+      <configuration name="MeetingRoomsIITest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindPeakElementTest_test01 - 2018.10.21 at 20h 19m 53s.xml">
-      <configuration name="FindPeakElementTest.test01" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test01 - 2018.10.22 at 11h 40m 45s.xml">
+      <configuration name="MeetingRoomsIITest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindPeakElementTest_test01 - 2018.10.21 at 20h 20m 03s.xml">
-      <configuration name="FindPeakElementTest.test01" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test02 - 2018.10.22 at 11h 58m 35s.xml">
+      <configuration name="MeetingRoomsIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidAnagramTest - 2018.10.21 at 23h 24m 06s.xml">
-      <configuration name="ValidAnagramTest" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test02 - 2018.10.22 at 11h 58m 43s.xml">
+      <configuration name="MeetingRoomsIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidAnagramTest_test01 - 2018.10.21 at 23h 21m 56s.xml">
-      <configuration name="ValidAnagramTest.test01" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test02 - 2018.10.22 at 12h 08m 34s.xml">
+      <configuration name="MeetingRoomsIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidAnagramTest_test02 - 2018.10.21 at 23h 22m 00s.xml">
-      <configuration name="ValidAnagramTest.test02" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test02 - 2018.10.22 at 12h 09m 09s.xml">
+      <configuration name="MeetingRoomsIITest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidAnagramTest_test03 - 2018.10.21 at 23h 23m 51s.xml">
-      <configuration name="ValidAnagramTest.test03" configurationId="JUnit" />
+    <history-entry file="MeetingRoomsIITest_test02 - 2018.10.22 at 12h 09m 20s.xml">
+      <configuration name="MeetingRoomsIITest.test02" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="676979000" />
+    <option name="totallyTimeSpent" value="680990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1005,7 +1012,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.113018595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18526466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1036,7 +1043,7 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.113018595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18526466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1081,7 +1088,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add TreeLinkNode" />
     <MESSAGE value="Add Inorder Successor in BST" />
     <MESSAGE value="Add Missing Ranges" />
     <MESSAGE value="Add Reverse Linked List" />
@@ -1106,7 +1112,8 @@
     <MESSAGE value="Add Search a 2D matrix II" />
     <MESSAGE value="Add Find Peak Element" />
     <MESSAGE value="Add Edit Distance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Edit Distance" />
+    <MESSAGE value="Add Valid Anagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Valid Anagram" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1442,14 +1449,8 @@
           <properties />
           <option name="timeStamp" value="538" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagram.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="540" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="541" />
+      <option name="time" value="542" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1489,129 +1490,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/73. Set Matrix Zeroes/first/SetMatrixZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/924. Minimize Malware Spread/first/MinimizeMalwareSpread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200. Number of Islands/first/NumberIslandsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="52" column="19" lean-forward="false" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200. Number of Islands/first/NumberIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="75" column="32" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="method#numIslandsDFS#0;class#NumberIslands#0" expanded="false" />
-            <element signature="method#dfs#0;class#NumberIslands#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/142. Linked List Cycle II/first/LinkedListCycleIITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/142. Linked List Cycle II/first/LinkedListCycleII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/first/LinkedListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1625,7 +1503,7 @@
         <state relative-caret-position="437">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1646,7 +1524,7 @@
         <state relative-caret-position="361">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1664,7 +1542,7 @@
         <state relative-caret-position="665">
           <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1702,7 +1580,7 @@
         <state relative-caret-position="456">
           <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1728,7 +1606,7 @@
         <state relative-caret-position="969">
           <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1783,7 +1661,7 @@
         <state relative-caret-position="437">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1801,7 +1679,7 @@
         <state relative-caret-position="418">
           <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1822,7 +1700,7 @@
         <state relative-caret-position="475">
           <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1832,8 +1710,8 @@
         <state relative-caret-position="228">
           <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="false" />
+            <element signature="e#119#120#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1843,7 +1721,7 @@
         <state relative-caret-position="133">
           <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1895,7 +1773,7 @@
         <state relative-caret-position="551">
           <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1913,7 +1791,7 @@
         <state relative-caret-position="361">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1931,7 +1809,7 @@
         <state relative-caret-position="798">
           <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1949,16 +1827,130 @@
         <state relative-caret-position="475">
           <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStrTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/InsertDeleteGetRandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/InsertDeleteGetRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Flatten2DVectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Flatten2DVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRoomsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRooms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

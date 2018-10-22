@@ -200,7 +200,6 @@
       <sourceFolder url="file://$MODULE_DIR$/246. Strobogrammatic Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/247. Strobogrammatic Number II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/248. Strobogrammatic Number III" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/260. Single Number III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268. Missing Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/269. Alien Dictionary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/277. Find the Celebrity" isTestSource="false" />
@@ -213,6 +212,14 @@
       <sourceFolder url="file://$MODULE_DIR$/242. Valid Anagram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/925. Long Pressed Name" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/926. Flip String to Monotone Increasing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/777. Swap Adjacent in LR String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/123. Best Time to Buy and Sell Stock III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/251. Flatten 2D Vector" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/252. Meeting Rooms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/253. Meeting Rooms II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/260. Single Number III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/296. Best Meeting Point" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/380. Insert Delete GetRandom O(1)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
