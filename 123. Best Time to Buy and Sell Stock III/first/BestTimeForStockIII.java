@@ -1,7 +1,5 @@
 package first;
 
-import java.util.Arrays;
-
 public class BestTimeForStockIII {
     public int maxProfit(int[] prices) {
         return maxProfitV2(prices);

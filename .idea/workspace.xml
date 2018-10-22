@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java" afterPath="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -34,35 +34,15 @@
     <splitter split-orientation="horizontal" split-proportion="0.58869815">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="BestTimeForStockIII.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java">
+          <file leaf-file-name="RandomizedSet.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSet.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+                <state relative-caret-position="323">
+                  <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
                   <folding>
-                    <element signature="e#116#117#0" expanded="true" />
-                    <element signature="e#158#159#0" expanded="true" />
+                    <element signature="e#1165#1166#0" expanded="true" />
+                    <element signature="e#1223#1224#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BestTimeForStockCooldown.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldown.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BestTimeForStockIV.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIV.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -95,11 +75,23 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="BestTimeForStockCooldownTest.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="BestTimeForStockCooldownTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldownTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="437">
-                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                  <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RandomizedSetTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSetTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="646">
+                  <caret line="34" column="56" lean-forward="false" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -151,8 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists/first/IntersectOfTwoLinkedList.java" />
         <option value="$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedListTest.java" />
         <option value="$PROJECT_DIR$/234. Palindrome Linked List/first/PalindromeLinkedList.java" />
         <option value="$PROJECT_DIR$/876. Middle of the Linked List/first/MiddleOfLinkedList.java" />
@@ -199,9 +189,11 @@
         <option value="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIIITest.java" />
         <option value="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIVTest.java" />
         <option value="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIV.java" />
-        <option value="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java" />
         <option value="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldownTest.java" />
         <option value="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldown.java" />
+        <option value="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java" />
+        <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSetTest.java" />
+        <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSet.java" />
       </list>
     </option>
   </component>
@@ -322,34 +314,23 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="123. Best Time to Buy and Sell Stock III" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="123. Best Time to Buy and Sell Stock III" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="188. Best Time to Buy and Sell Stock IV" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="188. Best Time to Buy and Sell Stock IV" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="309. Best Time to Buy and Sell Stock with Cooldown" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="309. Best Time to Buy and Sell Stock with Cooldown" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="380. Insert Delete GetRandom O(1)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="380. Insert Delete GetRandom O(1)" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -422,7 +403,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BestTimeForStockCooldownTest">
+  <component name="RunManager" selected="JUnit.RandomizedSetTest">
     <configuration name="BestTimeForStockCooldownTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -473,7 +454,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BestTimeForStockIIITest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomizedSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -484,32 +465,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.BestTimeForStockIIITest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="BestTimeForStockIVTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.BestTimeForStockIVTest" />
+      <option name="MAIN_CLASS_NAME" value="first.RandomizedSetTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -523,7 +479,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BestTimeForStockIVTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomizedSetTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -534,8 +490,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.BestTimeForStockIVTest" />
+      <option name="MAIN_CLASS_NAME" value="first.RandomizedSetTest" />
       <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RandomizedSetTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.RandomizedSetTest" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -616,19 +597,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIIITest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIIITest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIVTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIVTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BestTimeForStockCooldownTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIIITest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.BestTimeForStockCooldownTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RandomizedSetTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RandomizedSetTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RandomizedSetTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BestTimeForStockCooldownTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIIITest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIIITest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIVTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIVTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RandomizedSetTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RandomizedSetTest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RandomizedSetTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BestTimeForStockCooldownTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BestTimeForStockIIITest" />
       </list>
     </recent_temporary>
   </component>
@@ -659,14 +640,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="55215000" />
-    </task>
-    <task id="LOCAL-00205" summary="Add Sum of Two Integers">
-      <created>1539829010795</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1539829010795</updated>
+      <workItem from="1539993982851" duration="57583000" />
     </task>
     <task id="LOCAL-00206" summary="Update Sum of Two Integers">
       <created>1539829327715</created>
@@ -1004,15 +978,19 @@
       <option name="project" value="LOCAL" />
       <updated>1540198537260</updated>
     </task>
-    <option name="localTasksCounter" value="254" />
+    <task id="LOCAL-00254" summary="Add Best Time to Buy and Sell Stock with Cooldown">
+      <created>1540203266216</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1540203266216</updated>
+    </task>
+    <option name="localTasksCounter" value="255" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="BestTimeForStockCooldownTest - 2018.10.22 at 18h 13m 27s.xml">
       <configuration name="BestTimeForStockCooldownTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BestTimeForStockIIITest - 2018.10.22 at 14h 53m 25s.xml">
-      <configuration name="BestTimeForStockIIITest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BestTimeForStockIIITest - 2018.10.22 at 16h 38m 55s.xml">
       <configuration name="BestTimeForStockIIITest" configurationId="JUnit" />
@@ -1020,27 +998,30 @@
     <history-entry file="BestTimeForStockIIITest - 2018.10.22 at 16h 53m 20s.xml">
       <configuration name="BestTimeForStockIIITest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestTimeForStockIIITest_test01 - 2018.10.22 at 16h 30m 34s.xml">
-      <configuration name="BestTimeForStockIIITest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BestTimeForStockIIITest_test01 - 2018.10.22 at 16h 36m 00s.xml">
-      <configuration name="BestTimeForStockIIITest.test01" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BestTimeForStockIIITest_test01 - 2018.10.22 at 16h 38m 52s.xml">
       <configuration name="BestTimeForStockIIITest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestTimeForStockIVTest - 2018.10.22 at 14h 55m 39s.xml">
-      <configuration name="BestTimeForStockIVTest" configurationId="JUnit" />
+    <history-entry file="RandomizedSetTest - 2018.10.22 at 21h 56m 30s.xml">
+      <configuration name="RandomizedSetTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestTimeForStockIVTest - 2018.10.22 at 16h 00m 18s.xml">
-      <configuration name="BestTimeForStockIVTest" configurationId="JUnit" />
+    <history-entry file="RandomizedSetTest - 2018.10.22 at 21h 59m 53s.xml">
+      <configuration name="RandomizedSetTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BestTimeForStockIVTest_test01 - 2018.10.22 at 15h 21m 16s.xml">
-      <configuration name="BestTimeForStockIVTest.test01" configurationId="JUnit" />
+    <history-entry file="RandomizedSetTest_test01 - 2018.10.22 at 21h 48m 15s.xml">
+      <configuration name="RandomizedSetTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedSetTest_test01 - 2018.10.22 at 21h 51m 04s.xml">
+      <configuration name="RandomizedSetTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedSetTest_test02 - 2018.10.22 at 21h 52m 14s.xml">
+      <configuration name="RandomizedSetTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RandomizedSetTest_test02 - 2018.10.22 at 21h 53m 06s.xml">
+      <configuration name="RandomizedSetTest.test02" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="687719000" />
+    <option name="totallyTimeSpent" value="690087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1090,12 +1071,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18526466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18526466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1140,7 +1121,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Reverse Linked List" />
     <MESSAGE value="Add Palindrome Partition" />
     <MESSAGE value="Add Set Matrix Zeros" />
     <MESSAGE value="Add Number of Islands" />
@@ -1165,7 +1145,8 @@
     <MESSAGE value="Add Valid Anagram" />
     <MESSAGE value="Add Meeting Rooms I &amp; II" />
     <MESSAGE value="Add Best Time to Buy and Sell Stock III &amp; IV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Best Time to Buy and Sell Stock III &amp; IV" />
+    <MESSAGE value="Add Best Time to Buy and Sell Stock with Cooldown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Best Time to Buy and Sell Stock with Cooldown" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1501,8 +1482,14 @@
           <properties />
           <option name="timeStamp" value="538" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSet.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="544" />
+      <option name="time" value="547" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1542,24 +1529,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/171. Excel Sheet Column Number/first/ExcelSheetColNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/279. Perfect Squares/first/PerfectSquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/279. Perfect Squares/first/PerfectSquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1971,29 +1940,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldownTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2003,8 +1953,48 @@
     <entry file="file://$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="56" lean-forward="false" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
