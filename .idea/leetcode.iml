@@ -231,6 +231,7 @@
       <sourceFolder url="file://$MODULE_DIR$/683. K Empty Slots" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/328. Odd Even Linked List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/373. Find K Pairs with Smallest Sums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/153. Find Minimum in Rotated Sorted Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

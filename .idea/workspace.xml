@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="5e67680d-7a95-4891-b507-be148e0aed94" name="tmp" comment="tmp">
@@ -46,8 +47,8 @@
           <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <state relative-caret-position="95">
+                  <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
                   <folding>
                     <element signature="e#84#85#0" expanded="true" />
                     <element signature="e#108#109#0" expanded="true" />
@@ -56,11 +57,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="OddEvenLinkedList.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
+          <file leaf-file-name="FindMinInRotatedSortedArr.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArr.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+                <state relative-caret-position="266">
+                  <caret line="14" column="24" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -80,11 +81,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="OddEvenLinkedListTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
+          <file leaf-file-name="FindMinInRotatedSortedArrTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArrTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+                <state relative-caret-position="190">
+                  <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -138,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/925. Long Pressed Name/first/LongPressName.java" />
-        <option value="$PROJECT_DIR$/926. Flip String to Monotone Increasing/first/FilpStrToMonotoneIncrease.java" />
         <option value="$PROJECT_DIR$/75. Sort Colors/first/SortColorsTest.java" />
         <option value="$PROJECT_DIR$/75. Sort Colors/first/SortColors.java" />
         <option value="$PROJECT_DIR$/289. Game of Life/first/GameOfLifeTest.java" />
@@ -179,7 +178,6 @@
         <option value="$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java" />
         <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPointTest.java" />
         <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java" />
-        <option value="$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java" />
         <option value="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java" />
         <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java" />
         <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java" />
@@ -189,6 +187,9 @@
         <option value="$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSum.java" />
         <option value="$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java" />
         <option value="$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java" />
+        <option value="$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java" />
+        <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArr.java" />
+        <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArrTest.java" />
       </list>
     </option>
   </component>
@@ -305,6 +306,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="153. Find Minimum in Rotated Sorted Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="153. Find Minimum in Rotated Sorted Array" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -431,7 +443,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OddEvenLinkedListTest">
+  <component name="RunManager" selected="JUnit.FindMinInRotatedSortedArrTest.test01">
     <configuration name="FindKPairsWithSmallestSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -457,7 +469,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FindKPairsWithSmallestSumTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindMinInRotatedSortedArrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -468,32 +480,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.FindKPairsWithSmallestSumTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="KSmallestElemInSortedMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KSmallestElemInSortedMatrixTest" />
+      <option name="MAIN_CLASS_NAME" value="first.FindMinInRotatedSortedArrTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -507,7 +494,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KSmallestElemInSortedMatrixTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindMinInRotatedSortedArrTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -518,7 +505,32 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KSmallestElemInSortedMatrixTest" />
+      <option name="MAIN_CLASS_NAME" value="first.FindMinInRotatedSortedArrTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="FindMinInRotatedSortedArrTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.FindMinInRotatedSortedArrTest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -625,19 +637,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.OddEvenLinkedListTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OddEvenLinkedListTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.OddEvenLinkedListTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.OddEvenLinkedListTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -669,14 +681,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="80627000" />
-    </task>
-    <task id="LOCAL-00218" summary="Add Shortest word distance II">
-      <created>1539922085821</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1539922085822</updated>
+      <workItem from="1539993982851" duration="82014000" />
     </task>
     <task id="LOCAL-00219" summary="Update Shortest word distance II">
       <created>1539922119934</created>
@@ -1014,13 +1019,17 @@
       <option name="project" value="LOCAL" />
       <updated>1540289599309</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="Add Odd Even Linked List">
+      <created>1540295232421</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1540295232421</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindKPairsWithSmallestSumTest - 2018.10.23 at 17h 46m 41s.xml">
-      <configuration name="FindKPairsWithSmallestSumTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindKPairsWithSmallestSumTest - 2018.10.23 at 18h 04m 53s.xml">
       <configuration name="FindKPairsWithSmallestSumTest" configurationId="JUnit" />
     </history-entry>
@@ -1030,27 +1039,30 @@
     <history-entry file="FindKPairsWithSmallestSumTest - 2018.10.23 at 18h 10m 53s.xml">
       <configuration name="FindKPairsWithSmallestSumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindKPairsWithSmallestSumTest_test01 - 2018.10.23 at 17h 46m 31s.xml">
-      <configuration name="FindKPairsWithSmallestSumTest.test01" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindKPairsWithSmallestSumTest_test01 - 2018.10.23 at 18h 10m 50s.xml">
       <configuration name="FindKPairsWithSmallestSumTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KSmallestElemInSortedMatrixTest - 2018.10.23 at 17h 11m 11s.xml">
-      <configuration name="KSmallestElemInSortedMatrixTest" configurationId="JUnit" />
+    <history-entry file="FindMinInRotatedSortedArrTest - 2018.10.23 at 20h 03m 42s.xml">
+      <configuration name="FindMinInRotatedSortedArrTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KSmallestElemInSortedMatrixTest_test02 - 2018.10.23 at 17h 11m 05s.xml">
-      <configuration name="KSmallestElemInSortedMatrixTest.test02" configurationId="JUnit" />
+    <history-entry file="FindMinInRotatedSortedArrTest - 2018.10.23 at 20h 11m 06s.xml">
+      <configuration name="FindMinInRotatedSortedArrTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KSmallestElemInSortedMatrixTest_test02 - 2018.10.23 at 17h 20m 43s.xml">
-      <configuration name="KSmallestElemInSortedMatrixTest.test02" configurationId="JUnit" />
+    <history-entry file="FindMinInRotatedSortedArrTest_test01 - 2018.10.23 at 20h 03m 34s.xml">
+      <configuration name="FindMinInRotatedSortedArrTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMinInRotatedSortedArrTest_test01 - 2018.10.23 at 20h 13m 31s.xml">
+      <configuration name="FindMinInRotatedSortedArrTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMinInRotatedSortedArrTest_test02 - 2018.10.23 at 20h 03m 38s.xml">
+      <configuration name="FindMinInRotatedSortedArrTest.test02" configurationId="JUnit" />
     </history-entry>
     <history-entry file="OddEvenLinkedListTest - 2018.10.23 at 19h 45m 38s.xml">
       <configuration name="OddEvenLinkedListTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="713131000" />
+    <option name="totallyTimeSpent" value="714518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1101,11 +1113,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1150,7 +1162,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Increasing Triplet Subsequence" />
     <MESSAGE value="Add Bit Manipulation solution for Subsets" />
     <MESSAGE value="Add Long Pressed Name" />
     <MESSAGE value="Add Flip String to Monotone Increasing" />
@@ -1175,7 +1186,8 @@
     <MESSAGE value="Add Find the Duplicate Number" />
     <MESSAGE value="Add Kth Smallest Element in a Sorted Matrix" />
     <MESSAGE value="Add Find K Pairs with Smallest Sums" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Find K Pairs with Smallest Sums" />
+    <MESSAGE value="Add Odd Even Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Odd Even Linked List" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1548,9 +1560,14 @@
           <option name="timeStamp" value="557" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="562" />
+      <option name="time" value="565" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="nums[lo]" language="JAVA" />
+        <watch expression="nums[hi]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1588,24 +1605,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/162. Find Peak Element/first/FindPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/72. Edit Distance/first/EditDistanceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/72. Edit Distance/first/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -2059,6 +2058,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="67" lean-forward="false" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -2069,8 +2086,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#108#109#0" expanded="true" />
@@ -2078,20 +2095,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
+    <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArrTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        <state relative-caret-position="190">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="266">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
