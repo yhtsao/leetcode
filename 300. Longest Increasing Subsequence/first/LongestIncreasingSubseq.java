@@ -22,6 +22,8 @@ public class LongestIncreasingSubseq {
 
     private int lengthOfLISBinarySearch(int[] nums) {
         if (nums.length < 2) return nums.length;
+        // tails is an array storing the smallest tail
+        // of all increasing subsequences with length i+1 in tails[i].
         int[] tails = new int[nums.length];
         int len = 0;
         for (int num : nums) {
