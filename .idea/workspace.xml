@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="5e67680d-7a95-4891-b507-be148e0aed94" name="tmp" comment="tmp">
@@ -41,14 +40,14 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7145923">
+    <splitter split-orientation="horizontal" split-proportion="0.555794">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="133">
-                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                   <folding>
                     <element signature="e#84#85#0" expanded="true" />
                     <element signature="e#108#109#0" expanded="true" />
@@ -57,14 +56,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="FindKPairsWithSmallestSum.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSum.java">
+          <file leaf-file-name="OddEvenLinkedList.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="456">
-                  <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="285">
+                  <caret line="15" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -83,11 +80,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="FindKPairsWithSmallestSumTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSumTest.java">
+          <file leaf-file-name="OddEvenLinkedListTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                <state relative-caret-position="399">
+                  <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -141,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/926. Flip String to Monotone Increasing/first/FilpStrToMonotoneIncreaseTest.java" />
         <option value="$PROJECT_DIR$/925. Long Pressed Name/first/LongPressName.java" />
         <option value="$PROJECT_DIR$/926. Flip String to Monotone Increasing/first/FilpStrToMonotoneIncrease.java" />
         <option value="$PROJECT_DIR$/75. Sort Colors/first/SortColorsTest.java" />
@@ -185,13 +181,14 @@
         <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java" />
         <option value="$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java" />
         <option value="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java" />
-        <option value="$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java" />
         <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java" />
         <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java" />
         <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrixTest.java" />
         <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrix.java" />
         <option value="$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSumTest.java" />
         <option value="$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSum.java" />
+        <option value="$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java" />
       </list>
     </option>
   </component>
@@ -434,7 +431,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindKPairsWithSmallestSumTest">
+  <component name="RunManager" selected="JUnit.OddEvenLinkedListTest">
     <configuration name="FindKPairsWithSmallestSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -510,31 +507,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KSmallestElemInSortedMatrixTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KSmallestElemInSortedMatrixTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="KSmallestElemInSortedMatrixTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -549,6 +521,31 @@
       <option name="MAIN_CLASS_NAME" value="first.KSmallestElemInSortedMatrixTest" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="OddEvenLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.OddEvenLinkedListTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -629,18 +626,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test01" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.OddEvenLinkedListTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.OddEvenLinkedListTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FindKPairsWithSmallestSumTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KSmallestElemInSortedMatrixTest" />
       </list>
     </recent_temporary>
   </component>
@@ -672,14 +669,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="79934000" />
-    </task>
-    <task id="LOCAL-00217" summary="Add Binary Tree Right Side View">
-      <created>1539917247682</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1539917247683</updated>
+      <workItem from="1539993982851" duration="80627000" />
     </task>
     <task id="LOCAL-00218" summary="Add Shortest word distance II">
       <created>1539922085821</created>
@@ -1017,7 +1007,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540286534788</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="Add Find K Pairs with Smallest Sums">
+      <created>1540289599309</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1540289599309</updated>
+    </task>
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1042,18 +1039,18 @@
     <history-entry file="KSmallestElemInSortedMatrixTest - 2018.10.23 at 17h 11m 11s.xml">
       <configuration name="KSmallestElemInSortedMatrixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KSmallestElemInSortedMatrixTest_test02 - 2018.10.23 at 17h 09m 36s.xml">
-      <configuration name="KSmallestElemInSortedMatrixTest.test02" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KSmallestElemInSortedMatrixTest_test02 - 2018.10.23 at 17h 11m 05s.xml">
       <configuration name="KSmallestElemInSortedMatrixTest.test02" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KSmallestElemInSortedMatrixTest_test02 - 2018.10.23 at 17h 20m 43s.xml">
       <configuration name="KSmallestElemInSortedMatrixTest.test02" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OddEvenLinkedListTest - 2018.10.23 at 19h 45m 38s.xml">
+      <configuration name="OddEvenLinkedListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="712438000" />
+    <option name="totallyTimeSpent" value="713131000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1104,9 +1101,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1153,7 +1150,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Longest Increasing Subsequence" />
     <MESSAGE value="Add Increasing Triplet Subsequence" />
     <MESSAGE value="Add Bit Manipulation solution for Subsets" />
     <MESSAGE value="Add Long Pressed Name" />
@@ -1178,7 +1174,8 @@
     <MESSAGE value="Add Best Meeting Point" />
     <MESSAGE value="Add Find the Duplicate Number" />
     <MESSAGE value="Add Kth Smallest Element in a Sorted Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Kth Smallest Element in a Sorted Matrix" />
+    <MESSAGE value="Add Find K Pairs with Smallest Sums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Find K Pairs with Smallest Sums" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1992,25 +1989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2059,25 +2037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -2090,11 +2049,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="304">
+          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
