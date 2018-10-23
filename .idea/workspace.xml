@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="5e67680d-7a95-4891-b507-be148e0aed94" name="tmp" comment="tmp">
@@ -40,14 +41,37 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.555794">
+    <splitter split-orientation="horizontal" split-proportion="0.49499285">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
+          <file leaf-file-name="ProductOfArrayExceptSelf.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ShuffleArray.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/384. Shuffle an Array/first/ShuffleArray.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="418">
+                  <caret line="34" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#307#308#0" expanded="true" />
+                    <element signature="e#334#335#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TopKFrequentElem.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
@@ -57,11 +81,31 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ArrayNestingTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
+          <file leaf-file-name="TopKFrequentElemTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElemTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ProductOfArrayExceptSelfTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="38">
+                  <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ShuffleArrayTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/384. Shuffle an Array/first/ShuffleArrayTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -115,8 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/75. Sort Colors/first/SortColors.java" />
-        <option value="$PROJECT_DIR$/289. Game of Life/first/GameOfLifeTest.java" />
         <option value="$PROJECT_DIR$/289. Game of Life/first/GameOfLife.java" />
         <option value="$PROJECT_DIR$/240. Search a 2D Matrix II/first/Search2DMatrixIITest.java" />
         <option value="$PROJECT_DIR$/240. Search a 2D Matrix II/first/Search2DMatrixII.java" />
@@ -166,6 +208,8 @@
         <option value="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArr.java" />
         <option value="$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java" />
         <option value="$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java" />
+        <option value="$PROJECT_DIR$/384. Shuffle an Array/first/ShuffleArrayTest.java" />
+        <option value="$PROJECT_DIR$/384. Shuffle an Array/first/ShuffleArray.java" />
       </list>
     </option>
   </component>
@@ -286,72 +330,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="153. Find Minimum in Rotated Sorted Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="153. Find Minimum in Rotated Sorted Array" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="287. Find the Duplicate Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="287. Find the Duplicate Number" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="328. Odd Even Linked List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="328. Odd Even Linked List" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="373. Find K Pairs with Smallest Sums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="373. Find K Pairs with Smallest Sums" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="378. Kth Smallest Element in a Sorted Matrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="378. Kth Smallest Element in a Sorted Matrix" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -419,7 +397,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayNestingTest">
+  <component name="RunManager" selected="JUnit.ShuffleArrayTest.test01">
     <configuration name="ArrayNestingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -495,31 +473,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FindMinInRotatedSortedArrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.FindMinInRotatedSortedArrTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="FindMinInRotatedSortedArrTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -532,6 +485,31 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
       <option name="MAIN_CLASS_NAME" value="first.FindMinInRotatedSortedArrTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ShuffleArrayTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.ShuffleArrayTest" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -614,18 +592,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test02" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ShuffleArrayTest.test01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test01" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ShuffleArrayTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ArrayNestingTest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FindMinInRotatedSortedArrTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -657,14 +635,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="83053000" />
-    </task>
-    <task id="LOCAL-00220" summary="Update Shortest word distance III">
-      <created>1539924317279</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1539924317279</updated>
+      <workItem from="1539993982851" duration="84390000" />
     </task>
     <task id="LOCAL-00221" summary="Add Find the Celebrity">
       <created>1539933112455</created>
@@ -1002,7 +973,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540296993032</updated>
     </task>
-    <option name="localTasksCounter" value="269" />
+    <task id="LOCAL-00269" summary="Add Array Nesting">
+      <created>1540298726750</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1540298726750</updated>
+    </task>
+    <option name="localTasksCounter" value="270" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1024,21 +1002,21 @@
     <history-entry file="ArrayNestingTest_test02 - 2018.10.23 at 20h 42m 34s.xml">
       <configuration name="ArrayNestingTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMinInRotatedSortedArrTest - 2018.10.23 at 20h 03m 42s.xml">
-      <configuration name="FindMinInRotatedSortedArrTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindMinInRotatedSortedArrTest - 2018.10.23 at 20h 11m 06s.xml">
       <configuration name="FindMinInRotatedSortedArrTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FindMinInRotatedSortedArrTest_test01 - 2018.10.23 at 20h 13m 31s.xml">
       <configuration name="FindMinInRotatedSortedArrTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMinInRotatedSortedArrTest_test02 - 2018.10.23 at 20h 03m 38s.xml">
-      <configuration name="FindMinInRotatedSortedArrTest.test02" configurationId="JUnit" />
+    <history-entry file="ShuffleArrayTest_test01 - 2018.10.23 at 20h 56m 14s.xml">
+      <configuration name="ShuffleArrayTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuffleArrayTest_test01 - 2018.10.23 at 20h 58m 07s.xml">
+      <configuration name="ShuffleArrayTest.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="715557000" />
+    <option name="totallyTimeSpent" value="716894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1138,7 +1116,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Long Pressed Name" />
     <MESSAGE value="Add Flip String to Monotone Increasing" />
     <MESSAGE value="Add Sort Colors" />
     <MESSAGE value="Add Game of Life" />
@@ -1163,7 +1140,8 @@
     <MESSAGE value="Add Find K Pairs with Smallest Sums" />
     <MESSAGE value="Add Odd Even Linked List" />
     <MESSAGE value="Add Find Minimum in Rotated Sorted Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Find Minimum in Rotated Sorted Array" />
+    <MESSAGE value="Add Array Nesting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Array Nesting" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1582,56 +1560,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/72. Edit Distance/first/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagramTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/first/BestTimeForStockII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/InsertDeleteGetRandomTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/InsertDeleteGetRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Flatten2DVectorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -2071,6 +1999,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -2081,11 +2025,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="152">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/384. Shuffle an Array/first/ShuffleArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/384. Shuffle an Array/first/ShuffleArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
