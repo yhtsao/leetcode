@@ -48,7 +48,6 @@
       <sourceFolder url="file://$MODULE_DIR$/51. N-Queens" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/52. N-Queens II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/55. Jump Game" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/561. Array Partition I" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/636. Exclusive Time of Functions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7. Reverse Integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8. String to Integer (atoi)" isTestSource="false" />
@@ -65,7 +64,6 @@
       <sourceFolder url="file://$MODULE_DIR$/909. Snakes and Ladders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/911. Online Election" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/621. Task Scheduler" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/56. Merge Intervals" isTestSource="false" />
@@ -79,10 +77,7 @@
       <sourceFolder url="file://$MODULE_DIR$/915. Partition Array into Disjoint Intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/916. Word Subsets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/730. Count Different Palindromic Subsequences" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/438. Find All Anagrams in a String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. Longest Substring with At Most K Distinct Characters" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/70. Climbing Stairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/917. Reverse Only Letters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/918. Maximum Sum Circular Subarray" isTestSource="false" />
@@ -92,13 +87,8 @@
       <sourceFolder url="file://$MODULE_DIR$/921. Minimum Add to Make Parentheses Valid" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/922. Sort Array By Parity II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/923. 3Sum With Multiplicity" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/418. Sentence Screen Fitting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/344. Reverse String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/348. Design Tic-Tac-Toe" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/387. First Unique Character in a String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/412. Fizz Buzz" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/433. Minimum Genetic Mutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/924. Minimize Malware Spread" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/371. Sum of Two Integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/73. Set Matrix Zeroes" isTestSource="false" />
@@ -219,12 +209,27 @@
       <sourceFolder url="file://$MODULE_DIR$/253. Meeting Rooms II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260. Single Number III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/296. Best Meeting Point" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/380. Insert Delete GetRandom O(1)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/188. Best Time to Buy and Sell Stock IV" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/309. Best Time to Buy and Sell Stock with Cooldown" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/381. Insert Delete GetRandom O(1) - Duplicates allowed" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/341. Flatten Nested List Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/378. Kth Smallest Element in a Sorted Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/380. Insert Delete GetRandom O(1)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/381. Insert Delete GetRandom O(1) - Duplicates allowed" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/385. Mini Parser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/387. First Unique Character in a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/395. Longest Substring with At Least K Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/412. Fizz Buzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/418. Sentence Screen Fitting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/433. Minimum Genetic Mutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/438. Find All Anagrams in a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/561. Array Partition I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/565. Array Nesting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/287. Find the Duplicate Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/683. K Empty Slots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/328. Odd Even Linked List" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

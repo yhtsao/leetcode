@@ -4,27 +4,18 @@
     <bookmark url="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/first/NestedIterator.java" description="&#10;public class NestedIterator {&#10;}" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Update">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/300. Longest Increasing Subsequence/first/LongestIncreasingSubseq.java" afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence/first/LongestIncreasingSubseq.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/common/NestedInteger.java" afterPath="$PROJECT_DIR$/common/common/NestedInteger.java" />
     </list>
     <list id="5e67680d-7a95-4891-b507-be148e0aed94" name="tmp" comment="tmp">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPointTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStrTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouse.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouseTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DTest.java" afterPath="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DTest.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
     <ignored path="Weekly Contest/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java" ignored="false" />
     <option name="TRACKING_ENABLED" value="false" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,67 +41,30 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5665236">
+    <splitter split-orientation="horizontal" split-proportion="0.5135909">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Vector2D.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java">
+          <file leaf-file-name="FindTheDuplicateNum.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="51" />
+                <state relative-caret-position="315">
+                  <caret line="20" column="20" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#358#359#0" expanded="true" />
-                    <element signature="e#412#413#0" expanded="true" />
+                    <element signature="e#92#93#0" expanded="true" />
+                    <element signature="e#146#147#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Vector2DIterator.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DIterator.java">
+          <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="247">
-                  <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="NestedIterator.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/first/NestedIterator.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#402#403#0" expanded="true" />
-                    <element signature="e#449#450#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="NestedInteger.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/common/common/NestedInteger.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1490">
-                  <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-                  <folding>
-                    <element signature="e#250#251#0" expanded="true" />
-                    <element signature="e#295#296#0" expanded="true" />
-                    <element signature="e#582#583#0" expanded="true" />
-                    <element signature="e#616#617#0" expanded="true" />
-                    <element signature="e#806#807#0" expanded="true" />
-                    <element signature="e#832#833#0" expanded="true" />
-                    <element signature="e#929#930#0" expanded="true" />
-                    <element signature="e#956#957#0" expanded="true" />
-                    <element signature="e#1082#1083#0" expanded="true" />
-                    <element signature="e#1110#1111#0" expanded="true" />
-                    <element signature="e#1306#1307#0" expanded="true" />
-                    <element signature="e#1333#1334#0" expanded="true" />
+                    <element signature="e#84#85#0" expanded="true" />
+                    <element signature="e#108#109#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -120,11 +74,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="Vector2DTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DTest.java">
+          <file leaf-file-name="ArrayNestingTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FindTheDuplicateNumTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="247">
+                  <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -156,8 +120,8 @@
       <find>sol2</find>
       <find>&quot;</find>
       <find>,</find>
-      <find>]</find>
       <find>[</find>
+      <find>]</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -166,8 +130,8 @@
       <replace>partitionToDisjointSet</replace>
       <replace>'</replace>
       <replace>','</replace>
-      <replace>}</replace>
       <replace>{</replace>
+      <replace>}</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -176,16 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/171. Excel Sheet Column Number/first/ExcelSheetColNumberTest.java" />
-        <option value="$PROJECT_DIR$/171. Excel Sheet Column Number/first/ExcelSheetColNumber.java" />
-        <option value="$PROJECT_DIR$/279. Perfect Squares/first/PerfectSquareTest.java" />
-        <option value="$PROJECT_DIR$/279. Perfect Squares/first/PerfectSquare.java" />
-        <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/first/LongestIncreasingSubseqTest.java" />
-        <option value="$PROJECT_DIR$/334. Increasing Triplet Subsequence/first/IncreasingTripletSubseqTest.java" />
-        <option value="$PROJECT_DIR$/334. Increasing Triplet Subsequence/first/IncreasingTripletSubseq.java" />
-        <option value="$PROJECT_DIR$/78. Subsets/first/Subsets.java" />
-        <option value="$PROJECT_DIR$/Weekly Contest/first/LongPressName.java" />
-        <option value="$PROJECT_DIR$/Weekly Contest/first/FilpStrToMonotoneIncrease.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/first/MinimizeMalwareSpreadII.java" />
         <option value="$PROJECT_DIR$/925. Long Pressed Name/first/LongPressNameTest.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/SolutionTest.java" />
@@ -227,6 +181,16 @@
         <option value="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java" />
         <option value="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DTest.java" />
         <option value="$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DIterator.java" />
+        <option value="$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStrTest.java" />
+        <option value="$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java" />
+        <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPointTest.java" />
+        <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java" />
+        <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrix.java" />
+        <option value="$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java" />
+        <option value="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java" />
+        <option value="$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java" />
+        <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java" />
+        <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java" />
       </list>
     </option>
   </component>
@@ -347,45 +311,34 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="251. Flatten 2D Vector" type="462c0819:PsiDirectoryNode" />
+              <item name="287. Find the Duplicate Number" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="251. Flatten 2D Vector" type="462c0819:PsiDirectoryNode" />
+              <item name="287. Find the Duplicate Number" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="300. Longest Increasing Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="328. Odd Even Linked List" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="300. Longest Increasing Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="328. Odd Even Linked List" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="341. Flatten Nested List Iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="378. Kth Smallest Element in a Sorted Matrix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="341. Flatten Nested List Iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="385. Mini Parser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="385. Mini Parser" type="462c0819:PsiDirectoryNode" />
+              <item name="378. Kth Smallest Element in a Sorted Matrix" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -469,8 +422,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Vector2DTest">
-    <configuration name="NestedIteratorTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindTheDuplicateNumTest">
+    <configuration name="BestMeetingPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -481,9 +434,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.NestedIteratorTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="first.BestMeetingPointTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -495,7 +448,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NestedIteratorTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindTheDuplicateNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -506,8 +459,58 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.NestedIteratorTest" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="MAIN_CLASS_NAME" value="first.FindTheDuplicateNumTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SwapAdjacentInLRStrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.SwapAdjacentInLRStrTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SwapAdjacentInLRStrTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.SwapAdjacentInLRStrTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -534,56 +537,6 @@
       <option name="MAIN_CLASS_NAME" value="first.Vector2DTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Vector2DTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.Vector2DTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Vector2DTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.Vector2DTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -663,19 +616,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.NestedIteratorTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NestedIteratorTest.test02" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Vector2DTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Vector2DTest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Vector2DTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Vector2DTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SwapAdjacentInLRStrTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SwapAdjacentInLRStrTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.BestMeetingPointTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FindTheDuplicateNumTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Vector2DTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Vector2DTest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Vector2DTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NestedIteratorTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.NestedIteratorTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FindTheDuplicateNumTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BestMeetingPointTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SwapAdjacentInLRStrTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SwapAdjacentInLRStrTest.test01" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Vector2DTest" />
       </list>
     </recent_temporary>
   </component>
@@ -707,42 +660,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="69930000" />
-    </task>
-    <task id="LOCAL-00210" summary="Add Wiggle Sort II">
-      <created>1539866574466</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1539866574466</updated>
-    </task>
-    <task id="LOCAL-00211" summary="Add Kth Largest Element in an Array">
-      <created>1539866594559</created>
-      <option name="number" value="00211" />
-      <option name="presentableId" value="LOCAL-00211" />
-      <option name="project" value="LOCAL" />
-      <updated>1539866594559</updated>
-    </task>
-    <task id="LOCAL-00212" summary="Update quick select solution for Kth Largest Element in an Array">
-      <created>1539869235766</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1539869235766</updated>
-    </task>
-    <task id="LOCAL-00213" summary="Update Evaluate Reverse Polish Notation">
-      <created>1539873279613</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1539873279614</updated>
-    </task>
-    <task id="LOCAL-00214" summary="Add Gas Station">
-      <created>1539877260216</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1539877260216</updated>
+      <workItem from="1539993982851" duration="74459000" />
     </task>
     <task id="LOCAL-00215" summary="Add Sort List">
       <created>1539911102557</created>
@@ -1052,43 +970,78 @@
       <option name="project" value="LOCAL" />
       <updated>1540264900635</updated>
     </task>
-    <option name="localTasksCounter" value="259" />
+    <task id="LOCAL-00259" summary="Update">
+      <created>1540267291507</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1540267291507</updated>
+    </task>
+    <task id="LOCAL-00260" summary="Add Flatten 2D Vector">
+      <created>1540267315667</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1540267315667</updated>
+    </task>
+    <task id="LOCAL-00261" summary="Add Swap Adjacent In LR String">
+      <created>1540271086368</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1540271086368</updated>
+    </task>
+    <task id="LOCAL-00262" summary="Add Swap Adjacent in LR String">
+      <created>1540271110200</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1540271110200</updated>
+    </task>
+    <task id="LOCAL-00263" summary="Add Best Meeting Point">
+      <created>1540275617377</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1540275617378</updated>
+    </task>
+    <option name="localTasksCounter" value="264" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MiniParserTest - 2018.10.23 at 10h 53m 20s.xml">
-      <configuration name="MiniParserTest" configurationId="JUnit" />
+    <history-entry file="BestMeetingPointTest - 2018.10.23 at 14h 17m 44s.xml">
+      <configuration name="BestMeetingPointTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MiniParserTest_test02 - 2018.10.23 at 10h 53m 16s.xml">
-      <configuration name="MiniParserTest.test02" configurationId="JUnit" />
+    <history-entry file="FindTheDuplicateNumTest - 2018.10.23 at 15h 41m 40s.xml">
+      <configuration name="FindTheDuplicateNumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NestedIteratorTest_test01 - 2018.10.23 at 11h 19m 59s.xml">
-      <configuration name="NestedIteratorTest.test01" configurationId="JUnit" />
+    <history-entry file="FindTheDuplicateNumTest - 2018.10.23 at 15h 44m 46s.xml">
+      <configuration name="FindTheDuplicateNumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NestedIteratorTest_test01 - 2018.10.23 at 11h 20m 17s.xml">
-      <configuration name="NestedIteratorTest.test01" configurationId="JUnit" />
+    <history-entry file="FindTheDuplicateNumTest - 2018.10.23 at 15h 45m 03s.xml">
+      <configuration name="FindTheDuplicateNumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NestedIteratorTest_test02 - 2018.10.23 at 11h 20m 21s.xml">
-      <configuration name="NestedIteratorTest.test02" configurationId="JUnit" />
+    <history-entry file="SwapAdjacentInLRStrTest - 2018.10.23 at 12h 59m 19s.xml">
+      <configuration name="SwapAdjacentInLRStrTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RandomizedCollectionTest_test02 - 2018.10.22 at 23h 07m 20s.xml">
-      <configuration name="RandomizedCollectionTest.test02" configurationId="JUnit" />
+    <history-entry file="SwapAdjacentInLRStrTest - 2018.10.23 at 13h 01m 06s.xml">
+      <configuration name="SwapAdjacentInLRStrTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Vector2DTest - 2018.10.23 at 11h 47m 54s.xml">
-      <configuration name="Vector2DTest" configurationId="JUnit" />
+    <history-entry file="SwapAdjacentInLRStrTest - 2018.10.23 at 13h 02m 46s.xml">
+      <configuration name="SwapAdjacentInLRStrTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Vector2DTest - 2018.10.23 at 11h 59m 22s.xml">
-      <configuration name="Vector2DTest" configurationId="JUnit" />
+    <history-entry file="SwapAdjacentInLRStrTest_test01 - 2018.10.23 at 12h 59m 33s.xml">
+      <configuration name="SwapAdjacentInLRStrTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Vector2DTest_test01 - 2018.10.23 at 11h 32m 51s.xml">
-      <configuration name="Vector2DTest.test01" configurationId="JUnit" />
+    <history-entry file="SwapAdjacentInLRStrTest_test01 - 2018.10.23 at 12h 59m 42s.xml">
+      <configuration name="SwapAdjacentInLRStrTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Vector2DTest_test02 - 2018.10.23 at 11h 32m 57s.xml">
-      <configuration name="Vector2DTest.test02" configurationId="JUnit" />
+    <history-entry file="SwapAdjacentInLRStrTest_test01 - 2018.10.23 at 13h 00m 52s.xml">
+      <configuration name="SwapAdjacentInLRStrTest.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="702434000" />
+    <option name="totallyTimeSpent" value="706963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1143,7 +1096,7 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1188,11 +1141,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Palindrome Linked List" />
-    <MESSAGE value="Add Middle of the Linked List" />
-    <MESSAGE value="Add Linked List Cycle" />
-    <MESSAGE value="Add Linked List Cycle II" />
-    <MESSAGE value="Add Factorial Trailing Zeros" />
     <MESSAGE value="Add Excel Sheet Column Number" />
     <MESSAGE value="Add Perfect Squares" />
     <MESSAGE value="Add Longest Increasing Subsequence" />
@@ -1213,7 +1161,12 @@
     <MESSAGE value="Add Insert Delete GetRandom O(1) - Duplicates allowed" />
     <MESSAGE value="Add Mini Parser" />
     <MESSAGE value="Add Flatten Nested List Iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Flatten Nested List Iterator" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Add Flatten 2D Vector" />
+    <MESSAGE value="Add Swap Adjacent In LR String" />
+    <MESSAGE value="Add Swap Adjacent in LR String" />
+    <MESSAGE value="Add Best Meeting Point" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Best Meeting Point" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1573,8 +1526,14 @@
           <properties />
           <option name="timeStamp" value="554" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="555" />
+      <option name="time" value="557" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1614,100 +1573,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/926. Flip String to Monotone Increasing/first/FilpStrToMonotoneIncrease.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/75. Sort Colors/first/SortColorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/75. Sort Colors/first/SortColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#81#82#0" expanded="false" />
-            <element signature="e#119#120#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/289. Game of Life/first/GameOfLifeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/289. Game of Life/first/GameOfLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array/first/KthLargestElemInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/324. Wiggle Sort II/first/WiggleSortII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/280. Wiggle Sort/first/WiggleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/first/MedianFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/240. Search a 2D Matrix II/first/Search2DMatrixIITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/240. Search a 2D Matrix II/first/Search2DMatrixII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1778,14 +1643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStrTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/InsertDeleteGetRandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1814,14 +1671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -1975,22 +1824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPointTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/300. Longest Increasing Subsequence/first/LongestIncreasingSubseqTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2042,30 +1875,18 @@
         <state relative-caret-position="-1490">
           <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#582#583#0" expanded="false" />
+            <element signature="e#616#617#0" expanded="false" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#929#930#0" expanded="false" />
+            <element signature="e#956#957#0" expanded="false" />
+            <element signature="e#1082#1083#0" expanded="false" />
+            <element signature="e#1110#1111#0" expanded="false" />
+            <element signature="e#1306#1307#0" expanded="false" />
+            <element signature="e#1333#1334#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2094,10 +1915,157 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2DIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="114">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStrTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/777. Swap Adjacent in LR String/first/SwapAdjacentInLRStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlotsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/565. Array Nesting/first/ArrayNestingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
