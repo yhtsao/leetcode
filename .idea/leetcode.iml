@@ -235,6 +235,8 @@
       <sourceFolder url="file://$MODULE_DIR$/380. Insert Delete GetRandom O(1)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/381. Insert Delete GetRandom O(1) - Duplicates allowed" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/384. Shuffle an Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/927. Three Equal Parts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/928. Minimize Malware Spread II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
