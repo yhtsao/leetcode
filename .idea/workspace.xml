@@ -39,16 +39,15 @@
     <splitter split-orientation="horizontal" split-proportion="0.66523606">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="PowerOfThree.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/326. Power of Three/first/PowerOfThree.java">
+          <file leaf-file-name="HappyNumber.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/202. Happy Number/first/HappyNumber.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="56" />
+                <state relative-caret-position="342">
+                  <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
                   <folding>
-                    <element signature="e#85#86#0" expanded="true" />
-                    <element signature="e#131#132#0" expanded="true" />
-                    <element signature="e#434#435#0" expanded="true" />
-                    <element signature="e#497#498#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#126#127#0" expanded="true" />
+                    <element signature="e#163#164#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -58,11 +57,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="PowerOfThreeTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/326. Power of Three/first/PowerOfThreeTest.java">
+          <file leaf-file-name="HappyNumberTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/202. Happy Number/first/HappyNumberTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+                <state relative-caret-position="323">
+                  <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -116,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIVTest.java" />
-        <option value="$PROJECT_DIR$/188. Best Time to Buy and Sell Stock IV/first/BestTimeForStockIV.java" />
         <option value="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldownTest.java" />
         <option value="$PROJECT_DIR$/309. Best Time to Buy and Sell Stock with Cooldown/first/BestTimeForStockCooldown.java" />
         <option value="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java" />
@@ -167,6 +164,8 @@
         <option value="$PROJECT_DIR$/101. Symmetric Tree/first/SymmetricTree.java" />
         <option value="$PROJECT_DIR$/326. Power of Three/first/PowerOfThreeTest.java" />
         <option value="$PROJECT_DIR$/326. Power of Three/first/PowerOfThree.java" />
+        <option value="$PROJECT_DIR$/202. Happy Number/first/HappyNumberTest.java" />
+        <option value="$PROJECT_DIR$/202. Happy Number/first/HappyNumber.java" />
       </list>
     </option>
   </component>
@@ -425,7 +424,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PowerOfThreeTest">
+  <component name="RunManager" selected="JUnit.HappyNumberTest">
+    <configuration name="HappyNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.HappyNumberTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="PowerOfThreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -526,31 +550,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ThreeEqualPartsTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ThreeEqualPartsTest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -619,19 +618,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ThreeEqualPartsTest.test03" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ThreeEqualPartsTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SymmetricTreeTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest.test01" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ThreeEqualPartsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SymmetricTreeTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest.test01" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HappyNumberTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SymmetricTreeTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ThreeEqualPartsTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ThreeEqualPartsTest.test03" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HappyNumberTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SymmetricTreeTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ThreeEqualPartsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -663,14 +662,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="101049000" />
-    </task>
-    <task id="LOCAL-00229" summary="Add Reverse Linked List">
-      <created>1539963062380</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1539963062381</updated>
+      <workItem from="1539993982851" duration="101808000" />
     </task>
     <task id="LOCAL-00230" summary="Add Palindrome Partition">
       <created>1539998208312</created>
@@ -1008,10 +1000,23 @@
       <option name="project" value="LOCAL" />
       <updated>1540373492876</updated>
     </task>
-    <option name="localTasksCounter" value="278" />
+    <task id="LOCAL-00278" summary="Add Power of Three">
+      <created>1540375213824</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1540375213825</updated>
+    </task>
+    <option name="localTasksCounter" value="279" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="HappyNumberTest - 2018.10.24 at 18h 21m 54s.xml">
+      <configuration name="HappyNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HappyNumberTest - 2018.10.24 at 18h 23m 39s.xml">
+      <configuration name="HappyNumberTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="PowerOfThreeTest - 2018.10.24 at 17h 52m 39s.xml">
       <configuration name="PowerOfThreeTest" configurationId="JUnit" />
     </history-entry>
@@ -1036,15 +1041,9 @@
     <history-entry file="SymmetricTreeTest - 2018.10.24 at 17h 30m 14s.xml">
       <configuration name="SymmetricTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThreeEqualPartsTest - 2018.10.24 at 16h 53m 21s.xml">
-      <configuration name="ThreeEqualPartsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ThreeEqualPartsTest_test03 - 2018.10.24 at 16h 53m 03s.xml">
-      <configuration name="ThreeEqualPartsTest.test03" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="733553000" />
+    <option name="totallyTimeSpent" value="734312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1144,7 +1143,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Best Time to Buy and Sell Stock III &amp; IV" />
     <MESSAGE value="Add Best Time to Buy and Sell Stock with Cooldown" />
     <MESSAGE value="Add Insert Delete GetRandom O(1)" />
     <MESSAGE value="Add Insert Delete GetRandom O(1) - Duplicates allowed" />
@@ -1169,7 +1167,8 @@
     <MESSAGE value="Add Minimize Malware Spread II" />
     <MESSAGE value="Add Three Equal Parts" />
     <MESSAGE value="Add Symmetric Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Symmetric Tree" />
+    <MESSAGE value="Add Power of Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Power of Three" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2046,22 +2045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/202. Happy Number/first/HappyNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/202. Happy Number/first/HappyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -2105,7 +2088,7 @@
     <entry file="file://$PROJECT_DIR$/326. Power of Three/first/PowerOfThreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2115,12 +2098,34 @@
     <entry file="file://$PROJECT_DIR$/326. Power of Three/first/PowerOfThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="56" />
+          <caret line="14" column="56" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="56" />
           <folding>
             <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/202. Happy Number/first/HappyNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/202. Happy Number/first/HappyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
