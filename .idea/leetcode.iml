@@ -245,6 +245,7 @@
       <sourceFolder url="file://$MODULE_DIR$/348. Design Tic-Tac-Toe" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/350. Intersection of Two Arrays II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/837. New 21 Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/349. Intersection of Two Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
