@@ -29,4 +29,12 @@ public class KEmptySlotsTest {
         int ans = 8;
         Assertions.assertEquals(ans, sol.kEmptySlots(flowers, k));
     }
+
+    @Test
+    public void test04() {
+        int[] flowers = new int[]{1, 2, 3, 4};
+        int k = 1;
+        int ans = -1;
+        Assertions.assertEquals(ans, sol.kEmptySlots(flowers, k));
+    }
 }

@@ -1,9 +1,6 @@
 package first;
 
-import sun.jvm.hotspot.debugger.windbg.DLL;
-
-import java.util.ArrayList;
-import java.util.List;
+import java.util.TreeSet;
 
 public class KEmptySlots {
 
@@ -13,7 +10,7 @@ public class KEmptySlots {
      * @return: in which day meet the requirements
      */
     public int kEmptySlots(int[] flowers, int k) {
-        return KEmptySlotsSlidingWindow(flowers, k);
+        return kEmptySlotsBIT(flowers, k);
     }
 
     private int kEmptySlotsBF(int[] flowers, int k) {
@@ -39,33 +36,19 @@ public class KEmptySlots {
         return -1;
     }
 
-    // Memory exceed
-    private int KEmptySlotsBinaryInsert(int[] flowers, int k) {
-        List<Integer> slots = new ArrayList<>();
+    private int kEmptySlotsTreeset(int[] flowers, int k) {
+        TreeSet<Integer> set = new TreeSet<>();
         for (int i = 0; i < flowers.length; i++) {
-            int index = binaryInsert(slots, flowers[i]);
-            if (index > 0 && slots.get(index) - slots.get(index - 1) - 1 == k)
-                return i + 1;
-            if (index < slots.size() - 1 && slots.get(index + 1) - slots.get(index) - 1 == k)
-                return i + 1;
+            Integer upper = set.ceiling(flowers[i]);
+            Integer lower = set.floor(flowers[i]);
+            if (upper != null && upper - flowers[i] - 1 == k) return i + 1;
+            if (lower != null && flowers[i] - lower - 1 == k) return i + 1;
+            set.add(flowers[i]);
         }
         return -1;
     }
 
-    private int binaryInsert(List<Integer> list, int num) {
-        int lo = 0, hi = list.size();
-        while (lo < hi) {
-            int mid = (lo + hi) / 2;
-            if (list.get(mid) < num)
-                lo = mid + 1;
-            else
-                hi = mid;
-        }
-        list.add(lo, num);
-        return lo;
-    }
-
-    private int KEmptySlotsSlidingWindow(int[] flowers, int k) {
+    private int kEmptySlotsSlidingWindow(int[] flowers, int k) {
         int[] days = new int[flowers.length];
         for (int i = 0; i < flowers.length; i++)
             days[flowers[i] - 1] = i + 1;
@@ -81,4 +64,42 @@ public class KEmptySlots {
         return ret == Integer.MAX_VALUE ? -1 : ret;
     }
 
+    // --------------------------------------------------------
+    // Binary indexed tree (Fenwick tree)
+    // --------------------------------------------------------
+    private void update(int[] bit, int index) {
+        for (int i = index; i < bit.length; i += i & -i) {
+            bit[i]++;
+        }
+    }
+
+    private int getSum(int[] bit, int index) {
+        int sum = 0;
+        for (int i = index; i > 0; i -= i & -i)
+            sum += bit[i];
+        return sum;
+    }
+
+    private int kEmptySlotsBIT(int[] flowers, int k) {
+        boolean[] blooming = new boolean[flowers.length + 1];
+        int[] bit = new int[flowers.length + 1]; // binary index tree
+        for (int i = 0; i < flowers.length; i++) {
+            int slotNum = flowers[i];
+            update(bit, slotNum);
+            blooming[slotNum] = true;
+            // check right side of current slot
+            if (slotNum + k + 1 < bit.length
+                    && getSum(bit, slotNum + k + 1) - getSum(bit, slotNum) == 1
+                    && blooming[slotNum + k + 1]) {
+                return i + 1;
+            }
+            // check left side of current slot
+            if (slotNum - k - 1 > 0
+                    && getSum(bit, slotNum) - getSum(bit, slotNum - k - 1) == 1
+                    && blooming[slotNum - k - 1]) {
+                return i + 1;
+            }
+        }
+        return -1;
+    }
 }

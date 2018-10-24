@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java" afterPath="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlotsTest.java" afterPath="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlotsTest.java" />
     </list>
     <list id="5e67680d-7a95-4891-b507-be148e0aed94" name="tmp" comment="tmp">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/913. Cat and Mouse/first/CatAndMouse.java" />
@@ -40,7 +42,7 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.60944206">
+    <splitter split-orientation="horizontal" split-proportion="0.7160229">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="ProductOfArrayExceptSelf.java" pinned="false" current-in-tab="false">
@@ -56,13 +58,11 @@
           <file leaf-file-name="KEmptySlots.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="82" column="51" lean-forward="false" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+                <state relative-caret-position="323">
+                  <caret line="93" column="36" lean-forward="false" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#358#359#0" expanded="true" />
-                    <element signature="e#417#418#0" expanded="true" />
-                    <element signature="method#binaryInsert#0;class#KEmptySlots#0" expanded="false" />
+                    <element signature="e#293#294#0" expanded="true" />
+                    <element signature="e#342#343#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -105,8 +105,8 @@
           <file leaf-file-name="KEmptySlotsTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlotsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+                <state relative-caret-position="684">
+                  <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -499,7 +499,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ShuffleArrayTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KEmptySlotsTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -510,8 +510,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.ShuffleArrayTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="first.KEmptySlotsTest" />
+      <option name="METHOD_NAME" value="test04" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -592,19 +592,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ShuffleArrayTest.test01" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test01" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test02" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test03" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test03" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test04" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test03" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test02" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ShuffleArrayTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test04" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test02" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test03" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -636,14 +636,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="87956000" />
-    </task>
-    <task id="LOCAL-00222" summary="Add Valid Palindrome">
-      <created>1539933783407</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1539933783407</updated>
+      <workItem from="1539993982851" duration="90522000" />
     </task>
     <task id="LOCAL-00223" summary="Add Rotate Array">
       <created>1539935420742</created>
@@ -981,43 +974,50 @@
       <option name="project" value="LOCAL" />
       <updated>1540302805667</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="Add K Empty Slots">
+      <created>1540311290357</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1540311290357</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KEmptySlotsTest - 2018.10.23 at 22h 59m 06s.xml">
-      <configuration name="KEmptySlotsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KEmptySlotsTest - 2018.10.24 at 00h 04m 29s.xml">
-      <configuration name="KEmptySlotsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KEmptySlotsTest - 2018.10.24 at 00h 13m 22s.xml">
       <configuration name="KEmptySlotsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test01 - 2018.10.23 at 22h 58m 04s.xml">
-      <configuration name="KEmptySlotsTest.test01" configurationId="JUnit" />
+    <history-entry file="KEmptySlotsTest - 2018.10.24 at 11h 07m 10s.xml">
+      <configuration name="KEmptySlotsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test01 - 2018.10.23 at 22h 59m 01s.xml">
-      <configuration name="KEmptySlotsTest.test01" configurationId="JUnit" />
+    <history-entry file="KEmptySlotsTest - 2018.10.24 at 11h 53m 43s.xml">
+      <configuration name="KEmptySlotsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test03 - 2018.10.24 at 00h 05m 31s.xml">
-      <configuration name="KEmptySlotsTest.test03" configurationId="JUnit" />
+    <history-entry file="KEmptySlotsTest - 2018.10.24 at 12h 01m 52s.xml">
+      <configuration name="KEmptySlotsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test03 - 2018.10.24 at 00h 06m 21s.xml">
-      <configuration name="KEmptySlotsTest.test03" configurationId="JUnit" />
+    <history-entry file="KEmptySlotsTest_test02 - 2018.10.24 at 11h 52m 06s.xml">
+      <configuration name="KEmptySlotsTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test03 - 2018.10.24 at 00h 08m 34s.xml">
-      <configuration name="KEmptySlotsTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KEmptySlotsTest_test03 - 2018.10.24 at 00h 12m 11s.xml">
-      <configuration name="KEmptySlotsTest.test03" configurationId="JUnit" />
+    <history-entry file="KEmptySlotsTest_test02 - 2018.10.24 at 11h 53m 40s.xml">
+      <configuration name="KEmptySlotsTest.test02" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KEmptySlotsTest_test03 - 2018.10.24 at 00h 13m 17s.xml">
       <configuration name="KEmptySlotsTest.test03" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="KEmptySlotsTest_test03 - 2018.10.24 at 11h 07m 06s.xml">
+      <configuration name="KEmptySlotsTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KEmptySlotsTest_test04 - 2018.10.24 at 12h 01m 23s.xml">
+      <configuration name="KEmptySlotsTest.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KEmptySlotsTest_test04 - 2018.10.24 at 12h 01m 48s.xml">
+      <configuration name="KEmptySlotsTest.test04" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="720460000" />
+    <option name="totallyTimeSpent" value="723026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1046,7 +1046,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29548565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27770177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1117,7 +1117,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Sort Colors" />
     <MESSAGE value="Add Game of Life" />
     <MESSAGE value="Add Search a 2D matrix II" />
     <MESSAGE value="Add Find Peak Element" />
@@ -1142,7 +1141,8 @@
     <MESSAGE value="Add Find Minimum in Rotated Sorted Array" />
     <MESSAGE value="Add Array Nesting" />
     <MESSAGE value="Add Shuffle an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Shuffle an Array" />
+    <MESSAGE value="Add K Empty Slots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add K Empty Slots" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1522,20 +1522,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="567" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java</url>
-          <line>75</line>
+          <line>56</line>
           <properties />
           <option name="timeStamp" value="568" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="570" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="569" />
+      <option name="time" value="571" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="flowers[i]" language="JAVA" />
+        <watch expression="Arrays.toString(bit)" language="JAVA" custom="java.util.Arrays" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1573,24 +1584,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Flatten2DVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/252. Meeting Rooms/first/MeetingRoomsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1874,7 +1867,7 @@
         <state relative-caret-position="247">
           <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2024,7 +2017,7 @@
         <state relative-caret-position="285">
           <caret line="15" column="59" lean-forward="false" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2034,8 +2027,8 @@
         <state relative-caret-position="323">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2056,33 +2049,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+    <entry file="file://$PROJECT_DIR$/327. Count of Range Sum/first/CountRangeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="172" column="13" lean-forward="true" selection-start-line="172" selection-start-column="13" selection-end-line="172" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlotsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="684">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="177" column="5" lean-forward="true" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/307. Range Sum Query - Mutable/first/NumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="82" column="51" lean-forward="false" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+        <state relative-caret-position="323">
+          <caret line="93" column="36" lean-forward="false" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="method#binaryInsert#0;class#KEmptySlots#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
           </folding>
         </state>
       </provider>
