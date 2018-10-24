@@ -36,16 +36,18 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.66523606">
+    <splitter split-orientation="horizontal" split-proportion="0.47711015">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="PascalsTriangle.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangle.java">
+          <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElement.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="19" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+                <state relative-caret-position="582">
+                  <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#139#140#0" expanded="true" />
+                    <element signature="e#188#189#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -55,12 +57,14 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="PascalsTriangleTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangleTest.java">
+          <file leaf-file-name="MajorityElementTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-                  <folding />
+                <state relative-caret-position="209">
+                  <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -111,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java" />
-        <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSetTest.java" />
         <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/first/RandomizedSet.java" />
         <option value="$PROJECT_DIR$/381. Insert Delete GetRandom O(1) - Duplicates allowed/first/RandomizedCollectionTest.java" />
         <option value="$PROJECT_DIR$/381. Insert Delete GetRandom O(1) - Duplicates allowed/first/RandomizedCollection.java" />
@@ -162,6 +164,8 @@
         <option value="$PROJECT_DIR$/202. Happy Number/first/HappyNumber.java" />
         <option value="$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangleTest.java" />
         <option value="$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangle.java" />
+        <option value="$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java" />
+        <option value="$PROJECT_DIR$/169. Majority Element/first/MajorityElement.java" />
       </list>
     </option>
   </component>
@@ -420,7 +424,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PascalsTriangleTest">
+  <component name="RunManager" selected="JUnit.MajorityElementTest.test01">
     <configuration name="HappyNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -435,6 +439,31 @@
       <option name="MAIN_CLASS_NAME" value="first.HappyNumberTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MajorityElementTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MajorityElementTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -521,31 +550,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="PowerOfThreeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.PowerOfThreeTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -615,18 +619,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest.test01" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HappyNumberTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest.test01" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HappyNumberTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MajorityElementTest.test01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest.test01" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HappyNumberTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest.test01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MajorityElementTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PascalsTriangleTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HappyNumberTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PowerOfThreeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -658,14 +662,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="102654000" />
-    </task>
-    <task id="LOCAL-00231" summary="Add Set Matrix Zeros">
-      <created>1540001084886</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1540001084886</updated>
+      <workItem from="1539993982851" duration="103332000" />
     </task>
     <task id="LOCAL-00232" summary="Add Number of Islands">
       <created>1540004493125</created>
@@ -1003,7 +1000,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540376690117</updated>
     </task>
-    <option name="localTasksCounter" value="280" />
+    <task id="LOCAL-00280" summary="Add Pascal's Triangle">
+      <created>1540377578460</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1540377578461</updated>
+    </task>
+    <option name="localTasksCounter" value="281" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1012,6 +1016,15 @@
     </history-entry>
     <history-entry file="HappyNumberTest - 2018.10.24 at 18h 23m 39s.xml">
       <configuration name="HappyNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MajorityElementTest_test01 - 2018.10.24 at 18h 45m 16s.xml">
+      <configuration name="MajorityElementTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MajorityElementTest_test01 - 2018.10.24 at 18h 53m 04s.xml">
+      <configuration name="MajorityElementTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MajorityElementTest_test01 - 2018.10.24 at 18h 53m 17s.xml">
+      <configuration name="MajorityElementTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PascalsTriangleTest - 2018.10.24 at 18h 38m 45s.xml">
       <configuration name="PascalsTriangleTest" configurationId="JUnit" />
@@ -1025,21 +1038,12 @@
     <history-entry file="PowerOfThreeTest - 2018.10.24 at 17h 58m 45s.xml">
       <configuration name="PowerOfThreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PowerOfThreeTest_test01 - 2018.10.24 at 17h 53m 17s.xml">
-      <configuration name="PowerOfThreeTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerOfThreeTest_test01 - 2018.10.24 at 17h 53m 51s.xml">
-      <configuration name="PowerOfThreeTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PowerOfThreeTest_test01 - 2018.10.24 at 17h 54m 06s.xml">
-      <configuration name="PowerOfThreeTest.test01" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PowerOfThreeTest_test01 - 2018.10.24 at 17h 54m 16s.xml">
       <configuration name="PowerOfThreeTest.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="735158000" />
+    <option name="totallyTimeSpent" value="735836000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1139,7 +1143,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Insert Delete GetRandom O(1)" />
     <MESSAGE value="Add Insert Delete GetRandom O(1) - Duplicates allowed" />
     <MESSAGE value="Add Mini Parser" />
     <MESSAGE value="Add Flatten Nested List Iterator" />
@@ -1164,7 +1167,8 @@
     <MESSAGE value="Add Symmetric Tree" />
     <MESSAGE value="Add Power of Three" />
     <MESSAGE value="Add Happy Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Happy Number" />
+    <MESSAGE value="Add Pascal's Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Pascal's Triangle" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2006,14 +2010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/837. New 21 Game/first/New21Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -2026,22 +2022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -2126,9 +2106,39 @@
     <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/837. New 21 Game/first/New21Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
           </folding>
         </state>
       </provider>
