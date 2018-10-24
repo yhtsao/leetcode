@@ -43,21 +43,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5658083">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="ProductOfArrayExceptSelf.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="ProductOfArrayExceptSelf.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TopKFrequentElem.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+                <state relative-caret-position="323">
+                  <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -67,24 +57,14 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="TopKFrequentElemTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElemTest.java">
+          <file leaf-file-name="ProductOfArrayExceptSelfTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+                <state relative-caret-position="703">
+                  <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ProductOfArrayExceptSelfTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -135,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/162. Find Peak Element/first/FindPeakElement.java" />
-        <option value="$PROJECT_DIR$/162. Find Peak Element/first/FindPeakElementTest.java" />
         <option value="$PROJECT_DIR$/72. Edit Distance/first/EditDistanceTest.java" />
         <option value="$PROJECT_DIR$/72. Edit Distance/first/EditDistance.java" />
         <option value="$PROJECT_DIR$/242. Valid Anagram/first/ValidAnagramTest.java" />
@@ -186,6 +164,8 @@
         <option value="$PROJECT_DIR$/683. K Empty Slots/first/KEmptySlots.java" />
         <option value="$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElemTest.java" />
         <option value="$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java" />
+        <option value="$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java" />
+        <option value="$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java" />
       </list>
     </option>
   </component>
@@ -373,8 +353,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TopKFrequentElemTest">
-    <configuration name="KEmptySlotsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ProductOfArrayExceptSelfTest">
+    <configuration name="ProductOfArrayExceptSelfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -385,7 +365,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KEmptySlotsTest" />
+      <option name="MAIN_CLASS_NAME" value="first.ProductOfArrayExceptSelfTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -399,7 +379,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="KEmptySlotsTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductOfArrayExceptSelfTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -410,8 +390,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.KEmptySlotsTest" />
-      <option name="METHOD_NAME" value="test04" />
+      <option name="MAIN_CLASS_NAME" value="first.ProductOfArrayExceptSelfTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -567,19 +547,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test04" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ProductOfArrayExceptSelfTest.test01" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ProductOfArrayExceptSelfTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.KEmptySlotsTest.test04" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ProductOfArrayExceptSelfTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ProductOfArrayExceptSelfTest.test01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TopKFrequentElemTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -611,14 +591,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="92118000" />
-    </task>
-    <task id="LOCAL-00224" summary="Add Implement Trie (Prefix Tree)">
-      <created>1539936689535</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1539936689536</updated>
+      <workItem from="1539993982851" duration="93437000" />
     </task>
     <task id="LOCAL-00225" summary="Add Populating Next Right Pointers in Each Node">
       <created>1539939035001</created>
@@ -956,24 +929,31 @@
       <option name="project" value="LOCAL" />
       <updated>1540353804035</updated>
     </task>
-    <option name="localTasksCounter" value="273" />
+    <task id="LOCAL-00273" summary="Add Top K Frequent Elements">
+      <created>1540358174760</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1540358174760</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KEmptySlotsTest - 2018.10.24 at 11h 53m 43s.xml">
-      <configuration name="KEmptySlotsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KEmptySlotsTest - 2018.10.24 at 12h 01m 52s.xml">
       <configuration name="KEmptySlotsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test02 - 2018.10.24 at 11h 53m 40s.xml">
-      <configuration name="KEmptySlotsTest.test02" configurationId="JUnit" />
+    <history-entry file="ProductOfArrayExceptSelfTest - 2018.10.24 at 14h 05m 54s.xml">
+      <configuration name="ProductOfArrayExceptSelfTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test04 - 2018.10.24 at 12h 01m 23s.xml">
-      <configuration name="KEmptySlotsTest.test04" configurationId="JUnit" />
+    <history-entry file="ProductOfArrayExceptSelfTest - 2018.10.24 at 14h 06m 22s.xml">
+      <configuration name="ProductOfArrayExceptSelfTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KEmptySlotsTest_test04 - 2018.10.24 at 12h 01m 48s.xml">
-      <configuration name="KEmptySlotsTest.test04" configurationId="JUnit" />
+    <history-entry file="ProductOfArrayExceptSelfTest_test01 - 2018.10.24 at 14h 04m 01s.xml">
+      <configuration name="ProductOfArrayExceptSelfTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductOfArrayExceptSelfTest_test01 - 2018.10.24 at 14h 05m 29s.xml">
+      <configuration name="ProductOfArrayExceptSelfTest.test01" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TopKFrequentElemTest - 2018.10.24 at 13h 13m 41s.xml">
       <configuration name="TopKFrequentElemTest" configurationId="JUnit" />
@@ -992,7 +972,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="724622000" />
+    <option name="totallyTimeSpent" value="725941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1017,11 +997,11 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27770177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27633378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1092,7 +1072,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Search a 2D matrix II" />
     <MESSAGE value="Add Find Peak Element" />
     <MESSAGE value="Add Edit Distance" />
     <MESSAGE value="Add Valid Anagram" />
@@ -1117,7 +1096,8 @@
     <MESSAGE value="Add Shuffle an Array" />
     <MESSAGE value="Add K Empty Slots" />
     <MESSAGE value="Add Binary indexed tree solution for K Empty Slots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Binary indexed tree solution for K Empty Slots" />
+    <MESSAGE value="Add Top K Frequent Elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Top K Frequent Elements" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1515,19 +1495,20 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java</url>
-          <line>13</line>
+          <line>12</line>
           <properties />
           <option name="timeStamp" value="571" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="572" />
+      <option name="time" value="573" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="flowers[i]" language="JAVA" />
-        <watch expression="Arrays.toString(bit)" language="JAVA" custom="java.util.Arrays" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -2043,22 +2024,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElemTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -2071,8 +2036,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        <state relative-caret-position="266">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
