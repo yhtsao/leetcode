@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/first/NestedIterator.java" description="&#10;public class NestedIterator {&#10;}" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Add Maximum Rectangle">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -37,18 +37,18 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.52827007">
+    <splitter split-orientation="horizontal" split-proportion="0.67596567">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java">
+          <file leaf-file-name="RemoveInvalidParentheses.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParentheses.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+                <state relative-caret-position="393">
+                  <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#147#148#0" expanded="true" />
-                    <element signature="e#198#199#0" expanded="true" />
+                    <element signature="e#136#137#0" expanded="true" />
+                    <element signature="e#189#190#0" expanded="true" />
+                    <element signature="method#removeInvalidParenthesesBFS#0;class#RemoveInvalidParentheses#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -58,11 +58,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="MaximalRectangleTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java">
+          <file leaf-file-name="RemoveInvalidParenthesesTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParenthesesTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="247">
-                  <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="42" />
+                <state relative-caret-position="228">
+                  <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -116,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java" />
-        <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java" />
         <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrixTest.java" />
         <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrix.java" />
         <option value="$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSumTest.java" />
@@ -167,6 +165,8 @@
         <option value="$PROJECT_DIR$/337. House Robber III/first/HouseRobberIII.java" />
         <option value="$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java" />
         <option value="$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParenthesesTest.java" />
+        <option value="$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParentheses.java" />
       </list>
     </option>
   </component>
@@ -331,6 +331,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="301. Remove Invalid Parentheses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="301. Remove Invalid Parentheses" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -392,57 +403,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaximalRectangleTest.test03">
-    <configuration name="HouseRobberIIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.HouseRobberIIITest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="HouseRobberIIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.HouseRobberIIITest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.RemoveInvalidParenthesesTest.test01">
     <configuration name="MaximalRectangleTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -506,6 +467,56 @@
       <option name="PACKAGE_NAME" value="first" />
       <option name="MAIN_CLASS_NAME" value="first.MaximalRectangleTest" />
       <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RemoveInvalidParenthesesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.RemoveInvalidParenthesesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RemoveInvalidParenthesesTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.RemoveInvalidParenthesesTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -586,19 +597,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest.test03" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test01" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test02" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test03" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test03" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RemoveInvalidParenthesesTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RemoveInvalidParenthesesTest.test01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test03" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test02" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test01" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest.test03" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RemoveInvalidParenthesesTest.test01" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RemoveInvalidParenthesesTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test03" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -630,14 +641,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="125367000" />
-    </task>
-    <task id="LOCAL-00238" summary="Add Factorial Trailing Zeros">
-      <created>1540033966091</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1540033966091</updated>
+      <workItem from="1539993982851" duration="129485000" />
     </task>
     <task id="LOCAL-00239" summary="Add Excel Sheet Column Number">
       <created>1540035207292</created>
@@ -975,43 +979,50 @@
       <option name="project" value="LOCAL" />
       <updated>1540468099911</updated>
     </task>
-    <option name="localTasksCounter" value="287" />
+    <task id="LOCAL-00287" summary="Add Maximum Rectangle">
+      <created>1540517485526</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1540517485526</updated>
+    </task>
+    <option name="localTasksCounter" value="288" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 20m 42s.xml">
-      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest - 2018.10.26 at 10h 38m 25s.xml">
+      <configuration name="RemoveInvalidParenthesesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 20m 49s.xml">
-      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest - 2018.10.26 at 10h 44m 55s.xml">
+      <configuration name="RemoveInvalidParenthesesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 21m 17s.xml">
-      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest - 2018.10.26 at 12h 34m 08s.xml">
+      <configuration name="RemoveInvalidParenthesesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 21m 25s.xml">
-      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest - 2018.10.26 at 12h 47m 00s.xml">
+      <configuration name="RemoveInvalidParenthesesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test02 - 2018.10.26 at 09h 21m 28s.xml">
-      <configuration name="MaximalRectangleTest.test02" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest_test01 - 2018.10.26 at 10h 40m 46s.xml">
+      <configuration name="RemoveInvalidParenthesesTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test02 - 2018.10.26 at 09h 25m 27s.xml">
-      <configuration name="MaximalRectangleTest.test02" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest_test01 - 2018.10.26 at 10h 43m 45s.xml">
+      <configuration name="RemoveInvalidParenthesesTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test02 - 2018.10.26 at 09h 25m 37s.xml">
-      <configuration name="MaximalRectangleTest.test02" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest_test01 - 2018.10.26 at 10h 44m 30s.xml">
+      <configuration name="RemoveInvalidParenthesesTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test03 - 2018.10.26 at 08h 41m 02s.xml">
-      <configuration name="MaximalRectangleTest.test03" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest_test01 - 2018.10.26 at 10h 44m 51s.xml">
+      <configuration name="RemoveInvalidParenthesesTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test03 - 2018.10.26 at 09h 29m 38s.xml">
-      <configuration name="MaximalRectangleTest.test03" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest_test01 - 2018.10.26 at 12h 50m 44s.xml">
+      <configuration name="RemoveInvalidParenthesesTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaximalRectangleTest_test03 - 2018.10.26 at 09h 30m 06s.xml">
-      <configuration name="MaximalRectangleTest.test03" configurationId="JUnit" />
+    <history-entry file="RemoveInvalidParenthesesTest_test01 - 2018.10.26 at 12h 50m 49s.xml">
+      <configuration name="RemoveInvalidParenthesesTest.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="757871000" />
+    <option name="totallyTimeSpent" value="761989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1111,7 +1122,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Swap Adjacent in LR String" />
     <MESSAGE value="Add Best Meeting Point" />
     <MESSAGE value="Add Find the Duplicate Number" />
     <MESSAGE value="Add Kth Smallest Element in a Sorted Matrix" />
@@ -1136,7 +1146,8 @@
     <MESSAGE value="Add New 21 Game" />
     <MESSAGE value="Add LFU Cache" />
     <MESSAGE value="Add House Robber II &amp; III" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add House Robber II &amp; III" />
+    <MESSAGE value="Add Maximum Rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Maximum Rectangle" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1598,8 +1609,14 @@
           <properties />
           <option name="timeStamp" value="593" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParentheses.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="598" />
+      <option name="time" value="600" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1639,24 +1656,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="67" lean-forward="false" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/first/FindMinInRotatedSortedArrTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -2121,7 +2120,7 @@
     <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="42" />
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2130,12 +2129,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+        <state relative-caret-position="323">
+          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="method#removeInvalidParenthesesBFS#0;class#RemoveInvalidParentheses#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/301. Remove Invalid Parentheses/first/RemoveInvalidParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
