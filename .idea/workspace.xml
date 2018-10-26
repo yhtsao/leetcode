@@ -37,30 +37,18 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.70386267">
+    <splitter split-orientation="horizontal" split-proportion="0.52827007">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="HouseRobberII.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java">
+          <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="45" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="HouseRobberIII.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/337. House Robber III/first/HouseRobberIII.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="67" column="47" lean-forward="true" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+                <state relative-caret-position="513">
+                  <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#155#156#0" expanded="true" />
-                    <element signature="e#192#193#0" expanded="true" />
-                    <element signature="e#823#824#0" expanded="true" />
-                    <element signature="e#880#881#0" expanded="true" />
+                    <element signature="e#147#148#0" expanded="true" />
+                    <element signature="e#198#199#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -70,23 +58,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="HouseRobberIIITest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/337. House Robber III/first/HouseRobberIIITest.java">
+          <file leaf-file-name="MaximalRectangleTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="HouseRobberIITest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/213. House Robber II/first/HouseRobberIITest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+                <state relative-caret-position="247">
+                  <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="42" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -116,22 +92,22 @@
       <find>-&gt;</find>
       <find>solution1</find>
       <find>sol2</find>
-      <find>&quot;</find>
       <find>,</find>
       <find>[</find>
       <find>],</find>
       <find>]</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
       <replace>ListNode.initList</replace>
       <replace>kindInDeck</replace>
       <replace>partitionToDisjointSet</replace>
-      <replace>'</replace>
       <replace>','</replace>
       <replace>{</replace>
       <replace>},</replace>
       <replace>}</replace>
+      <replace>'</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -140,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPointTest.java" />
-        <option value="$PROJECT_DIR$/296. Best Meeting Point/first/BestMeetingPoint.java" />
         <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNumTest.java" />
         <option value="$PROJECT_DIR$/287. Find the Duplicate Number/first/FindTheDuplicateNum.java" />
         <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrixTest.java" />
@@ -191,6 +165,8 @@
         <option value="$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java" />
         <option value="$PROJECT_DIR$/337. House Robber III/first/HouseRobberIIITest.java" />
         <option value="$PROJECT_DIR$/337. House Robber III/first/HouseRobberIII.java" />
+        <option value="$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java" />
+        <option value="$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java" />
       </list>
     </option>
   </component>
@@ -311,6 +287,28 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="53. Maximum Subarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="53. Maximum Subarray" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="85. Maximal Rectangle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="85. Maximal Rectangle" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="118. Pascal's Triangle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,83 +326,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="169. Majority Element" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="198. House Robber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="198. House Robber" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="202. Happy Number" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="202. Happy Number" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="213. House Robber II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="213. House Robber II" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="337. House Robber III" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="337. House Robber III" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="913. Cat and Mouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="913. Cat and Mouse" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="927. Three Equal Parts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="927. Three Equal Parts" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="928. Minimize Malware Spread II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="928. Minimize Malware Spread II" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -471,7 +392,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HouseRobberIIITest">
+  <component name="RunManager" selected="JUnit.MaximalRectangleTest.test03">
     <configuration name="HouseRobberIIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -522,7 +443,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="HouseRobberIITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximalRectangleTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -533,33 +454,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.HouseRobberIITest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="HouseRobberIITest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.HouseRobberIITest" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="MAIN_CLASS_NAME" value="first.MaximalRectangleTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -572,7 +468,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="LFUCacheTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximalRectangleTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="first.*" />
@@ -583,8 +479,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="first" />
-      <option name="MAIN_CLASS_NAME" value="first.LFUCacheTest" />
+      <option name="MAIN_CLASS_NAME" value="first.MaximalRectangleTest" />
       <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MaximalRectangleTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.MaximalRectangleTest" />
+      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -665,19 +586,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LFUCacheTest.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HouseRobberIITest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HouseRobberIITest.test03" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest.test03" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest.test03" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test01" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test02" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test03" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest.test03" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HouseRobberIITest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HouseRobberIITest.test03" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LFUCacheTest.test02" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test03" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test02" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MaximalRectangleTest.test01" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HouseRobberIIITest.test03" />
       </list>
     </recent_temporary>
   </component>
@@ -709,14 +630,7 @@
       <workItem from="1537259660643" duration="491000" />
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
-      <workItem from="1539993982851" duration="119749000" />
-    </task>
-    <task id="LOCAL-00237" summary="Add Linked List Cycle II">
-      <created>1540031688500</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1540031688500</updated>
+      <workItem from="1539993982851" duration="125367000" />
     </task>
     <task id="LOCAL-00238" summary="Add Factorial Trailing Zeros">
       <created>1540033966091</created>
@@ -1054,43 +968,50 @@
       <option name="project" value="LOCAL" />
       <updated>1540454225052</updated>
     </task>
-    <option name="localTasksCounter" value="286" />
+    <task id="LOCAL-00286" summary="Add House Robber II &amp; III">
+      <created>1540468099911</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1540468099911</updated>
+    </task>
+    <option name="localTasksCounter" value="287" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HouseRobberIIITest - 2018.10.25 at 17h 57m 21s.xml">
-      <configuration name="HouseRobberIIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 20m 42s.xml">
+      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIIITest - 2018.10.25 at 17h 57m 44s.xml">
-      <configuration name="HouseRobberIIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 20m 49s.xml">
+      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIIITest - 2018.10.25 at 19h 28m 40s.xml">
-      <configuration name="HouseRobberIIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 21m 17s.xml">
+      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIIITest - 2018.10.25 at 19h 43m 01s.xml">
-      <configuration name="HouseRobberIIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test01 - 2018.10.26 at 09h 21m 25s.xml">
+      <configuration name="MaximalRectangleTest.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIIITest - 2018.10.25 at 19h 46m 58s.xml">
-      <configuration name="HouseRobberIIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test02 - 2018.10.26 at 09h 21m 28s.xml">
+      <configuration name="MaximalRectangleTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIIITest_test03 - 2018.10.25 at 17h 57m 17s.xml">
-      <configuration name="HouseRobberIIITest.test03" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test02 - 2018.10.26 at 09h 25m 27s.xml">
+      <configuration name="MaximalRectangleTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIITest - 2018.10.25 at 16h 38m 17s.xml">
-      <configuration name="HouseRobberIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test02 - 2018.10.26 at 09h 25m 37s.xml">
+      <configuration name="MaximalRectangleTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIITest - 2018.10.25 at 16h 44m 09s.xml">
-      <configuration name="HouseRobberIITest" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test03 - 2018.10.26 at 08h 41m 02s.xml">
+      <configuration name="MaximalRectangleTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIITest_test03 - 2018.10.25 at 16h 42m 27s.xml">
-      <configuration name="HouseRobberIITest.test03" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test03 - 2018.10.26 at 09h 29m 38s.xml">
+      <configuration name="MaximalRectangleTest.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HouseRobberIITest_test03 - 2018.10.25 at 16h 42m 57s.xml">
-      <configuration name="HouseRobberIITest.test03" configurationId="JUnit" />
+    <history-entry file="MaximalRectangleTest_test03 - 2018.10.26 at 09h 30m 06s.xml">
+      <configuration name="MaximalRectangleTest.test03" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="752253000" />
+    <option name="totallyTimeSpent" value="757871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1140,12 +1061,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1190,7 +1111,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Swap Adjacent In LR String" />
     <MESSAGE value="Add Swap Adjacent in LR String" />
     <MESSAGE value="Add Best Meeting Point" />
     <MESSAGE value="Add Find the Duplicate Number" />
@@ -1215,7 +1135,8 @@
     <MESSAGE value="Add Intersection of Two Arrays I &amp; II" />
     <MESSAGE value="Add New 21 Game" />
     <MESSAGE value="Add LFU Cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add LFU Cache" />
+    <MESSAGE value="Add House Robber II &amp; III" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add House Robber II &amp; III" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1665,8 +1586,20 @@
           <properties />
           <option name="timeStamp" value="591" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarray.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="592" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="592" />
+      <option name="time" value="598" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1706,45 +1639,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/first/KSmallestElemInSortedMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="73" column="18" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="73" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="method#kthSmallestHeap#0;class#KSmallestElemInSortedMatrix#0" expanded="false" />
-            <element signature="method#kthSmallestHeapV2#0;class#KSmallestElemInSortedMatrix#0" expanded="false" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="method#kthSmallestBinarySearch#0;class#KSmallestElemInSortedMatrix#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/373. Find K Pairs with Smallest Sums/first/FindKPairsWithSmallestSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#212#213#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/328. Odd Even Linked List/first/OddEvenLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -2174,7 +2068,7 @@
     <entry file="file://$PROJECT_DIR$/213. House Robber II/first/HouseRobberIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2184,7 +2078,7 @@
     <entry file="file://$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="45" />
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -2192,7 +2086,7 @@
     <entry file="file://$PROJECT_DIR$/337. House Robber III/first/HouseRobberIIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2201,14 +2095,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/337. House Robber III/first/HouseRobberIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="67" column="47" lean-forward="true" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+        <state relative-caret-position="323">
+          <caret line="63" column="36" lean-forward="false" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
             <element signature="e#823#824#0" expanded="true" />
             <element signature="e#880#881#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53. Maximum Subarray/first/MaxSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
           </folding>
         </state>
       </provider>

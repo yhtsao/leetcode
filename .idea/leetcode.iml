@@ -246,6 +246,10 @@
       <sourceFolder url="file://$MODULE_DIR$/350. Intersection of Two Arrays II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/837. New 21 Game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/349. Intersection of Two Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/460. LFU Cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/337. House Robber III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/213. House Robber II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/85. Maximal Rectangle" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
