@@ -48,7 +48,6 @@
       <sourceFolder url="file://$MODULE_DIR$/51. N-Queens" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/52. N-Queens II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/55. Jump Game" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/636. Exclusive Time of Functions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7. Reverse Integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8. String to Integer (atoi)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/832. Flipping an Image" isTestSource="false" />
@@ -63,8 +62,6 @@
       <sourceFolder url="file://$MODULE_DIR$/910. Smallest Range II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/909. Snakes and Ladders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/911. Online Election" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/621. Task Scheduler" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9. Palindrome Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/56. Merge Intervals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/60. Permutation Sequence" isTestSource="false" />
@@ -177,9 +174,6 @@
       <sourceFolder url="file://$MODULE_DIR$/454. 4Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/467. Unique Substrings in Wraparound String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/516. Longest Palindromic Subsequence" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/561. Array Partition I" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/565. Array Nesting" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/683. K Empty Slots" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/153. Find Minimum in Rotated Sorted Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/238. Product of Array Except Self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/239. Sliding Window Maximum" isTestSource="false" />
@@ -258,7 +252,15 @@
       <sourceFolder url="file://$MODULE_DIR$/931. Minimum Falling Path Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/932. Beautiful Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/929. Unique Email Addresses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/523. Continuous Subarray Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/560. Subarray Sum Equals K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/561. Array Partition I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/565. Array Nesting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/621. Task Scheduler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/636. Exclusive Time of Functions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/683. K Empty Slots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/713. Subarray Product Less Than K" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
