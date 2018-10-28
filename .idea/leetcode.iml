@@ -208,11 +208,6 @@
       <sourceFolder url="file://$MODULE_DIR$/296. Best Meeting Point" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/297. Serialize and Deserialize Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/300. Longest Increasing Subsequence" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/303. Range Sum Query - Immutable" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/304. Range Sum Query 2D - Immutable" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/307. Range Sum Query - Mutable" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/308. Range Sum Query 2D - Mutable" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/309. Best Time to Buy and Sell Stock with Cooldown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/315. Count of Smaller Numbers After Self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/322. Coin Change" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/324. Wiggle Sort II" isTestSource="false" />
@@ -250,6 +245,19 @@
       <sourceFolder url="file://$MODULE_DIR$/337. House Robber III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/213. House Robber II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/85. Maximal Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/301. Remove Invalid Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/303. Range Sum Query - Immutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/304. Range Sum Query 2D - Immutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/307. Range Sum Query - Mutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/308. Range Sum Query 2D - Mutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/309. Best Time to Buy and Sell Stock with Cooldown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/312. Burst Balloons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/114. Flatten Binary Tree to Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/221. Maximal Square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/930. Binary Subarrays With Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/931. Minimum Falling Path Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/932. Beautiful Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/929. Unique Email Addresses" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
