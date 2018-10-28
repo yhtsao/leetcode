@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -36,24 +37,14 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.5114449">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="BinarySubarraysWithSum.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="BinarySubarraysWithSum.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSum.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BinarySubarraysWithSumTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSumTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <state relative-caret-position="513">
+                  <caret line="30" column="19" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="30" selection-end-column="19" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -61,11 +52,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="MInimumFallingPathSum.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/931. Minimum Falling Path Sum/first/MInimumFallingPathSum.java">
+          <file leaf-file-name="SubarraySumEqualToK.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/560. Subarray Sum Equals K/first/SubarraySumEqualToK.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+                <state relative-caret-position="38">
+                  <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -78,8 +69,8 @@
           <file leaf-file-name="BinarySubarraysWithSumTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSumTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <state relative-caret-position="532">
+                  <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -133,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElemTest.java" />
         <option value="$PROJECT_DIR$/347. Top K Frequent Elements/first/TopKFrequentElem.java" />
         <option value="$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelf.java" />
         <option value="$PROJECT_DIR$/238. Product of Array Except Self/first/ProductOfArrayExceptSelfTest.java" />
@@ -182,8 +172,9 @@
         <option value="$PROJECT_DIR$/932. Beautiful Array/first/BeautifulArray.java" />
         <option value="$PROJECT_DIR$/929. Unique Email Addresses/first/UniqueEmailAddressTest.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/SolutionTest3.java" />
-        <option value="$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSumTest.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/SolutionTest2.java" />
+        <option value="$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSum.java" />
+        <option value="$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSumTest.java" />
       </list>
     </option>
   </component>
@@ -272,6 +263,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="560. Subarray Sum Equals K" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="560. Subarray Sum Equals K" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -414,7 +416,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest2.test03">
+  <component name="RunManager" selected="JUnit.BinarySubarraysWithSumTest">
+    <configuration name="BinarySubarraysWithSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="first" />
+      <option name="MAIN_CLASS_NAME" value="first.BinarySubarraysWithSumTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="SolutionTest2.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="leetcode" />
@@ -495,26 +522,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SolutionTest3.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolutionTest3" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -583,19 +590,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest3.test02" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test01" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test02" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test03" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test04" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test01" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test02" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test03" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test04" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BinarySubarraysWithSumTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test03" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test04" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test02" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test01" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest3.test02" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BinarySubarraysWithSumTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test03" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test04" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest2.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -627,14 +634,7 @@
       <workItem from="1537364198098" duration="8285000" />
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
-      <workItem from="1540690009477" duration="4561000" />
-    </task>
-    <task id="LOCAL-00244" summary="Add Long Pressed Name">
-      <created>1540107568738</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1540107568738</updated>
+      <workItem from="1540690009477" duration="5758000" />
     </task>
     <task id="LOCAL-00245" summary="Add Flip String to Monotone Increasing">
       <created>1540109911853</created>
@@ -972,18 +972,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540699212983</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="Add Minimum Falling Path Sum">
+      <created>1540699304757</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1540699304757</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest2_test01 - 2018.10.28 at 09h 57m 04s.xml">
-      <configuration name="SolutionTest2.test01" configurationId="JUnit" />
+    <history-entry file="BinarySubarraysWithSumTest - 2018.10.28 at 15h 16m 45s.xml">
+      <configuration name="BinarySubarraysWithSumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest2_test01 - 2018.10.28 at 09h 58m 12s.xml">
-      <configuration name="SolutionTest2.test01" configurationId="JUnit" />
+    <history-entry file="BinarySubarraysWithSumTest - 2018.10.28 at 15h 16m 54s.xml">
+      <configuration name="BinarySubarraysWithSumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest2_test02 - 2018.10.28 at 09h 58m 15s.xml">
-      <configuration name="SolutionTest2.test02" configurationId="JUnit" />
+    <history-entry file="BinarySubarraysWithSumTest - 2018.10.28 at 15h 17m 24s.xml">
+      <configuration name="BinarySubarraysWithSumTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SolutionTest2_test02 - 2018.10.28 at 10h 15m 14s.xml">
       <configuration name="SolutionTest2.test02" configurationId="JUnit" />
@@ -1008,7 +1015,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="774359000" />
+    <option name="totallyTimeSpent" value="775556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1021,7 +1028,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1029,11 +1035,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15450644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15450644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1060,11 +1066,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15450644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15450644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1109,7 +1115,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Find Minimum in Rotated Sorted Array" />
     <MESSAGE value="Add Array Nesting" />
     <MESSAGE value="Add Shuffle an Array" />
     <MESSAGE value="Add K Empty Slots" />
@@ -1134,7 +1139,8 @@
     <MESSAGE value="Add Flatten Binary Tree to Linked List" />
     <MESSAGE value="Add Maximal Square" />
     <MESSAGE value="Add Unique Email Addresses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Unique Email Addresses" />
+    <MESSAGE value="Add Minimum Falling Path Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Minimum Falling Path Sum" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1616,7 +1622,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSum.java</url>
-          <line>9</line>
+          <line>22</line>
           <properties />
           <option name="timeStamp" value="606" />
         </line-breakpoint>
@@ -1661,23 +1667,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/928. Minimize Malware Spread II/first/MinimizeMalwareSpreadII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/924. Minimize Malware Spread/first/MinimizeMalwareSpread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="17" column="88" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/928. Minimize Malware Spread II/first/MinimizeMalwareSpreadIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -2021,25 +2010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/932. Beautiful Array/first/BeautifulArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Weekly Contest/SolutionTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2063,7 +2033,7 @@
         <state relative-caret-position="380">
           <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2071,15 +2041,49 @@
     <entry file="file://$PROJECT_DIR$/931. Minimum Falling Path Sum/first/MInimumFallingPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/932. Beautiful Array/first/BeautifulArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/932. Beautiful Array/first/BeautifulArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/560. Subarray Sum Equals K/first/SubarraySumEqualToK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="532">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="30" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

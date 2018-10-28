@@ -258,6 +258,7 @@
       <sourceFolder url="file://$MODULE_DIR$/931. Minimum Falling Path Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/932. Beautiful Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/929. Unique Email Addresses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/560. Subarray Sum Equals K" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
