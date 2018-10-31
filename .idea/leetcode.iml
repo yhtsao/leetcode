@@ -261,6 +261,7 @@
       <sourceFolder url="file://$MODULE_DIR$/647. Palindromic Substrings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/683. K Empty Slots" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/713. Subarray Product Less Than K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/729. My Calendar I" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
