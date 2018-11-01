@@ -50,15 +50,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyCalendarThreeV2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyCalendarThreeV2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="228">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
-                <element signature="e#1314#1315#0" expanded="true" />
-                <element signature="e#1376#1377#0" expanded="true" />
+                <element signature="e#1315#1316#0" expanded="true" />
+                <element signature="e#1377#1378#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BullsAndCows.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangle.java" />
         <option value="$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java" />
         <option value="$PROJECT_DIR$/169. Majority Element/first/MajorityElement.java" />
         <option value="$PROJECT_DIR$/198. House Robber/first/HouseRobberTest.java" />
@@ -158,6 +167,7 @@
         <option value="$PROJECT_DIR$/731. My Calendar II/first/MyCalendarTwoV2.java" />
         <option value="$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV1.java" />
         <option value="$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV2.java" />
+        <option value="$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java" />
       </list>
     </option>
   </component>
@@ -277,34 +287,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="729. My Calendar I" type="462c0819:PsiDirectoryNode" />
+              <item name="299. Bulls and Cows" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="729. My Calendar I" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="731. My Calendar II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="731. My Calendar II" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="732. My Calendar III" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="732. My Calendar III" type="462c0819:PsiDirectoryNode" />
+              <item name="299. Bulls and Cows" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -616,14 +604,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="1838000" />
-    </task>
-    <task id="LOCAL-00251" summary="Add Valid Anagram">
-      <created>1540135512426</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1540135512426</updated>
+      <workItem from="1540956920961" duration="2157000" />
     </task>
     <task id="LOCAL-00252" summary="Add Meeting Rooms I &amp; II">
       <created>1540183191569</created>
@@ -961,7 +942,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540996277172</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="Add My Calendar II &amp; III">
+      <created>1541046263408</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1541046263408</updated>
+    </task>
+    <option name="localTasksCounter" value="301" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -997,7 +985,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="781321000" />
+    <option name="totallyTimeSpent" value="781640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1097,7 +1085,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Minimize Malware Spread II" />
     <MESSAGE value="Add Three Equal Parts" />
     <MESSAGE value="Add Symmetric Tree" />
     <MESSAGE value="Add Power of Three" />
@@ -1122,7 +1109,8 @@
     <MESSAGE value="Add Subarray Product Less Than K" />
     <MESSAGE value="Add Continuous Subarray Sum" />
     <MESSAGE value="Add My Calendar I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add My Calendar I" />
+    <MESSAGE value="Add My Calendar II &amp; III" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add My Calendar II &amp; III" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1649,13 +1637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2002,7 +1983,7 @@
         <state relative-caret-position="190">
           <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2012,7 +1993,7 @@
         <state relative-caret-position="399">
           <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2062,12 +2043,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="228">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
-            <element signature="e#1314#1315#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
