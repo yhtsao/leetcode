@@ -63,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BullsAndCows.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BullsAndCows.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedundantConnection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/684. Redundant Connection/first/RedundantConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -117,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java" />
         <option value="$PROJECT_DIR$/169. Majority Element/first/MajorityElement.java" />
         <option value="$PROJECT_DIR$/198. House Robber/first/HouseRobberTest.java" />
         <option value="$PROJECT_DIR$/198. House Robber/first/HouseRobber.java" />
@@ -168,6 +177,7 @@
         <option value="$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV1.java" />
         <option value="$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV2.java" />
         <option value="$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java" />
+        <option value="$PROJECT_DIR$/684. Redundant Connection/first/RedundantConnection.java" />
       </list>
     </option>
   </component>
@@ -293,6 +303,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="299. Bulls and Cows" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="684. Redundant Connection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="684. Redundant Connection" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -604,14 +625,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="2157000" />
-    </task>
-    <task id="LOCAL-00252" summary="Add Meeting Rooms I &amp; II">
-      <created>1540183191569</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1540183191570</updated>
+      <workItem from="1540956920961" duration="2342000" />
     </task>
     <task id="LOCAL-00253" summary="Add Best Time to Buy and Sell Stock III &amp; IV">
       <created>1540198537260</created>
@@ -949,7 +963,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541046263408</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="Add Bulls and Cows">
+      <created>1541049160956</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1541049160957</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -985,7 +1006,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="781640000" />
+    <option name="totallyTimeSpent" value="781825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1085,7 +1106,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Three Equal Parts" />
     <MESSAGE value="Add Symmetric Tree" />
     <MESSAGE value="Add Power of Three" />
     <MESSAGE value="Add Happy Number" />
@@ -1110,7 +1130,8 @@
     <MESSAGE value="Add Continuous Subarray Sum" />
     <MESSAGE value="Add My Calendar I" />
     <MESSAGE value="Add My Calendar II &amp; III" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add My Calendar II &amp; III" />
+    <MESSAGE value="Add Bulls and Cows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Bulls and Cows" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1637,13 +1658,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/first/PascalsTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/169. Majority Element/first/MajorityElementTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -2055,7 +2069,15 @@
     <entry file="file://$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/684. Redundant Connection/first/RedundantConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="40" column="5" lean-forward="false" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding />
         </state>
       </provider>
