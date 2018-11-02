@@ -38,41 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyCalendarThreeV1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedundantConnection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/684. Redundant Connection/first/RedundantConnection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedundantConnectionII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/685. Redundant Connection II/first/RedundantConnectionII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding>
-                <element signature="e#1217#1218#0" expanded="true" />
-                <element signature="e#1290#1291#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SentenceScreenFitting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/418. Sentence Screen Fitting/first/SentenceScreenFitting.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,14 +61,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EvaluateDivision.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EvaluateDivision.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniqueBinarySearchTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays/first/IntersectionOfTwoArraysTest.java" />
         <option value="$PROJECT_DIR$/349. Intersection of Two Arrays/first/IntersectionOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java" />
         <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysII.java" />
@@ -203,6 +177,7 @@
         <option value="$PROJECT_DIR$/685. Redundant Connection II/first/RedundantConnectionII.java" />
         <option value="$PROJECT_DIR$/529. Minesweeper/first/MineSweeper.java" />
         <option value="$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java" />
+        <option value="$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -318,6 +293,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="96. Unique Binary Search Trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="96. Unique Binary Search Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -661,14 +647,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="4665000" />
-    </task>
-    <task id="LOCAL-00256" summary="Add Insert Delete GetRandom O(1) - Duplicates allowed">
-      <created>1540220943868</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1540220943868</updated>
+      <workItem from="1540956920961" duration="4917000" />
     </task>
     <task id="LOCAL-00257" summary="Add Mini Parser">
       <created>1540263223366</created>
@@ -1006,7 +985,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541150891696</updated>
     </task>
-    <option name="localTasksCounter" value="305" />
+    <task id="LOCAL-00305" summary="Add Evaluate Division">
+      <created>1541155057469</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1541155057470</updated>
+    </task>
+    <option name="localTasksCounter" value="306" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1042,7 +1028,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="784148000" />
+    <option name="totallyTimeSpent" value="784400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1142,7 +1128,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Pascal's Triangle" />
     <MESSAGE value="Add Majority Element" />
     <MESSAGE value="Add House Robber" />
     <MESSAGE value="Add Intersection of Two Arrays I &amp; II" />
@@ -1167,7 +1152,8 @@
     <MESSAGE value="Add Redundant Connection" />
     <MESSAGE value="Add Redundant Connection II" />
     <MESSAGE value="Add Minesweeper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Minesweeper" />
+    <MESSAGE value="Add Evaluate Division" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Evaluate Division" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1694,13 +1680,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2119,10 +2098,18 @@
     <entry file="file://$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
