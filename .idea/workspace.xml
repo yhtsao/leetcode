@@ -86,12 +86,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google/sweep_robot/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EvaluateDivision.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/198. House Robber/first/HouseRobber.java" />
         <option value="$PROJECT_DIR$/349. Intersection of Two Arrays/first/IntersectionOfTwoArraysTest.java" />
         <option value="$PROJECT_DIR$/349. Intersection of Two Arrays/first/IntersectionOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java" />
@@ -191,6 +202,7 @@
         <option value="$PROJECT_DIR$/684. Redundant Connection/first/RedundantConnection.java" />
         <option value="$PROJECT_DIR$/685. Redundant Connection II/first/RedundantConnectionII.java" />
         <option value="$PROJECT_DIR$/529. Minesweeper/first/MineSweeper.java" />
+        <option value="$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java" />
       </list>
     </option>
   </component>
@@ -306,6 +318,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -638,14 +661,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="3869000" />
-    </task>
-    <task id="LOCAL-00255" summary="Add Insert Delete GetRandom O(1)">
-      <created>1540216947029</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1540216947030</updated>
+      <workItem from="1540956920961" duration="4665000" />
     </task>
     <task id="LOCAL-00256" summary="Add Insert Delete GetRandom O(1) - Duplicates allowed">
       <created>1540220943868</created>
@@ -983,7 +999,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541067289496</updated>
     </task>
-    <option name="localTasksCounter" value="304" />
+    <task id="LOCAL-00304" summary="Add Minesweeper">
+      <created>1541150891696</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1541150891696</updated>
+    </task>
+    <option name="localTasksCounter" value="305" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1019,7 +1042,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="783352000" />
+    <option name="totallyTimeSpent" value="784148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1119,7 +1142,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Happy Number" />
     <MESSAGE value="Add Pascal's Triangle" />
     <MESSAGE value="Add Majority Element" />
     <MESSAGE value="Add House Robber" />
@@ -1144,7 +1166,8 @@
     <MESSAGE value="Add Bulls and Cows" />
     <MESSAGE value="Add Redundant Connection" />
     <MESSAGE value="Add Redundant Connection II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Redundant Connection II" />
+    <MESSAGE value="Add Minesweeper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Minesweeper" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1671,13 +1694,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays/first/IntersectionOfTwoArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -2097,6 +2113,16 @@
         <state relative-caret-position="76">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
