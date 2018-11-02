@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/first/NestedIterator.java" description="&#10;public class NestedIterator {&#10;}" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Add Unique Binary Search Trees II">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -38,19 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SentenceScreenFitting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/418. Sentence Screen Fitting/first/SentenceScreenFitting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google/sweep_robot/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,29 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EvaluateDivision.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTreeII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UniqueBinarySearchTreeII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/first/UniqueBinarySearchTreeII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -91,6 +56,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/394. Decode String/first/DecodeString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,8 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java" />
-        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysII.java" />
         <option value="$PROJECT_DIR$/837. New 21 Game/first/New21GameTest.java" />
         <option value="$PROJECT_DIR$/837. New 21 Game/first/New21Game.java" />
         <option value="$PROJECT_DIR$/460. LFU Cache/first/LFUCacheTest.java" />
@@ -190,6 +163,8 @@
         <option value="$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java" />
         <option value="$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/95. Unique Binary Search Trees II/first/UniqueBinarySearchTreeII.java" />
+        <option value="$PROJECT_DIR$/95. Unique Binary Search Trees II/first/first/DecodeString.java" />
+        <option value="$PROJECT_DIR$/394. Decode String/first/DecodeString.java" />
       </list>
     </option>
   </component>
@@ -331,6 +306,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="394. Decode String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="394. Decode String" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -392,7 +378,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/First" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/394. Decode String" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -400,9 +386,17 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="first" />
+      <recent name="first.first" />
       <recent name="" />
       <recent name="common" />
       <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="first" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/41. First Missing Positive" />
@@ -410,13 +404,6 @@
       <recent name="$PROJECT_DIR$/39. Combination Sum" />
       <recent name="$PROJECT_DIR$/35. Search Insert Position" />
       <recent name="$PROJECT_DIR$/34. Search for a Range" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="first" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -670,14 +657,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="5187000" />
-    </task>
-    <task id="LOCAL-00258" summary="Add Flatten Nested List Iterator">
-      <created>1540264900635</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1540264900635</updated>
+      <workItem from="1540956920961" duration="5806000" />
     </task>
     <task id="LOCAL-00259" summary="Update">
       <created>1540267291507</created>
@@ -1015,7 +995,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541158824993</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="Add Unique Binary Search Trees II">
+      <created>1541160747422</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1541160747422</updated>
+    </task>
+    <option name="localTasksCounter" value="308" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1051,7 +1038,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="784670000" />
+    <option name="totallyTimeSpent" value="785289000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1072,10 +1059,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1151,7 +1138,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add House Robber" />
     <MESSAGE value="Add Intersection of Two Arrays I &amp; II" />
     <MESSAGE value="Add New 21 Game" />
     <MESSAGE value="Add LFU Cache" />
@@ -1176,7 +1162,8 @@
     <MESSAGE value="Add Minesweeper" />
     <MESSAGE value="Add Evaluate Division" />
     <MESSAGE value="Add Unique Binary Search Trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Unique Binary Search Trees" />
+    <MESSAGE value="Add Unique Binary Search Trees II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Unique Binary Search Trees II" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1703,13 +1690,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/837. New 21 Game/first/New21GameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/837. New 21 Game/first/New21Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -2132,6 +2112,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/394. Decode String/first/DecodeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
