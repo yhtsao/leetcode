@@ -73,12 +73,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniqueBinarySearchTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UniqueBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniqueBinarySearchTreeII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/first/UniqueBinarySearchTreeII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays/first/IntersectionOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysIITest.java" />
         <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysII.java" />
         <option value="$PROJECT_DIR$/837. New 21 Game/first/New21GameTest.java" />
@@ -178,6 +189,7 @@
         <option value="$PROJECT_DIR$/529. Minesweeper/first/MineSweeper.java" />
         <option value="$PROJECT_DIR$/399. Evaluate Division/first/EvaluateDivision.java" />
         <option value="$PROJECT_DIR$/96. Unique Binary Search Trees/first/UniqueBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/95. Unique Binary Search Trees II/first/UniqueBinarySearchTreeII.java" />
       </list>
     </option>
   </component>
@@ -293,6 +305,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="95. Unique Binary Search Trees II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="95. Unique Binary Search Trees II" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -647,14 +670,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="4917000" />
-    </task>
-    <task id="LOCAL-00257" summary="Add Mini Parser">
-      <created>1540263223366</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1540263223366</updated>
+      <workItem from="1540956920961" duration="5187000" />
     </task>
     <task id="LOCAL-00258" summary="Add Flatten Nested List Iterator">
       <created>1540264900635</created>
@@ -992,7 +1008,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541155057470</updated>
     </task>
-    <option name="localTasksCounter" value="306" />
+    <task id="LOCAL-00306" summary="Add Unique Binary Search Trees">
+      <created>1541158824992</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1541158824993</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1028,7 +1051,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="784400000" />
+    <option name="totallyTimeSpent" value="784670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1128,7 +1151,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Majority Element" />
     <MESSAGE value="Add House Robber" />
     <MESSAGE value="Add Intersection of Two Arrays I &amp; II" />
     <MESSAGE value="Add New 21 Game" />
@@ -1153,7 +1175,8 @@
     <MESSAGE value="Add Redundant Connection II" />
     <MESSAGE value="Add Minesweeper" />
     <MESSAGE value="Add Evaluate Division" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Evaluate Division" />
+    <MESSAGE value="Add Unique Binary Search Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Unique Binary Search Trees" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1680,17 +1703,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/first/IntersectionOfTwoArraysII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/837. New 21 Game/first/New21GameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -2110,6 +2122,16 @@
         <state relative-caret-position="38">
           <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/first/UniqueBinarySearchTreeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
