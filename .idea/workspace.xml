@@ -80,14 +80,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PredictWinner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PredictWinner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/486. Predict the Winner/first/PredictWinner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="491">
-              <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+              <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FruitIntoBaskets.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/904. Fruit Into Baskets/first/FruitIntoBaskets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java" />
         <option value="$PROJECT_DIR$/337. House Robber III/first/HouseRobberIIITest.java" />
         <option value="$PROJECT_DIR$/337. House Robber III/first/HouseRobberIII.java" />
         <option value="$PROJECT_DIR$/85. Maximal Rectangle/first/MaximalRectangleTest.java" />
@@ -188,6 +199,7 @@
         <option value="$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java" />
         <option value="$PROJECT_DIR$/763. Partition Labels/first/PartitionLabels.java" />
         <option value="$PROJECT_DIR$/486. Predict the Winner/first/PredictWinner.java" />
+        <option value="$PROJECT_DIR$/904. Fruit Into Baskets/first/FruitIntoBaskets.java" />
       </list>
     </option>
   </component>
@@ -329,50 +341,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="394. Decode String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="394. Decode String" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="399. Evaluate Division" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="486. Predict the Winner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="486. Predict the Winner" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="529. Minesweeper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="529. Minesweeper" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="763. Partition Labels" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -390,6 +358,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="768. Max Chunks To Make Sorted II" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="904. Fruit Into Baskets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="904. Fruit Into Baskets" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -713,14 +692,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="7919000" />
-    </task>
-    <task id="LOCAL-00264" summary="Add Find the Duplicate Number">
-      <created>1540280804288</created>
-      <option name="number" value="00264" />
-      <option name="presentableId" value="LOCAL-00264" />
-      <option name="project" value="LOCAL" />
-      <updated>1540280804288</updated>
+      <workItem from="1540956920961" duration="8292000" />
     </task>
     <task id="LOCAL-00265" summary="Add Kth Smallest Element in a Sorted Matrix">
       <created>1540286534788</created>
@@ -1058,7 +1030,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541223672978</updated>
     </task>
-    <option name="localTasksCounter" value="313" />
+    <task id="LOCAL-00313" summary="Add Predict the Winner">
+      <created>1541253741353</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
+      <option name="project" value="LOCAL" />
+      <updated>1541253741353</updated>
+    </task>
+    <option name="localTasksCounter" value="314" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1094,7 +1073,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="787402000" />
+    <option name="totallyTimeSpent" value="787775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1194,7 +1173,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Remove invalid parentheses" />
     <MESSAGE value="Add Burst Balloons" />
     <MESSAGE value="Add Flatten Binary Tree to Linked List" />
     <MESSAGE value="Add Maximal Square" />
@@ -1219,7 +1197,8 @@
     <MESSAGE value="Add Max Chunks To Make Sorted" />
     <MESSAGE value="Add Max Chunks To Make Sorted II" />
     <MESSAGE value="Add Partition Labels" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Partition Labels" />
+    <MESSAGE value="Add Predict the Winner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Predict the Winner" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1746,14 +1725,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/337. House Robber III/first/HouseRobberIIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -2181,10 +2152,20 @@
     <entry file="file://$PROJECT_DIR$/486. Predict the Winner/first/PredictWinner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
-          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
           <folding>
             <element signature="e#99#100#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/904. Fruit Into Baskets/first/FruitIntoBaskets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

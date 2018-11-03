@@ -278,6 +278,7 @@
       <sourceFolder url="file://$MODULE_DIR$/768. Max Chunks To Make Sorted II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/763. Partition Labels" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/486. Predict the Winner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/904. Fruit Into Baskets" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
