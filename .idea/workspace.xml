@@ -48,43 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniqueBinarySearchTreeII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/first/UniqueBinarySearchTreeII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecodeString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/394. Decode String/first/DecodeString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BusRoutes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/815. Bus Routes/first/BusRoutes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxChunksToMakeSorted.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaxChunksToMakeSorted.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/769. Max Chunks To Make Sorted/first/MaxChunksToMakeSorted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="38">
+              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxChunksToMakeSortedII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -134,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/460. LFU Cache/first/LFUCacheTest.java" />
         <option value="$PROJECT_DIR$/460. LFU Cache/first/LFUCache.java" />
         <option value="$PROJECT_DIR$/213. House Robber II/first/HouseRobberIITest.java" />
         <option value="$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java" />
@@ -185,6 +162,7 @@
         <option value="$PROJECT_DIR$/394. Decode String/first/DecodeString.java" />
         <option value="$PROJECT_DIR$/815. Bus Routes/first/BusRoutes.java" />
         <option value="$PROJECT_DIR$/769. Max Chunks To Make Sorted/first/MaxChunksToMakeSorted.java" />
+        <option value="$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java" />
       </list>
     </option>
   </component>
@@ -359,23 +337,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="769. Max Chunks To Make Sorted" type="462c0819:PsiDirectoryNode" />
+              <item name="768. Max Chunks To Make Sorted II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="769. Max Chunks To Make Sorted" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="815. Bus Routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="815. Bus Routes" type="462c0819:PsiDirectoryNode" />
+              <item name="768. Max Chunks To Make Sorted II" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -699,14 +666,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="6298000" />
-    </task>
-    <task id="LOCAL-00261" summary="Add Swap Adjacent In LR String">
-      <created>1540271086368</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1540271086368</updated>
+      <workItem from="1540956920961" duration="6930000" />
     </task>
     <task id="LOCAL-00262" summary="Add Swap Adjacent in LR String">
       <created>1540271110200</created>
@@ -1044,7 +1004,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541168122804</updated>
     </task>
-    <option name="localTasksCounter" value="310" />
+    <task id="LOCAL-00310" summary="Add Max Chunks To Make Sorted">
+      <created>1541174192668</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1541174192669</updated>
+    </task>
+    <option name="localTasksCounter" value="311" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1080,7 +1047,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="785781000" />
+    <option name="totallyTimeSpent" value="786413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1093,6 +1060,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1101,7 +1069,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1180,7 +1148,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add LFU Cache" />
     <MESSAGE value="Add House Robber II &amp; III" />
     <MESSAGE value="Add Maximum Rectangle" />
     <MESSAGE value="Add Remove invalid parentheses" />
@@ -1205,7 +1172,8 @@
     <MESSAGE value="Add Unique Binary Search Trees II" />
     <MESSAGE value="Add Decode String" />
     <MESSAGE value="Add Bus Routes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Bus Routes" />
+    <MESSAGE value="Add Max Chunks To Make Sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Max Chunks To Make Sorted" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1732,13 +1700,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/460. LFU Cache/first/LFUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/198. House Robber/first/HouseRobber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -2138,7 +2099,7 @@
         <state relative-caret-position="228">
           <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2161,8 +2122,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/769. Max Chunks To Make Sorted/first/MaxChunksToMakeSorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="38">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
