@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/341. Flatten Nested List Iterator/first/NestedIterator.java" description="&#10;public class NestedIterator {&#10;}" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="Add Unique Binary Search Trees II">
+    <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -58,12 +58,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxChunksToMakeSortedII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaxChunksToMakeSortedII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PartitionLabels.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/763. Partition Labels/first/PartitionLabels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/460. LFU Cache/first/LFUCache.java" />
         <option value="$PROJECT_DIR$/213. House Robber II/first/HouseRobberIITest.java" />
         <option value="$PROJECT_DIR$/213. House Robber II/first/HouseRobberII.java" />
         <option value="$PROJECT_DIR$/337. House Robber III/first/HouseRobberIIITest.java" />
@@ -163,6 +174,7 @@
         <option value="$PROJECT_DIR$/815. Bus Routes/first/BusRoutes.java" />
         <option value="$PROJECT_DIR$/769. Max Chunks To Make Sorted/first/MaxChunksToMakeSorted.java" />
         <option value="$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java" />
+        <option value="$PROJECT_DIR$/763. Partition Labels/first/PartitionLabels.java" />
       </list>
     </option>
   </component>
@@ -332,6 +344,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="529. Minesweeper" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="763. Partition Labels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="763. Partition Labels" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -666,14 +689,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="6930000" />
-    </task>
-    <task id="LOCAL-00262" summary="Add Swap Adjacent in LR String">
-      <created>1540271110200</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1540271110200</updated>
+      <workItem from="1540956920961" duration="7344000" />
     </task>
     <task id="LOCAL-00263" summary="Add Best Meeting Point">
       <created>1540275617377</created>
@@ -1011,7 +1027,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541174192669</updated>
     </task>
-    <option name="localTasksCounter" value="311" />
+    <task id="LOCAL-00311" summary="Add Max Chunks To Make Sorted II">
+      <created>1541218892926</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1541218892926</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1047,7 +1070,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="786413000" />
+    <option name="totallyTimeSpent" value="786827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1060,7 +1083,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1069,7 +1091,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1148,7 +1170,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add House Robber II &amp; III" />
     <MESSAGE value="Add Maximum Rectangle" />
     <MESSAGE value="Add Remove invalid parentheses" />
     <MESSAGE value="Add Burst Balloons" />
@@ -1173,7 +1194,8 @@
     <MESSAGE value="Add Decode String" />
     <MESSAGE value="Add Bus Routes" />
     <MESSAGE value="Add Max Chunks To Make Sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Max Chunks To Make Sorted" />
+    <MESSAGE value="Add Max Chunks To Make Sorted II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Max Chunks To Make Sorted II" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1700,13 +1722,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/198. House Robber/first/HouseRobber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/213. House Robber II/first/HouseRobberIITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -2133,6 +2148,16 @@
         <state relative-caret-position="342">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/763. Partition Labels/first/PartitionLabels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
