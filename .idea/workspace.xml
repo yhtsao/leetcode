@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -713,14 +712,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="9637000" />
-    </task>
-    <task id="LOCAL-00267" summary="Add Odd Even Linked List">
-      <created>1540295232421</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1540295232421</updated>
+      <workItem from="1540956920961" duration="9653000" />
     </task>
     <task id="LOCAL-00268" summary="Add Find Minimum in Rotated Sorted Array">
       <created>1540296993032</created>
@@ -1058,7 +1050,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541315915595</updated>
     </task>
-    <option name="localTasksCounter" value="316" />
+    <task id="LOCAL-00316" summary="Add Shortest Bridge">
+      <created>1541315930662</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1541315930662</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1094,7 +1093,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="789120000" />
+    <option name="totallyTimeSpent" value="789136000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1194,7 +1193,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Maximal Square" />
     <MESSAGE value="Add Unique Email Addresses" />
     <MESSAGE value="Add Minimum Falling Path Sum" />
     <MESSAGE value="Add Binary Subarrays With Sum" />
@@ -1219,7 +1217,8 @@
     <MESSAGE value="Add Predict the Winner" />
     <MESSAGE value="Add Fruit into Baskets" />
     <MESSAGE value="Add Number of Recent Calls" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Number of Recent Calls" />
+    <MESSAGE value="Add Shortest Bridge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Shortest Bridge" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
