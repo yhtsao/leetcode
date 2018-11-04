@@ -283,6 +283,7 @@
       <sourceFolder url="file://$MODULE_DIR$/934. Shortest Bridge" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/935. Knight Dialer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/936. Stamping The Sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/464. Can I Win" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
