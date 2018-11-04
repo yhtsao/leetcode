@@ -279,6 +279,10 @@
       <sourceFolder url="file://$MODULE_DIR$/763. Partition Labels" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/486. Predict the Winner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/904. Fruit Into Baskets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/933. Number of Recent Calls" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/934. Shortest Bridge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/935. Knight Dialer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/936. Stamping The Sequence" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
