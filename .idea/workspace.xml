@@ -713,14 +713,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="9621000" />
-    </task>
-    <task id="LOCAL-00266" summary="Add Find K Pairs with Smallest Sums">
-      <created>1540289599309</created>
-      <option name="number" value="00266" />
-      <option name="presentableId" value="LOCAL-00266" />
-      <option name="project" value="LOCAL" />
-      <updated>1540289599309</updated>
+      <workItem from="1540956920961" duration="9637000" />
     </task>
     <task id="LOCAL-00267" summary="Add Odd Even Linked List">
       <created>1540295232421</created>
@@ -1058,7 +1051,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541259496381</updated>
     </task>
-    <option name="localTasksCounter" value="315" />
+    <task id="LOCAL-00315" summary="Add Number of Recent Calls">
+      <created>1541315915595</created>
+      <option name="number" value="00315" />
+      <option name="presentableId" value="LOCAL-00315" />
+      <option name="project" value="LOCAL" />
+      <updated>1541315915595</updated>
+    </task>
+    <option name="localTasksCounter" value="316" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1094,7 +1094,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="789104000" />
+    <option name="totallyTimeSpent" value="789120000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1194,7 +1194,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Flatten Binary Tree to Linked List" />
     <MESSAGE value="Add Maximal Square" />
     <MESSAGE value="Add Unique Email Addresses" />
     <MESSAGE value="Add Minimum Falling Path Sum" />
@@ -1219,7 +1218,8 @@
     <MESSAGE value="Add Partition Labels" />
     <MESSAGE value="Add Predict the Winner" />
     <MESSAGE value="Add Fruit into Baskets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Fruit into Baskets" />
+    <MESSAGE value="Add Number of Recent Calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Number of Recent Calls" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2176,8 +2176,8 @@
           <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
           </folding>
         </state>
       </provider>
