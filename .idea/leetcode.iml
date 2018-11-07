@@ -285,6 +285,8 @@
       <sourceFolder url="file://$MODULE_DIR$/936. Stamping The Sequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/464. Can I Win" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/659. Split Array into Consecutive Subsequences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/374. Guess Number Higher or Lower" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/375. Guess Number Higher or Lower II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

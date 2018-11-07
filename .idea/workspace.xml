@@ -48,38 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KnightDialer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/935. Knight Dialer/first/KnightDialer.java">
+      <file leaf-file-name="GuessNumberHiLo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/374. Guess Number Higher or Lower/first/GuessNumberHiLo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-472">
-              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="30">
+              <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#103#104#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CanIWin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/464. Can I Win/first/CanIWin.java">
+      <file leaf-file-name="GuessNumberHiLoII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/375. Guess Number Higher or Lower II/first/GuessNumberHiLoII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SplitArrayIntoConsecutiveSubSeq.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/659. Split Array into Consecutive Subsequences/first/SplitArrayIntoConsecutiveSubSeq.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="418">
+              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,9 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/114. Flatten Binary Tree to Linked List/first/first/FlattenBSTtoLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/114. Flatten Binary Tree to Linked List/first/FlattenBSTtoLinkedList.java" />
-        <option value="$PROJECT_DIR$/221. Maximal Square/first/MaximalSquareTest.java" />
         <option value="$PROJECT_DIR$/221. Maximal Square/first/MaximalSquare.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/first/UniqueEmailAddress.java" />
         <option value="$PROJECT_DIR$/Weekly Contest/first/BinarySubarraysWithSum.java" />
@@ -178,7 +162,10 @@
         <option value="$PROJECT_DIR$/936. Stamping The Sequence/first/StampingTheSeq.java" />
         <option value="$PROJECT_DIR$/464. Can I Win/first/first/CanIWinTest.java" />
         <option value="$PROJECT_DIR$/464. Can I Win/first/CanIWin.java" />
+        <option value="$PROJECT_DIR$/Weekly Contest/first/Test.java" />
         <option value="$PROJECT_DIR$/659. Split Array into Consecutive Subsequences/first/SplitArrayIntoConsecutiveSubSeq.java" />
+        <option value="$PROJECT_DIR$/374. Guess Number Higher or Lower/first/GuessNumberHiLo.java" />
+        <option value="$PROJECT_DIR$/375. Guess Number Higher or Lower II/first/GuessNumberHiLoII.java" />
       </list>
     </option>
   </component>
@@ -331,6 +318,28 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="374. Guess Number Higher or Lower" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="374. Guess Number Higher or Lower" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="375. Guess Number Higher or Lower II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="375. Guess Number Higher or Lower II" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="464. Can I Win" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -414,6 +423,12 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Weekly Contest" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -715,21 +730,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="11922000" />
-    </task>
-    <task id="LOCAL-00271" summary="Add K Empty Slots">
-      <created>1540311290357</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
-      <option name="project" value="LOCAL" />
-      <updated>1540311290357</updated>
-    </task>
-    <task id="LOCAL-00272" summary="Add Binary indexed tree solution for K Empty Slots">
-      <created>1540353804035</created>
-      <option name="number" value="00272" />
-      <option name="presentableId" value="LOCAL-00272" />
-      <option name="project" value="LOCAL" />
-      <updated>1540353804035</updated>
+      <workItem from="1540956920961" duration="12962000" />
     </task>
     <task id="LOCAL-00273" summary="Add Top K Frequent Elements">
       <created>1540358174760</created>
@@ -1060,7 +1061,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541339139437</updated>
     </task>
-    <option name="localTasksCounter" value="320" />
+    <task id="LOCAL-00320" summary="Add Split Array into Consecutive Subsequences">
+      <created>1541392152246</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
+      <option name="project" value="LOCAL" />
+      <updated>1541392152246</updated>
+    </task>
+    <task id="LOCAL-00321" summary="Update Split Array into Consecutive Subsequences">
+      <created>1541515062492</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
+      <option name="project" value="LOCAL" />
+      <updated>1541515062492</updated>
+    </task>
+    <option name="localTasksCounter" value="322" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1096,7 +1111,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="791405000" />
+    <option name="totallyTimeSpent" value="792445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1109,6 +1124,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1117,7 +1133,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18311875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1196,8 +1212,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Subarray Sum Equals K" />
-    <MESSAGE value="Add Beautiful Array" />
     <MESSAGE value="Add Subarray Product Less Than K" />
     <MESSAGE value="Add Continuous Subarray Sum" />
     <MESSAGE value="Add My Calendar I" />
@@ -1221,7 +1235,9 @@
     <MESSAGE value="Add Knight Dialer" />
     <MESSAGE value="Add Stamping The Sequence" />
     <MESSAGE value="Add Can I Win" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Can I Win" />
+    <MESSAGE value="Add Split Array into Consecutive Subsequences" />
+    <MESSAGE value="Update Split Array into Consecutive Subsequences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Split Array into Consecutive Subsequences" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1752,38 +1768,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/312. Burst Balloons/first/BurstBalloons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="method#maxCoinsDP#0;class#BurstBalloons#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/114. Flatten Binary Tree to Linked List/first/FlattenBSTtoLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/114. Flatten Binary Tree to Linked List/first/FlattenBSTtoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="54" column="9" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="54" selection-end-column="9" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/221. Maximal Square/first/MaximalSquareTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -2165,7 +2149,7 @@
         <state relative-caret-position="-472">
           <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2203,18 +2187,45 @@
         <state relative-caret-position="209">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weekly Contest/first/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/659. Split Array into Consecutive Subsequences/first/SplitArrayIntoConsecutiveSubSeq.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="304">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/374. Guess Number Higher or Lower/first/GuessNumberHiLo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/375. Guess Number Higher or Lower II/first/GuessNumberHiLoII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
