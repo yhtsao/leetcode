@@ -288,6 +288,7 @@
       <sourceFolder url="file://$MODULE_DIR$/374. Guess Number Higher or Lower" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/375. Guess Number Higher or Lower II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/857. Minimum Cost to Hire K Workers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Line" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
