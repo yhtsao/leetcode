@@ -291,6 +291,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/803. Bricks Falling When Hit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/834. Sum of Distances in Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
