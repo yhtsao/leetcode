@@ -48,12 +48,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BricksFallingWhenHitUF.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BricksFallingWhenHitUF.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitUF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="304">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfDistanceInTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/834. Sum of Distances in Tree/first/SumOfDistanceInTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/560. Subarray Sum Equals K/first/SubarraySumEqualToKTest.java" />
         <option value="$PROJECT_DIR$/560. Subarray Sum Equals K/first/SubarraySumEqualToK.java" />
         <option value="$PROJECT_DIR$/932. Beautiful Array/first/BeautifulArrayTest.java" />
         <option value="$PROJECT_DIR$/932. Beautiful Array/first/BeautifulArray.java" />
@@ -163,6 +174,7 @@
         <option value="$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitDFS.java" />
         <option value="$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitTLEVer.java" />
         <option value="$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitUF.java" />
+        <option value="$PROJECT_DIR$/834. Sum of Distances in Tree/first/SumOfDistanceInTree.java" />
       </list>
     </option>
   </component>
@@ -387,6 +399,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="803. Bricks Falling When Hit" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="834. Sum of Distances in Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="834. Sum of Distances in Tree" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -721,14 +744,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="18114000" />
-    </task>
-    <task id="LOCAL-00277" summary="Add Symmetric Tree">
-      <created>1540373492876</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
-      <option name="project" value="LOCAL" />
-      <updated>1540373492876</updated>
+      <workItem from="1540956920961" duration="18304000" />
     </task>
     <task id="LOCAL-00278" summary="Add Power of Three">
       <created>1540375213824</created>
@@ -1066,7 +1082,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541690493789</updated>
     </task>
-    <option name="localTasksCounter" value="326" />
+    <task id="LOCAL-00326" summary="Add Bricks Falling When Hit">
+      <created>1541776856256</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
+      <option name="project" value="LOCAL" />
+      <updated>1541776856256</updated>
+    </task>
+    <option name="localTasksCounter" value="327" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1102,7 +1125,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="797597000" />
+    <option name="totallyTimeSpent" value="797787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1202,7 +1225,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Bulls and Cows" />
     <MESSAGE value="Add Redundant Connection" />
     <MESSAGE value="Add Redundant Connection II" />
     <MESSAGE value="Add Minesweeper" />
@@ -1227,7 +1249,8 @@
     <MESSAGE value="Add Minimum Cost to Hire K Workers" />
     <MESSAGE value="Add for Line pre test" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Add Bricks Falling When Hit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Bricks Falling When Hit" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1758,13 +1781,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/930. Binary Subarrays With Sum/first/BinarySubarraysWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -2178,7 +2194,7 @@
         <state relative-caret-position="342">
           <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2217,9 +2233,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitUF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="304">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/834. Sum of Distances in Tree/first/SumOfDistanceInTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
