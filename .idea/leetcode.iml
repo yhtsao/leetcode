@@ -299,6 +299,7 @@
       <sourceFolder url="file://$MODULE_DIR$/937. Reorder Log Files" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/938. Range Sum of BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/939. Minimum Area Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/838. Push Dominoes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
