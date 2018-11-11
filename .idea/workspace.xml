@@ -60,8 +60,8 @@
       <file leaf-file-name="ReorderLogFiles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="220">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -624,14 +624,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="20943000" />
-    </task>
-    <task id="LOCAL-00283" summary="Add Intersection of Two Arrays I &amp; II">
-      <created>1540390965322</created>
-      <option name="number" value="00283" />
-      <option name="presentableId" value="LOCAL-00283" />
-      <option name="project" value="LOCAL" />
-      <updated>1540390965323</updated>
+      <workItem from="1540956920961" duration="20969000" />
     </task>
     <task id="LOCAL-00284" summary="Add New 21 Game">
       <created>1540441318361</created>
@@ -969,7 +962,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541919919791</updated>
     </task>
-    <option name="localTasksCounter" value="332" />
+    <task id="LOCAL-00332" summary="Add Range Sum of BST">
+      <created>1541920146453</created>
+      <option name="number" value="00332" />
+      <option name="presentableId" value="LOCAL-00332" />
+      <option name="project" value="LOCAL" />
+      <updated>1541920146454</updated>
+    </task>
+    <option name="localTasksCounter" value="333" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1005,7 +1005,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="800426000" />
+    <option name="totallyTimeSpent" value="800452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1106,7 +1106,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Unique Binary Search Trees II" />
     <MESSAGE value="Add Decode String" />
     <MESSAGE value="Add Bus Routes" />
     <MESSAGE value="Add Max Chunks To Make Sorted" />
@@ -1131,7 +1130,8 @@
     <MESSAGE value="Add Maximum Distance to Closest Person" />
     <MESSAGE value="Add Race Car" />
     <MESSAGE value="Add Minimum Area Rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Minimum Area Rectangle" />
+    <MESSAGE value="Add Range Sum of BST" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Range Sum of BST" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2130,8 +2130,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="220">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
