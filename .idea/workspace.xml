@@ -37,21 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BackspaceStringCompare.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BackspaceStringCompare.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistinctSubSeqII.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+            <state relative-caret-position="329">
+              <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -147,11 +137,11 @@
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCar.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java" />
-        <option value="$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java" />
         <option value="$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java" />
         <option value="$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java" />
         <option value="$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java" />
         <option value="$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java" />
+        <option value="$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java" />
       </list>
     </option>
   </component>
@@ -590,14 +580,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="22278000" />
-    </task>
-    <task id="LOCAL-00285" summary="Add LFU Cache">
-      <created>1540454225051</created>
-      <option name="number" value="00285" />
-      <option name="presentableId" value="LOCAL-00285" />
-      <option name="project" value="LOCAL" />
-      <updated>1540454225052</updated>
+      <workItem from="1540956920961" duration="22446000" />
     </task>
     <task id="LOCAL-00286" summary="Add House Robber II &amp; III">
       <created>1540468099911</created>
@@ -935,7 +918,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541920164383</updated>
     </task>
-    <option name="localTasksCounter" value="334" />
+    <task id="LOCAL-00334" summary="Add Distinct Subsequences II">
+      <created>1541927448467</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
+      <option name="project" value="LOCAL" />
+      <updated>1541927448467</updated>
+    </task>
+    <option name="localTasksCounter" value="335" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -971,7 +961,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="801761000" />
+    <option name="totallyTimeSpent" value="801929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1072,7 +1062,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Bus Routes" />
     <MESSAGE value="Add Max Chunks To Make Sorted" />
     <MESSAGE value="Add Max Chunks To Make Sorted II" />
     <MESSAGE value="Add Partition Labels" />
@@ -1097,7 +1086,8 @@
     <MESSAGE value="Add Minimum Area Rectangle" />
     <MESSAGE value="Add Range Sum of BST" />
     <MESSAGE value="Add Reorder Log Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Reorder Log Files" />
+    <MESSAGE value="Add Distinct Subsequences II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Distinct Subsequences II" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2060,14 +2050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -2098,8 +2080,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
+        <state relative-caret-position="30">
           <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="29" column="34" lean-forward="false" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding />
         </state>
       </provider>
