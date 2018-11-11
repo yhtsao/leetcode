@@ -47,46 +47,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DistinctSubSeqII.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DistinctSubSeqII.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="-46">
+              <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReorderLogFiles.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RangeSumOfBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinAreaRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -182,10 +148,10 @@
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java" />
         <option value="$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java" />
-        <option value="$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java" />
-        <option value="$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java" />
         <option value="$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java" />
         <option value="$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java" />
+        <option value="$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java" />
+        <option value="$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java" />
       </list>
     </option>
   </component>
@@ -624,14 +590,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="20969000" />
-    </task>
-    <task id="LOCAL-00284" summary="Add New 21 Game">
-      <created>1540441318361</created>
-      <option name="number" value="00284" />
-      <option name="presentableId" value="LOCAL-00284" />
-      <option name="project" value="LOCAL" />
-      <updated>1540441318362</updated>
+      <workItem from="1540956920961" duration="22278000" />
     </task>
     <task id="LOCAL-00285" summary="Add LFU Cache">
       <created>1540454225051</created>
@@ -969,7 +928,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541920146454</updated>
     </task>
-    <option name="localTasksCounter" value="333" />
+    <task id="LOCAL-00333" summary="Add Reorder Log Files">
+      <created>1541920164383</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
+      <option name="project" value="LOCAL" />
+      <updated>1541920164383</updated>
+    </task>
+    <option name="localTasksCounter" value="334" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1005,7 +971,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="800452000" />
+    <option name="totallyTimeSpent" value="801761000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1106,7 +1072,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Decode String" />
     <MESSAGE value="Add Bus Routes" />
     <MESSAGE value="Add Max Chunks To Make Sorted" />
     <MESSAGE value="Add Max Chunks To Make Sorted II" />
@@ -1131,7 +1096,8 @@
     <MESSAGE value="Add Race Car" />
     <MESSAGE value="Add Minimum Area Rectangle" />
     <MESSAGE value="Add Range Sum of BST" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Range Sum of BST" />
+    <MESSAGE value="Add Reorder Log Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Reorder Log Files" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2102,14 +2068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -2131,10 +2089,18 @@
     <entry file="file://$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
