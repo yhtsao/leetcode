@@ -129,7 +129,6 @@
       <sourceFolder url="file://$MODULE_DIR$/155. Min Stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/159. Longest Substring with At Most Two Distinct Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/160. Intersection of Two Linked Lists" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/876. Middle of the Linked List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142. Linked List Cycle II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/75. Sort Colors" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/162. Find Peak Element" isTestSource="false" />
@@ -287,12 +286,9 @@
       <sourceFolder url="file://$MODULE_DIR$/659. Split Array into Consecutive Subsequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/374. Guess Number Higher or Lower" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/375. Guess Number Higher or Lower II" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/857. Minimum Cost to Hire K Workers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/803. Bricks Falling When Hit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/834. Sum of Distances in Tree" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/849. Maximize Distance to Closest Person" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/818. Race Car" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/844. Backspace String Compare" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/940. Distinct Subsequences II" isTestSource="false" />
@@ -300,6 +296,12 @@
       <sourceFolder url="file://$MODULE_DIR$/938. Range Sum of BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/939. Minimum Area Rectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/838. Push Dominoes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/846. Hand of Straights" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/849. Maximize Distance to Closest Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/857. Minimum Cost to Hire K Workers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/876. Middle of the Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/890. Find and Replace Pattern" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
