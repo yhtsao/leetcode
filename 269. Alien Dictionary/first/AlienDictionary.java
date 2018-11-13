@@ -67,8 +67,52 @@ public class AlienDictionary {
                     queue.offer(child);
             }
         }
-
-
         return count == numOfChar ? new String(res) : new String();
+    }
+
+    public String alienOrderSol2(String[] words) {
+        if (words.length == 0 || words[0].length() == 0) return "";
+
+        // initialize indegree count of all nodes
+        Map<Character, Integer> indegree = new HashMap<>();
+        for (String word : words)
+            for (char c : word.toCharArray()) indegree.put(c, 0);
+
+        // build the graph
+        Map<Character, Set<Character>> map = new HashMap<>();
+        String prev = words[0];
+        for (int i = 1; i < words.length; i++) {
+            String curr = words[i];
+            int minLen = Math.min(prev.length(), curr.length());
+            for (int j = 0; j < minLen; j++) {
+                if (curr.charAt(j) != prev.charAt(j)) {
+                    map.putIfAbsent(prev.charAt(j), new HashSet<>());
+                    if (map.get(prev.charAt(j)).contains(curr.charAt(j))) break;
+                    map.get(prev.charAt(j)).add(curr.charAt(j));
+                    indegree.put(curr.charAt(j), indegree.get(curr.charAt(j)) + 1);
+                    break;
+                }
+            }
+            prev = words[i];
+        }
+
+        // Run BFS to build order
+        StringBuilder sb = new StringBuilder();
+        Queue<Character> queue = new LinkedList<>();
+        for (Map.Entry<Character, Integer> entry : indegree.entrySet())
+            if (entry.getValue() == 0) queue.offer(entry.getKey());
+
+        while (!queue.isEmpty()) {
+            char c = queue.poll();
+            sb.append(c);
+            if (!map.containsKey(c)) continue;
+            Set<Character> neighbors = map.get(c);
+            for (Character neighbor : neighbors) {
+                indegree.put(neighbor, indegree.get(neighbor) - 1);
+                if (indegree.get(neighbor) == 0)
+                    queue.offer(neighbor);
+            }
+        }
+        return sb.length() == indegree.size() ? sb.toString() : "";
     }
 }
