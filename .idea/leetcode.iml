@@ -290,18 +290,20 @@
       <sourceFolder url="file://$MODULE_DIR$/803. Bricks Falling When Hit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/834. Sum of Distances in Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/818. Race Car" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/844. Backspace String Compare" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/940. Distinct Subsequences II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/937. Reorder Log Files" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/938. Range Sum of BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/939. Minimum Area Rectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/838. Push Dominoes" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/846. Hand of Straights" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/849. Maximize Distance to Closest Person" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/857. Minimum Cost to Hire K Workers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/876. Middle of the Linked List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/890. Find and Replace Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/843. Guess the Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/844. Backspace String Compare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/846. Hand of Straights" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/849. Maximize Distance to Closest Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/853. Car Fleet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -38,11 +38,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HandOfStraight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HandOfStraight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/846. Hand of Straights/first/HandOfStraight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuessTheWordSol1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/843. Guess the Word/first/GuessTheWordSol1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarFleet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/853. Car Fleet/first/CarFleet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindReplacePattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/890. Find and Replace Pattern/first/FindReplacePattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -92,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV1.java" />
-        <option value="$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV2.java" />
         <option value="$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/684. Redundant Connection/first/RedundantConnection.java" />
         <option value="$PROJECT_DIR$/685. Redundant Connection II/first/RedundantConnectionII.java" />
@@ -143,6 +175,8 @@
         <option value="$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java" />
         <option value="$PROJECT_DIR$/838. Push Dominoes/first/PushDominoes.java" />
         <option value="$PROJECT_DIR$/846. Hand of Straights/first/HandOfStraight.java" />
+        <option value="$PROJECT_DIR$/843. Guess the Word/first/GuessTheWord.java" />
+        <option value="$PROJECT_DIR$/843. Guess the Word/first/GuessTheWordSol1.java" />
       </list>
     </option>
   </component>
@@ -262,12 +296,23 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="846. Hand of Straights" type="462c0819:PsiDirectoryNode" />
+              <item name="853. Car Fleet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="846. Hand of Straights" type="462c0819:PsiDirectoryNode" />
+              <item name="853. Car Fleet" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="890. Find and Replace Pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="890. Find and Replace Pattern" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -537,14 +582,7 @@
       <workItem from="1539480757328" duration="134986000" />
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
-      <workItem from="1540956920961" duration="24439000" />
-    </task>
-    <task id="LOCAL-00288" summary="Add Remove invalid parentheses">
-      <created>1540529519327</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1540529519328</updated>
+      <workItem from="1540956920961" duration="25228000" />
     </task>
     <task id="LOCAL-00289" summary="Add Burst Balloons">
       <created>1540542561895</created>
@@ -882,7 +920,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541950970754</updated>
     </task>
-    <option name="localTasksCounter" value="337" />
+    <task id="LOCAL-00337" summary="Add Hand of Straights">
+      <created>1542013630854</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1542013630854</updated>
+    </task>
+    <option name="localTasksCounter" value="338" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -918,7 +963,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803922000" />
+    <option name="totallyTimeSpent" value="804711000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1018,7 +1063,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Partition Labels" />
     <MESSAGE value="Add Predict the Winner" />
     <MESSAGE value="Add Fruit into Baskets" />
     <MESSAGE value="Add Number of Recent Calls" />
@@ -1043,7 +1087,8 @@
     <MESSAGE value="Add Distinct Subsequences II" />
     <MESSAGE value="Add Backspace String Compare" />
     <MESSAGE value="Add Push Dominoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Push Dominoes" />
+    <MESSAGE value="Add Hand of Straights" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Hand of Straights" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1574,39 +1619,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/731. My Calendar II/first/MyCalendarTwoV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#209#210#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/732. My Calendar III/first/MyCalendarThreeV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#1315#1316#0" expanded="false" />
-            <element signature="e#1377#1378#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/299. Bulls and Cows/first/BullsAndCows.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -2042,6 +2054,34 @@
         <state relative-caret-position="190">
           <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/853. Car Fleet/first/CarFleet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/890. Find and Replace Pattern/first/FindReplacePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/843. Guess the Word/first/GuessTheWordSol1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
