@@ -304,6 +304,7 @@
       <sourceFolder url="file://$MODULE_DIR$/849. Maximize Distance to Closest Person" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/853. Car Fleet" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/461. Hamming Distance" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
