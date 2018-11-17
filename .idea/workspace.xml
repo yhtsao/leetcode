@@ -51,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LicenseKeyFormatting.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/482. License Key Formatting/first/LicenseKeyFormatting.java">
+      <file leaf-file-name="RemoveDuplicateLetters.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/first/RemoveDuplicateLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="19">
+              <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -133,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/935. Knight Dialer/first/KnightDialer.java" />
         <option value="$PROJECT_DIR$/935. Knight Dialer/first/KnightDialerV2.java" />
         <option value="$PROJECT_DIR$/936. Stamping The Sequence/first/StampingTheSeq.java" />
         <option value="$PROJECT_DIR$/464. Can I Win/first/first/CanIWinTest.java" />
@@ -184,6 +183,7 @@
         <option value="$PROJECT_DIR$/911. Online Election/first/TopVotedCandidateTreeMap.java" />
         <option value="$PROJECT_DIR$/766. Toeplitz Matrix/first/ToeplitzMatrix.java" />
         <option value="$PROJECT_DIR$/482. License Key Formatting/first/LicenseKeyFormatting.java" />
+        <option value="$PROJECT_DIR$/316. Remove Duplicate Letters/first/RemoveDuplicateLetters.java" />
       </list>
     </option>
   </component>
@@ -298,6 +298,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="316. Remove Duplicate Letters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="316. Remove Duplicate Letters" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="338. Counting Bits" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -315,17 +326,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="389. Find the Difference" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="482. License Key Formatting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="482. License Key Formatting" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -666,14 +666,7 @@
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
-      <workItem from="1542288068832" duration="7857000" />
-    </task>
-    <task id="LOCAL-00301" summary="Add Bulls and Cows">
-      <created>1541049160956</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1541049160957</updated>
+      <workItem from="1542288068832" duration="8287000" />
     </task>
     <task id="LOCAL-00302" summary="Add Redundant Connection">
       <created>1541051060046</created>
@@ -1011,7 +1004,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542456367889</updated>
     </task>
-    <option name="localTasksCounter" value="350" />
+    <task id="LOCAL-00350" summary="Add License Key Formatting">
+      <created>1542464222284</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1542464222284</updated>
+    </task>
+    <option name="localTasksCounter" value="351" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1047,7 +1047,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="814486000" />
+    <option name="totallyTimeSpent" value="814916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1147,7 +1147,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Add Bricks Falling When Hit" />
     <MESSAGE value="Add Sum of Distance in Tree" />
     <MESSAGE value="Add Exam Room" />
@@ -1172,7 +1171,8 @@
     <MESSAGE value="Add Find the Difference" />
     <MESSAGE value="Update Online Election" />
     <MESSAGE value="Add Toeplitz Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Toeplitz Matrix" />
+    <MESSAGE value="Add License Key Formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add License Key Formatting" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1703,13 +1703,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/935. Knight Dialer/first/KnightDialer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-472">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/935. Knight Dialer/first/KnightDialerV2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2032,7 +2025,7 @@
         <state relative-caret-position="133">
           <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2077,6 +2070,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/482. License Key Formatting/first/LicenseKeyFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Weekly Contest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2088,10 +2089,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/482. License Key Formatting/first/LicenseKeyFormatting.java">
+    <entry file="file://$PROJECT_DIR$/316. Remove Duplicate Letters/first/RemoveDuplicateLetters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="19">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
           <folding />
         </state>
       </provider>
