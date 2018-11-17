@@ -89,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressiveWords.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/809. Expressive Words/first/ExpressiveWords.java">
+      <file leaf-file-name="CountingBits.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/338. Counting Bits/first/CountingBits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="209">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/768. Max Chunks To Make Sorted II/first/MaxChunksToMakeSortedII.java" />
         <option value="$PROJECT_DIR$/763. Partition Labels/first/PartitionLabels.java" />
         <option value="$PROJECT_DIR$/486. Predict the Winner/first/PredictWinner.java" />
         <option value="$PROJECT_DIR$/904. Fruit Into Baskets/first/FruitIntoBaskets.java" />
@@ -194,6 +193,7 @@
         <option value="$PROJECT_DIR$/Google/Dict.java" />
         <option value="$PROJECT_DIR$/Google/InvitateFriends.java" />
         <option value="$PROJECT_DIR$/809. Expressive Words/first/ExpressiveWords.java" />
+        <option value="$PROJECT_DIR$/338. Counting Bits/first/CountingBits.java" />
       </list>
     </option>
   </component>
@@ -292,6 +292,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="163. Missing Ranges" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="338. Counting Bits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="338. Counting Bits" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -588,14 +599,7 @@
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
-      <workItem from="1542288068832" duration="5564000" />
-    </task>
-    <task id="LOCAL-00295" summary="Add Subarray Sum Equals K">
-      <created>1540712237118</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1540712237118</updated>
+      <workItem from="1542288068832" duration="5740000" />
     </task>
     <task id="LOCAL-00296" summary="Add Beautiful Array">
       <created>1540726808824</created>
@@ -933,7 +937,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542288118984</updated>
     </task>
-    <option name="localTasksCounter" value="344" />
+    <task id="LOCAL-00344" summary="Add Expression Words">
+      <created>1542432441487</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1542432441487</updated>
+    </task>
+    <option name="localTasksCounter" value="345" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -969,7 +980,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="812193000" />
+    <option name="totallyTimeSpent" value="812369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1069,7 +1080,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Can I Win" />
     <MESSAGE value="Add Split Array into Consecutive Subsequences" />
     <MESSAGE value="Update Split Array into Consecutive Subsequences" />
     <MESSAGE value="Update Guess Number Higher or Lower II" />
@@ -1094,7 +1104,8 @@
     <MESSAGE value="Add Car Fleet" />
     <MESSAGE value="Add Hamming Distance" />
     <MESSAGE value="Add Find and Replace Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Find and Replace Pattern" />
+    <MESSAGE value="Add Expression Words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Expression Words" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1625,13 +1636,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/815. Bus Routes/first/BusRoutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/769. Max Chunks To Make Sorted/first/MaxChunksToMakeSorted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -2003,6 +2007,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/338. Counting Bits/first/CountingBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
