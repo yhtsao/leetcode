@@ -99,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopVotedCandidateTreeMap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TopVotedCandidateTreeMap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/911. Online Election/first/TopVotedCandidateTreeMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -107,6 +107,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToeplitzMatrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/766. Toeplitz Matrix/first/ToeplitzMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/934. Shortest Bridge/first/ShortestBridge.java" />
         <option value="$PROJECT_DIR$/933. Number of Recent Calls/first/RecentCounter.java" />
         <option value="$PROJECT_DIR$/935. Knight Dialer/first/KnightDialer.java" />
         <option value="$PROJECT_DIR$/935. Knight Dialer/first/KnightDialerV2.java" />
@@ -206,6 +215,7 @@
         <option value="$PROJECT_DIR$/681. Next Closest Time/first/NextClosestTime.java" />
         <option value="$PROJECT_DIR$/389. Find the Difference/first/FindDifferent.java" />
         <option value="$PROJECT_DIR$/911. Online Election/first/TopVotedCandidateTreeMap.java" />
+        <option value="$PROJECT_DIR$/766. Toeplitz Matrix/first/ToeplitzMatrix.java" />
       </list>
     </option>
   </component>
@@ -348,6 +358,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="681. Next Closest Time" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="766. Toeplitz Matrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="766. Toeplitz Matrix" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -666,14 +687,7 @@
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
-      <workItem from="1542288068832" duration="6979000" />
-    </task>
-    <task id="LOCAL-00299" summary="Add My Calendar I">
-      <created>1540996277171</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
-      <option name="project" value="LOCAL" />
-      <updated>1540996277172</updated>
+      <workItem from="1542288068832" duration="7356000" />
     </task>
     <task id="LOCAL-00300" summary="Add My Calendar II &amp; III">
       <created>1541046263408</created>
@@ -1011,7 +1025,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542445542455</updated>
     </task>
-    <option name="localTasksCounter" value="348" />
+    <task id="LOCAL-00348" summary="Update Online Election">
+      <created>1542453664285</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
+      <option name="project" value="LOCAL" />
+      <updated>1542453664285</updated>
+    </task>
+    <option name="localTasksCounter" value="349" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1047,7 +1068,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="813608000" />
+    <option name="totallyTimeSpent" value="813985000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1147,7 +1168,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Minimum Cost to Hire K Workers" />
     <MESSAGE value="Add for Line pre test" />
     <MESSAGE value="Update" />
     <MESSAGE value="Add Bricks Falling When Hit" />
@@ -1172,7 +1192,8 @@
     <MESSAGE value="Add Counting Bits" />
     <MESSAGE value="Add Next Closest Time" />
     <MESSAGE value="Add Find the Difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Find the Difference" />
+    <MESSAGE value="Update Online Election" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Online Election" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1703,13 +1724,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/251. Flatten 2D Vector/first/Vector2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/933. Number of Recent Calls/first/RecentCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -2091,6 +2105,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/766. Toeplitz Matrix/first/ToeplitzMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
