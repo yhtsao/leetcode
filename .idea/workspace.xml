@@ -38,14 +38,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Weekly Contest/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+            <state relative-caret-position="228">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#191#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrobogrammaticNumberIII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/248. Strobogrammatic Number III/first/StrobogrammaticNumberIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game24.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/679. 24 Game/first/Game24.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/374. Guess Number Higher or Lower/first/GuessNumberHiLo.java" />
         <option value="$PROJECT_DIR$/375. Guess Number Higher or Lower II/first/GuessNumberHiLoII.java" />
         <option value="$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/first/MinCostHireWorkers.java" />
         <option value="$PROJECT_DIR$/Line/BinaryTreeLevelOrder.java" />
@@ -169,6 +190,7 @@
         <option value="$PROJECT_DIR$/Weekly Contest/Test.java" />
         <option value="$PROJECT_DIR$/489. Robot Room Cleaner/first/Robot.java" />
         <option value="$PROJECT_DIR$/489. Robot Room Cleaner/first/RobotRoomCleaner.java" />
+        <option value="$PROJECT_DIR$/679. 24 Game/first/Game24.java" />
       </list>
     </option>
   </component>
@@ -272,6 +294,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="248. Strobogrammatic Number III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="248. Strobogrammatic Number III" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="277. Find the Celebrity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -333,6 +366,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="535. Encode and Decode TinyURL" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="679. 24 Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="679. 24 Game" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -684,14 +728,7 @@
       <workItem from="1539993982851" duration="137294000" />
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
-      <workItem from="1542288068832" duration="9809000" />
-    </task>
-    <task id="LOCAL-00305" summary="Add Evaluate Division">
-      <created>1541155057469</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
-      <option name="project" value="LOCAL" />
-      <updated>1541155057470</updated>
+      <workItem from="1542288068832" duration="10230000" />
     </task>
     <task id="LOCAL-00306" summary="Add Unique Binary Search Trees">
       <created>1541158824992</created>
@@ -1029,7 +1066,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542539322448</updated>
     </task>
-    <option name="localTasksCounter" value="354" />
+    <task id="LOCAL-00354" summary="Add Robot Room Cleaner">
+      <created>1542552769463</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
+      <option name="project" value="LOCAL" />
+      <updated>1542552769463</updated>
+    </task>
+    <option name="localTasksCounter" value="355" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1065,7 +1109,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="816438000" />
+    <option name="totallyTimeSpent" value="816859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1165,7 +1209,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Maximum Distance to Closest Person" />
     <MESSAGE value="Add Race Car" />
     <MESSAGE value="Add Minimum Area Rectangle" />
     <MESSAGE value="Add Range Sum of BST" />
@@ -1190,7 +1233,8 @@
     <MESSAGE value="Add Remove Duplicate Letters" />
     <MESSAGE value="Update" />
     <MESSAGE value="Add Encode and Decode TinyURL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Encode and Decode TinyURL" />
+    <MESSAGE value="Add Robot Room Cleaner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Robot Room Cleaner" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1721,20 +1765,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/375. Guess Number Higher or Lower II/first/GuessNumberHiLoII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/857. Minimum Cost to Hire K Workers/first/MinCostHireWorkers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2116,19 +2146,37 @@
           <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Weekly Contest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        <state relative-caret-position="228">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/248. Strobogrammatic Number III/first/StrobogrammaticNumberIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/679. 24 Game/first/Game24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
