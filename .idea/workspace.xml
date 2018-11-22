@@ -7,6 +7,7 @@
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java" afterPath="$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -46,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/112. Path Sum/first/PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -64,11 +65,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PathSumIII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PathSumIII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/437. Path Sum III/first/PathSumIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="365">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordSquares.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/425. Word Squares/first/WordSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,8 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitUF.java" />
-        <option value="$PROJECT_DIR$/834. Sum of Distances in Tree/first/SumOfDistanceInTree.java" />
         <option value="$PROJECT_DIR$/855. Exam Room/first/ExamRoom.java" />
         <option value="$PROJECT_DIR$/855. Exam Room/first/ExamRoomTreeSet.java" />
         <option value="$PROJECT_DIR$/849. Maximize Distance to Closest Person/first/MaxDistanceToCloestPerson.java" />
@@ -171,6 +192,8 @@
         <option value="$PROJECT_DIR$/112. Path Sum/first/PathSum.java" />
         <option value="$PROJECT_DIR$/113. Path Sum II/first/PathSumII.java" />
         <option value="$PROJECT_DIR$/437. Path Sum III/first/PathSumIII.java" />
+        <option value="$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java" />
+        <option value="$PROJECT_DIR$/425. Word Squares/first/WordSquares.java" />
       </list>
     </option>
   </component>
@@ -279,6 +302,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="35. Search Insert Position" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="35. Search Insert Position" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="112. Path Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -362,6 +396,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="389. Find the Difference" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="425. Word Squares" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="425. Word Squares" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -473,11 +518,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="943. Find the Shortest Superstring" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Google" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -742,14 +782,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="4591000" />
-    </task>
-    <task id="LOCAL-00308" summary="Add Decode String">
-      <created>1541163856767</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
-      <option name="project" value="LOCAL" />
-      <updated>1541163856767</updated>
+      <workItem from="1542640640555" duration="5101000" />
     </task>
     <task id="LOCAL-00309" summary="Add Bus Routes">
       <created>1541168122803</created>
@@ -1087,7 +1120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542890225008</updated>
     </task>
-    <option name="localTasksCounter" value="357" />
+    <task id="LOCAL-00357" summary="Add Path Sum II &amp; III">
+      <created>1542900214274</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
+      <option name="project" value="LOCAL" />
+      <updated>1542900214275</updated>
+    </task>
+    <option name="localTasksCounter" value="358" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1123,7 +1163,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="821657000" />
+    <option name="totallyTimeSpent" value="822167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1223,7 +1263,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Range Sum of BST" />
     <MESSAGE value="Add Reorder Log Files" />
     <MESSAGE value="Add Distinct Subsequences II" />
     <MESSAGE value="Add Backspace String Compare" />
@@ -1248,7 +1287,8 @@
     <MESSAGE value="Add Robot Room Cleaner" />
     <MESSAGE value="Add 24 Game" />
     <MESSAGE value="Add Path Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Path Sum" />
+    <MESSAGE value="Add Path Sum II &amp; III" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Path Sum II &amp; III" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1785,20 +1825,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/803. Bricks Falling When Hit/first/BricksFallingWhenHitTLEVer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/849. Maximize Distance to Closest Person/first/MaxDistanceToCloestPerson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -2186,15 +2212,33 @@
     <entry file="file://$PROJECT_DIR$/112. Path Sum/first/PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/437. Path Sum III/first/PathSumIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="365">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/425. Word Squares/first/WordSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
