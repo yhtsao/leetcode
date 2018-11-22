@@ -320,6 +320,8 @@
       <sourceFolder url="file://$MODULE_DIR$/489. Robot Room Cleaner" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/679. 24 Game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/112. Path Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/113. Path Sum II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/437. Path Sum III" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
