@@ -305,6 +305,21 @@
       <sourceFolder url="file://$MODULE_DIR$/853. Car Fleet" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/855. Exam Room" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/461. Hamming Distance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/809. Expressive Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/338. Counting Bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/681. Next Closest Time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/389. Find the Difference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/766. Toeplitz Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/482. License Key Formatting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/316. Remove Duplicate Letters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/941. Valid Mountain Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/942. DI String Match" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/943. Find the Shortest Superstring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/944. Delete Columns to Make Sorted" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/535. Encode and Decode TinyURL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/489. Robot Room Cleaner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/679. 24 Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/112. Path Sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
