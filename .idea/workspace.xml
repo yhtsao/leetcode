@@ -7,6 +7,7 @@
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java" afterPath="$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java" />
     </list>
     <ignored path=".idea/" />
     <ignored mask="*.class" />
@@ -42,28 +43,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordSquares.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/425. Word Squares/first/WordSquares.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ValidWordSquare.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="304">
+              <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwapNodesInPairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24. Swap Nodes in Pairs/first/SwapNodesInPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java" />
         <option value="$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java" />
         <option value="$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java" />
         <option value="$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java" />
@@ -189,6 +177,7 @@
         <option value="$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java" />
         <option value="$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java" />
         <option value="$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java" />
+        <option value="$PROJECT_DIR$/24. Swap Nodes in Pairs/first/SwapNodesInPairs.java" />
       </list>
     </option>
   </component>
@@ -293,6 +282,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="24. Swap Nodes in Pairs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="24. Swap Nodes in Pairs" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -646,13 +646,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseWordsInString">
+  <component name="RunManager" selected="Application.CompareVersionNumbers">
     <configuration name="ClassForNameDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ClassForNameDemo" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="java.util.ArrayList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+    </configuration>
+    <configuration name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="first.CompareVersionNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -700,20 +719,6 @@
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="List" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -790,19 +795,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DatePrinter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseWordsInString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DatePrinter" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReverseWordsInString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseWordsInString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DatePrinter" />
-        <item index="2" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReverseWordsInString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DatePrinter" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -837,14 +842,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="6707000" />
-    </task>
-    <task id="LOCAL-00315" summary="Add Number of Recent Calls">
-      <created>1541315915595</created>
-      <option name="number" value="00315" />
-      <option name="presentableId" value="LOCAL-00315" />
-      <option name="project" value="LOCAL" />
-      <updated>1541315915595</updated>
+      <workItem from="1542640640555" duration="7273000" />
     </task>
     <task id="LOCAL-00316" summary="Add Shortest Bridge">
       <created>1541315930662</created>
@@ -1182,7 +1180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542941166456</updated>
     </task>
-    <option name="localTasksCounter" value="364" />
+    <task id="LOCAL-00364" summary="Add Compare Version Numbers">
+      <created>1542943834225</created>
+      <option name="number" value="00364" />
+      <option name="presentableId" value="LOCAL-00364" />
+      <option name="project" value="LOCAL" />
+      <updated>1542943834225</updated>
+    </task>
+    <option name="localTasksCounter" value="365" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1218,7 +1223,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="823773000" />
+    <option name="totallyTimeSpent" value="824339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1318,7 +1323,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Update Alien Dictionary" />
     <MESSAGE value="Update Missing Ranges" />
     <MESSAGE value="Add Car Fleet" />
     <MESSAGE value="Add Hamming Distance" />
@@ -1343,7 +1347,8 @@
     <MESSAGE value="Add Top K Frequent Words" />
     <MESSAGE value="Add Remove K Digits" />
     <MESSAGE value="Add Reverse Words in a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Reverse Words in a String" />
+    <MESSAGE value="Add Compare Version Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Compare Version Numbers" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1889,13 +1894,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -2308,8 +2306,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="304">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24. Swap Nodes in Pairs/first/SwapNodesInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
