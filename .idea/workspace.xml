@@ -74,21 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopKFrequentWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java">
+      <file leaf-file-name="ReverseWordsInString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveKDigits.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="209">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -138,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/818. Race Car/first/RaceCar.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java" />
         <option value="$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java" />
@@ -189,6 +178,7 @@
         <option value="$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java" />
         <option value="$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java" />
         <option value="$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java" />
+        <option value="$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java" />
       </list>
     </option>
   </component>
@@ -325,6 +315,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="113. Path Sum II" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="151. Reverse Words in a String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="151. Reverse Words in a String" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -624,7 +625,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DatePrinter">
+  <component name="RunManager" selected="Application.ReverseWordsInString">
     <configuration name="ClassForNameDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ClassForNameDemo" />
@@ -653,12 +654,12 @@
       <module name="leetcode" />
       <envs />
     </configuration>
-    <configuration name="InvitateFriends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NewInstanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="InvitateFriends" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="NewInstanceDemo" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Student" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -667,12 +668,17 @@
       <module name="leetcode" />
       <envs />
     </configuration>
-    <configuration name="NewInstanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="NewInstanceDemo" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="Student" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="first.ReverseWordsInString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -764,18 +770,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InvitateFriends" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DatePrinter" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DatePrinter" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseWordsInString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DatePrinter" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.InvitateFriends" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseWordsInString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DatePrinter" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NewInstanceDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ClassForNameDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -810,14 +816,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="5755000" />
-    </task>
-    <task id="LOCAL-00313" summary="Add Predict the Winner">
-      <created>1541253741353</created>
-      <option name="number" value="00313" />
-      <option name="presentableId" value="LOCAL-00313" />
-      <option name="project" value="LOCAL" />
-      <updated>1541253741353</updated>
+      <workItem from="1542640640555" duration="6181000" />
     </task>
     <task id="LOCAL-00314" summary="Add Fruit into Baskets">
       <created>1541259496381</created>
@@ -1155,7 +1154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542938404546</updated>
     </task>
-    <option name="localTasksCounter" value="362" />
+    <task id="LOCAL-00362" summary="Add Remove K Digits">
+      <created>1542939738399</created>
+      <option name="number" value="00362" />
+      <option name="presentableId" value="LOCAL-00362" />
+      <option name="project" value="LOCAL" />
+      <updated>1542939738400</updated>
+    </task>
+    <option name="localTasksCounter" value="363" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1191,7 +1197,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="822821000" />
+    <option name="totallyTimeSpent" value="823247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1291,7 +1297,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Hand of Straights" />
     <MESSAGE value="Add Guess the Word" />
     <MESSAGE value="Update Alien Dictionary" />
     <MESSAGE value="Update Missing Ranges" />
@@ -1316,7 +1321,8 @@
     <MESSAGE value="Add Word Squares" />
     <MESSAGE value="Add Valid Word Squares" />
     <MESSAGE value="Add Top K Frequent Words" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Top K Frequent Words" />
+    <MESSAGE value="Add Remove K Digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Remove K Digits" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1808,12 +1814,21 @@
           <properties />
           <option name="timeStamp" value="610" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="613" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="613" />
+      <option name="time" value="614" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="canWin(sum + i, target, nums)" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="sb.substring(0, sb.length() - 1)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1853,13 +1868,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -2252,10 +2260,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java">
+    <entry file="file://$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="361">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2268,10 +2276,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java">
+    <entry file="file://$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="190">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
       </provider>
