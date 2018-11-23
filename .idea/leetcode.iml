@@ -323,6 +323,7 @@
       <sourceFolder url="file://$MODULE_DIR$/113. Path Sum II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/437. Path Sum III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/425. Word Squares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/422. Valid Word Square" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
