@@ -74,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsInString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseWordsInString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -128,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java" />
         <option value="$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java" />
         <option value="$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java" />
@@ -179,6 +188,7 @@
         <option value="$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java" />
         <option value="$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java" />
         <option value="$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java" />
+        <option value="$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java" />
       </list>
     </option>
   </component>
@@ -337,6 +347,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="163. Missing Ranges" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="165. Compare Version Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="165. Compare Version Numbers" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -816,14 +837,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="6181000" />
-    </task>
-    <task id="LOCAL-00314" summary="Add Fruit into Baskets">
-      <created>1541259496381</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
-      <option name="project" value="LOCAL" />
-      <updated>1541259496381</updated>
+      <workItem from="1542640640555" duration="6707000" />
     </task>
     <task id="LOCAL-00315" summary="Add Number of Recent Calls">
       <created>1541315915595</created>
@@ -1161,7 +1175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542939738400</updated>
     </task>
-    <option name="localTasksCounter" value="363" />
+    <task id="LOCAL-00363" summary="Add Reverse Words in a String">
+      <created>1542941166456</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
+      <option name="project" value="LOCAL" />
+      <updated>1542941166456</updated>
+    </task>
+    <option name="localTasksCounter" value="364" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1197,7 +1218,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="823247000" />
+    <option name="totallyTimeSpent" value="823773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1297,7 +1318,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Guess the Word" />
     <MESSAGE value="Update Alien Dictionary" />
     <MESSAGE value="Update Missing Ranges" />
     <MESSAGE value="Add Car Fleet" />
@@ -1322,7 +1342,8 @@
     <MESSAGE value="Add Valid Word Squares" />
     <MESSAGE value="Add Top K Frequent Words" />
     <MESSAGE value="Add Remove K Digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Remove K Digits" />
+    <MESSAGE value="Add Reverse Words in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Reverse Words in a String" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1868,13 +1889,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/939. Minimum Area Rectangle/first/MinAreaRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/937. Reorder Log Files/first/ReorderLogFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -2287,7 +2301,15 @@
     <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String/first/ReverseWordsInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/165. Compare Version Numbers/first/CompareVersionNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding />
         </state>
       </provider>
