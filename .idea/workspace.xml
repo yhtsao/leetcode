@@ -74,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopKFrequentWords.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TopKFrequentWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveKDigits.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -128,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/849. Maximize Distance to Closest Person/first/MaxDistanceToCloestPerson.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCar.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarDP.java" />
@@ -179,6 +188,7 @@
         <option value="$PROJECT_DIR$/425. Word Squares/first/WordSquares.java" />
         <option value="$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java" />
         <option value="$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java" />
+        <option value="$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java" />
       </list>
     </option>
   </component>
@@ -381,6 +391,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="389. Find the Difference" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="402. Remove K Digits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="402. Remove K Digits" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -789,14 +810,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="5543000" />
-    </task>
-    <task id="LOCAL-00312" summary="Add Partition Labels">
-      <created>1541223672977</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
-      <option name="project" value="LOCAL" />
-      <updated>1541223672978</updated>
+      <workItem from="1542640640555" duration="5755000" />
     </task>
     <task id="LOCAL-00313" summary="Add Predict the Winner">
       <created>1541253741353</created>
@@ -1134,7 +1148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542936546233</updated>
     </task>
-    <option name="localTasksCounter" value="361" />
+    <task id="LOCAL-00361" summary="Add Top K Frequent Words">
+      <created>1542938404546</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
+      <option name="project" value="LOCAL" />
+      <updated>1542938404546</updated>
+    </task>
+    <option name="localTasksCounter" value="362" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1170,7 +1191,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="822609000" />
+    <option name="totallyTimeSpent" value="822821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1270,7 +1291,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Push Dominoes" />
     <MESSAGE value="Add Hand of Straights" />
     <MESSAGE value="Add Guess the Word" />
     <MESSAGE value="Update Alien Dictionary" />
@@ -1295,7 +1315,8 @@
     <MESSAGE value="Update Search Insert Position" />
     <MESSAGE value="Add Word Squares" />
     <MESSAGE value="Add Valid Word Squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Valid Word Squares" />
+    <MESSAGE value="Add Top K Frequent Words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Top K Frequent Words" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1832,13 +1853,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/938. Range Sum of BST/first/RangeSumOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -2249,7 +2263,15 @@
     <entry file="file://$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/402. Remove K Digits/first/RemoveKDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>

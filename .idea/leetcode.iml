@@ -325,6 +325,7 @@
       <sourceFolder url="file://$MODULE_DIR$/425. Word Squares" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/422. Valid Word Square" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/692. Top K Frequent Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/402. Remove K Digits" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
