@@ -64,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidWordSquare.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidWordSquare.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="190">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopKFrequentWords.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -118,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/855. Exam Room/first/ExamRoomTreeSet.java" />
         <option value="$PROJECT_DIR$/849. Maximize Distance to Closest Person/first/MaxDistanceToCloestPerson.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCar.java" />
         <option value="$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java" />
@@ -169,6 +178,7 @@
         <option value="$PROJECT_DIR$/35. Search Insert Position/first/SearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/425. Word Squares/first/WordSquares.java" />
         <option value="$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java" />
+        <option value="$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java" />
       </list>
     </option>
   </component>
@@ -448,6 +458,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="681. Next Closest Time" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="692. Top K Frequent Words" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="692. Top K Frequent Words" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -768,14 +789,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="5325000" />
-    </task>
-    <task id="LOCAL-00311" summary="Add Max Chunks To Make Sorted II">
-      <created>1541218892926</created>
-      <option name="number" value="00311" />
-      <option name="presentableId" value="LOCAL-00311" />
-      <option name="project" value="LOCAL" />
-      <updated>1541218892926</updated>
+      <workItem from="1542640640555" duration="5543000" />
     </task>
     <task id="LOCAL-00312" summary="Add Partition Labels">
       <created>1541223672977</created>
@@ -1113,7 +1127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542904407779</updated>
     </task>
-    <option name="localTasksCounter" value="360" />
+    <task id="LOCAL-00360" summary="Add Valid Word Squares">
+      <created>1542936546232</created>
+      <option name="number" value="00360" />
+      <option name="presentableId" value="LOCAL-00360" />
+      <option name="project" value="LOCAL" />
+      <updated>1542936546233</updated>
+    </task>
+    <option name="localTasksCounter" value="361" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1149,7 +1170,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="822391000" />
+    <option name="totallyTimeSpent" value="822609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1249,7 +1270,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Backspace String Compare" />
     <MESSAGE value="Add Push Dominoes" />
     <MESSAGE value="Add Hand of Straights" />
     <MESSAGE value="Add Guess the Word" />
@@ -1274,7 +1294,8 @@
     <MESSAGE value="Add Path Sum II &amp; III" />
     <MESSAGE value="Update Search Insert Position" />
     <MESSAGE value="Add Word Squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Word Squares" />
+    <MESSAGE value="Add Valid Word Squares" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Valid Word Squares" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1811,13 +1832,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/855. Exam Room/first/ExamRoomTreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/818. Race Car/first/RaceCarBFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -2226,8 +2240,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/422. Valid Word Square/first/ValidWordSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="190">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/692. Top K Frequent Words/first/TopKFrequentWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding />
         </state>
       </provider>
