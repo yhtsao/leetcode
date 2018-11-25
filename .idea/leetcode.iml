@@ -329,6 +329,10 @@
       <sourceFolder url="file://$MODULE_DIR$/151. Reverse Words in a String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/165. Compare Version Numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24. Swap Nodes in Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/945. Minimum Increment to Make Array Unique" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/946. Validate Stack Sequences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/947. Most Stones Removed with Same Row or Column" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/948. Bag of Tokens" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -344,5 +348,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="mail-1.4.7" level="project" />
   </component>
 </module>
