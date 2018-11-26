@@ -41,31 +41,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinIncreMakeUnique.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/945. Minimum Increment to Make Array Unique/first/MinIncreMakeUnique.java">
+      <file leaf-file-name="MostStonesRemovedWithSameRowColDFS.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColDFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="95">
+              <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidateStackSeq.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/946. Validate Stack Sequences/first/ValidateStackSeq.java">
+      <file leaf-file-name="MostStonesRemovedWithSameRowColUF.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColUF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MostStonesRemovedWithSameRowCol.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowCol.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            <state relative-caret-position="190">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -125,9 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/940. Distinct Subsequences II/first/DistinctSubSeqII.java" />
-        <option value="$PROJECT_DIR$/844. Backspace String Compare/first/BackspaceStringCompare.java" />
-        <option value="$PROJECT_DIR$/838. Push Dominoes/first/PushDominoes.java" />
         <option value="$PROJECT_DIR$/846. Hand of Straights/first/HandOfStraight.java" />
         <option value="$PROJECT_DIR$/843. Guess the Word/first/GuessTheWord.java" />
         <option value="$PROJECT_DIR$/843. Guess the Word/first/GuessTheWordSol1.java" />
@@ -176,6 +165,9 @@
         <option value="$PROJECT_DIR$/Practice/SendMail.java" />
         <option value="$PROJECT_DIR$/945. Minimum Increment to Make Array Unique/first/MinIncreMakeUnique.java" />
         <option value="$PROJECT_DIR$/946. Validate Stack Sequences/first/ValidateStackSeq.java" />
+        <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowCol.java" />
+        <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColDFS.java" />
+        <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColUF.java" />
       </list>
     </option>
   </component>
@@ -604,14 +596,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="10267000" />
-    </task>
-    <task id="LOCAL-00318" summary="Add Stamping The Sequence">
-      <created>1541324288593</created>
-      <option name="number" value="00318" />
-      <option name="presentableId" value="LOCAL-00318" />
-      <option name="project" value="LOCAL" />
-      <updated>1541324288594</updated>
+      <workItem from="1542640640555" duration="10573000" />
     </task>
     <task id="LOCAL-00319" summary="Add Can I Win">
       <created>1541339139436</created>
@@ -949,7 +934,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543146841213</updated>
     </task>
-    <option name="localTasksCounter" value="367" />
+    <task id="LOCAL-00367" summary="Add Validate Stack Sequences">
+      <created>1543147098858</created>
+      <option name="number" value="00367" />
+      <option name="presentableId" value="LOCAL-00367" />
+      <option name="project" value="LOCAL" />
+      <updated>1543147098858</updated>
+    </task>
+    <option name="localTasksCounter" value="368" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -985,7 +977,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="827333000" />
+    <option name="totallyTimeSpent" value="827639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -998,6 +990,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1006,7 +999,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18526466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1085,7 +1078,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Hamming Distance" />
     <MESSAGE value="Add Find and Replace Pattern" />
     <MESSAGE value="Add Expression Words" />
     <MESSAGE value="Add Counting Bits" />
@@ -1110,7 +1102,8 @@
     <MESSAGE value="Add Compare Version Numbers" />
     <MESSAGE value="Add Swap Nodes in Pairs" />
     <MESSAGE value="Add Minimum Increment to Make Array Unique" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Minimum Increment to Make Array Unique" />
+    <MESSAGE value="Add Validate Stack Sequences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Validate Stack Sequences" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1656,13 +1649,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/253. Meeting Rooms II/first/MeetingRoomsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/269. Alien Dictionary/first/AlienDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -2060,18 +2046,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowCol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/948. Bag of Tokens/first/BagOfTokens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/946. Validate Stack Sequences/first/ValidateStackSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2084,11 +2070,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/946. Validate Stack Sequences/first/ValidateStackSeq.java">
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColUF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
