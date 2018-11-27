@@ -72,12 +72,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutocompleteSystem.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AutocompleteSystem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutocompleteSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="361">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyHashMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/706. Design HashMap/first/MyHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1387">
+              <caret line="73" column="3" lean-forward="false" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+              <folding>
+                <element signature="e#1842#1843#0" expanded="true" />
+                <element signature="e#1894#1895#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/269. Alien Dictionary/first/AlienDictionary.java" />
         <option value="$PROJECT_DIR$/163. Missing Ranges/first/MissingRanges.java" />
         <option value="$PROJECT_DIR$/853. Car Fleet/first/CarFleet.java" />
         <option value="$PROJECT_DIR$/461. Hamming Distance/first/HammingDistance.java" />
@@ -177,6 +189,7 @@
         <option value="$PROJECT_DIR$/948. Bag of Tokens/first/BagOfTokens.java" />
         <option value="$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutoCompleteSystem.java" />
         <option value="$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutocompleteSystem.java" />
+        <option value="$PROJECT_DIR$/706. Design HashMap/first/MyHashMap.java" />
       </list>
     </option>
   </component>
@@ -302,6 +315,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="642. Design Search Autocomplete System" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="706. Design HashMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="706. Design HashMap" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -583,14 +607,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="11042000" />
-    </task>
-    <task id="LOCAL-00321" summary="Update Split Array into Consecutive Subsequences">
-      <created>1541515062492</created>
-      <option name="number" value="00321" />
-      <option name="presentableId" value="LOCAL-00321" />
-      <option name="project" value="LOCAL" />
-      <updated>1541515062492</updated>
+      <workItem from="1542640640555" duration="11345000" />
     </task>
     <task id="LOCAL-00322" summary="Update Guess Number Higher or Lower II">
       <created>1541554906248</created>
@@ -928,7 +945,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543202053323</updated>
     </task>
-    <option name="localTasksCounter" value="370" />
+    <task id="LOCAL-00370" summary="Add Search Autocomplete System">
+      <created>1543330565929</created>
+      <option name="number" value="00370" />
+      <option name="presentableId" value="LOCAL-00370" />
+      <option name="project" value="LOCAL" />
+      <updated>1543330565930</updated>
+    </task>
+    <option name="localTasksCounter" value="371" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -964,7 +988,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="828108000" />
+    <option name="totallyTimeSpent" value="828411000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1064,7 +1088,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Counting Bits" />
     <MESSAGE value="Add Next Closest Time" />
     <MESSAGE value="Add Find the Difference" />
     <MESSAGE value="Update Online Election" />
@@ -1089,7 +1112,8 @@
     <MESSAGE value="Add Validate Stack Sequences" />
     <MESSAGE value="Add Most Stones Removed with Same Row or Column" />
     <MESSAGE value="Add Bag of Tokens" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Bag of Tokens" />
+    <MESSAGE value="Add Search Autocomplete System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Search Autocomplete System" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1635,13 +1659,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/853. Car Fleet/first/CarFleet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/461. Hamming Distance/first/HammingDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -2067,9 +2084,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutocompleteSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="361">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/706. Design HashMap/first/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="3" lean-forward="false" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+          <folding>
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1894#1895#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

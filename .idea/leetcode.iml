@@ -334,6 +334,7 @@
       <sourceFolder url="file://$MODULE_DIR$/947. Most Stones Removed with Same Row or Column" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/948. Bag of Tokens" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/642. Design Search Autocomplete System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/706. Design HashMap" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
