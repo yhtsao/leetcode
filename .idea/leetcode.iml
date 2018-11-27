@@ -333,6 +333,7 @@
       <sourceFolder url="file://$MODULE_DIR$/946. Validate Stack Sequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/947. Most Stones Removed with Same Row or Column" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/948. Bag of Tokens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/642. Design Search Autocomplete System" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

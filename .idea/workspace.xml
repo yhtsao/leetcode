@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360a997f-9211-4d5e-bb98-5bb2f48ef363" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
@@ -45,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColDFS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -61,11 +62,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BagOfTokens.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BagOfTokens.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/948. Bag of Tokens/first/BagOfTokens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="323">
+              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutocompleteSystem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutocompleteSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -115,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/843. Guess the Word/first/GuessTheWord.java" />
-        <option value="$PROJECT_DIR$/843. Guess the Word/first/GuessTheWordSol1.java" />
         <option value="$PROJECT_DIR$/269. Alien Dictionary/first/AlienDictionary.java" />
         <option value="$PROJECT_DIR$/163. Missing Ranges/first/MissingRanges.java" />
         <option value="$PROJECT_DIR$/853. Car Fleet/first/CarFleet.java" />
@@ -166,6 +175,8 @@
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColDFS.java" />
         <option value="$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColUF.java" />
         <option value="$PROJECT_DIR$/948. Bag of Tokens/first/BagOfTokens.java" />
+        <option value="$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutoCompleteSystem.java" />
+        <option value="$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutocompleteSystem.java" />
       </list>
     </option>
   </component>
@@ -280,6 +291,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="163. Missing Ranges" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="642. Design Search Autocomplete System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="642. Design Search Autocomplete System" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -561,14 +583,7 @@
       <workItem from="1540690009477" duration="9685000" />
       <workItem from="1540956920961" duration="27146000" />
       <workItem from="1542288068832" duration="10437000" />
-      <workItem from="1542640640555" duration="10770000" />
-    </task>
-    <task id="LOCAL-00320" summary="Add Split Array into Consecutive Subsequences">
-      <created>1541392152246</created>
-      <option name="number" value="00320" />
-      <option name="presentableId" value="LOCAL-00320" />
-      <option name="project" value="LOCAL" />
-      <updated>1541392152246</updated>
+      <workItem from="1542640640555" duration="11042000" />
     </task>
     <task id="LOCAL-00321" summary="Update Split Array into Consecutive Subsequences">
       <created>1541515062492</created>
@@ -906,7 +921,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543201332179</updated>
     </task>
-    <option name="localTasksCounter" value="369" />
+    <task id="LOCAL-00369" summary="Add Bag of Tokens">
+      <created>1543202053323</created>
+      <option name="number" value="00369" />
+      <option name="presentableId" value="LOCAL-00369" />
+      <option name="project" value="LOCAL" />
+      <updated>1543202053323</updated>
+    </task>
+    <option name="localTasksCounter" value="370" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -942,7 +964,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="827836000" />
+    <option name="totallyTimeSpent" value="828108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -955,7 +977,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -964,7 +985,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.105150215" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22024624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086183" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20383038" sideWeight="0.8948498" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18526466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1043,7 +1064,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Expression Words" />
     <MESSAGE value="Add Counting Bits" />
     <MESSAGE value="Add Next Closest Time" />
     <MESSAGE value="Add Find the Difference" />
@@ -1068,7 +1088,8 @@
     <MESSAGE value="Add Minimum Increment to Make Array Unique" />
     <MESSAGE value="Add Validate Stack Sequences" />
     <MESSAGE value="Add Most Stones Removed with Same Row or Column" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Most Stones Removed with Same Row or Column" />
+    <MESSAGE value="Add Bag of Tokens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Bag of Tokens" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1614,13 +1635,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/269. Alien Dictionary/first/AlienDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="72" column="43" lean-forward="false" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/853. Car Fleet/first/CarFleet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -2038,15 +2052,23 @@
     <entry file="file://$PROJECT_DIR$/947. Most Stones Removed with Same Row or Column/first/MostStonesRemovedWithSameRowColDFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/948. Bag of Tokens/first/BagOfTokens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/642. Design Search Autocomplete System/first/AutocompleteSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding />
         </state>
       </provider>
