@@ -337,6 +337,7 @@
       <sourceFolder url="file://$MODULE_DIR$/706. Design HashMap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/282. Expression Add Operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/611. Valid Triangle Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/259. 3Sum Smaller" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
