@@ -336,6 +336,7 @@
       <sourceFolder url="file://$MODULE_DIR$/642. Design Search Autocomplete System" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/706. Design HashMap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/282. Expression Add Operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/611. Valid Triangle Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -62,14 +62,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressionAddOperators.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExpressionAddOperators.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/282. Expression Add Operators/first/ExpressionAddOperators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-152">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="323">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidTriangleNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/611. Valid Triangle Number/first/ValidTriangleNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/890. Find and Replace Pattern/first/FindReplacePattern.java" />
         <option value="$PROJECT_DIR$/Google/TwoListDistinct.java" />
         <option value="$PROJECT_DIR$/Google/VotingSystem.java" />
         <option value="$PROJECT_DIR$/Google/Dict.java" />
@@ -169,6 +178,7 @@
         <option value="$PROJECT_DIR$/Weekly Contest/Test.java" />
         <option value="$PROJECT_DIR$/Practice/TestKata.java" />
         <option value="$PROJECT_DIR$/282. Expression Add Operators/first/ExpressionAddOperators.java" />
+        <option value="$PROJECT_DIR$/611. Valid Triangle Number/first/ValidTriangleNumber.java" />
       </list>
     </option>
   </component>
@@ -278,6 +288,17 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="282. Expression Add Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="611. Valid Triangle Number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="611. Valid Triangle Number" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -587,14 +608,7 @@
       <workItem from="1542288068832" duration="10437000" />
       <workItem from="1542640640555" duration="12456000" />
       <workItem from="1543412698892" duration="392000" />
-      <workItem from="1543572660050" duration="200000" />
-    </task>
-    <task id="LOCAL-00323" summary="Add Minimum Cost to Hire K Workers">
-      <created>1541666113136</created>
-      <option name="number" value="00323" />
-      <option name="presentableId" value="LOCAL-00323" />
-      <option name="project" value="LOCAL" />
-      <updated>1541666113136</updated>
+      <workItem from="1543572660050" duration="506000" />
     </task>
     <task id="LOCAL-00324" summary="Add for Line pre test">
       <created>1541690436716</created>
@@ -932,7 +946,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543332880319</updated>
     </task>
-    <option name="localTasksCounter" value="372" />
+    <task id="LOCAL-00372" summary="Add Expression Add Operators">
+      <created>1543588780895</created>
+      <option name="number" value="00372" />
+      <option name="presentableId" value="LOCAL-00372" />
+      <option name="project" value="LOCAL" />
+      <updated>1543588780896</updated>
+    </task>
+    <option name="localTasksCounter" value="373" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -968,7 +989,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="830114000" />
+    <option name="totallyTimeSpent" value="830420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1068,7 +1089,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add Find the Difference" />
     <MESSAGE value="Update Online Election" />
     <MESSAGE value="Add Toeplitz Matrix" />
     <MESSAGE value="Add License Key Formatting" />
@@ -1093,7 +1113,8 @@
     <MESSAGE value="Add Bag of Tokens" />
     <MESSAGE value="Add Search Autocomplete System" />
     <MESSAGE value="Add Design HashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Design HashMap" />
+    <MESSAGE value="Add Expression Add Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Expression Add Operators" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1645,13 +1666,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/809. Expressive Words/first/ExpressiveWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/338. Counting Bits/first/CountingBits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1984,11 +1998,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/282. Expression Add Operators/first/ExpressionAddOperators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="323">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/611. Valid Triangle Number/first/ValidTriangleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
