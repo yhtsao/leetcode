@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClosestPalindrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/564. Find the Closest Palindrome/first/ClosestPalindrome.java">
+      <file leaf-file-name="AddTwoNumbersII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/445. Add Two Numbers II/first/AddTwoNumbersII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="57">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Google/Dict.java" />
         <option value="$PROJECT_DIR$/Google/InvitateFriends.java" />
         <option value="$PROJECT_DIR$/809. Expressive Words/first/ExpressiveWords.java" />
         <option value="$PROJECT_DIR$/338. Counting Bits/first/CountingBits.java" />
@@ -191,6 +190,7 @@
         <option value="$PROJECT_DIR$/611. Valid Triangle Number/first/ValidTriangleNumber.java" />
         <option value="$PROJECT_DIR$/259. 3Sum Smaller/first/ThreeSumSmaller.java" />
         <option value="$PROJECT_DIR$/564. Find the Closest Palindrome/first/ClosestPalindrome.java" />
+        <option value="$PROJECT_DIR$/445. Add Two Numbers II/first/AddTwoNumbersII.java" />
       </list>
     </option>
   </component>
@@ -338,12 +338,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="564. Find the Closest Palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="445. Add Two Numbers II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="564. Find the Closest Palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="445. Add Two Numbers II" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -653,14 +653,7 @@
       <workItem from="1542288068832" duration="10437000" />
       <workItem from="1542640640555" duration="12456000" />
       <workItem from="1543412698892" duration="392000" />
-      <workItem from="1543572660050" duration="1588000" />
-    </task>
-    <task id="LOCAL-00326" summary="Add Bricks Falling When Hit">
-      <created>1541776856256</created>
-      <option name="number" value="00326" />
-      <option name="presentableId" value="LOCAL-00326" />
-      <option name="project" value="LOCAL" />
-      <updated>1541776856256</updated>
+      <workItem from="1543572660050" duration="1763000" />
     </task>
     <task id="LOCAL-00327" summary="Add Sum of Distance in Tree">
       <created>1541826115537</created>
@@ -998,7 +991,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543591021262</updated>
     </task>
-    <option name="localTasksCounter" value="375" />
+    <task id="LOCAL-00375" summary="Add Find the Closest Palindrome">
+      <created>1543806932593</created>
+      <option name="number" value="00375" />
+      <option name="presentableId" value="LOCAL-00375" />
+      <option name="project" value="LOCAL" />
+      <updated>1543806932594</updated>
+    </task>
+    <option name="localTasksCounter" value="376" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1034,7 +1034,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831502000" />
+    <option name="totallyTimeSpent" value="831677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1134,7 +1134,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Add License Key Formatting" />
     <MESSAGE value="Add Remove Duplicate Letters" />
     <MESSAGE value="Update" />
     <MESSAGE value="Add Encode and Decode TinyURL" />
@@ -1159,7 +1158,8 @@
     <MESSAGE value="Add Expression Add Operators" />
     <MESSAGE value="Add Valid Triangle Number" />
     <MESSAGE value="Add 3Sum Smaller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 3Sum Smaller" />
+    <MESSAGE value="Add Find the Closest Palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Find the Closest Palindrome" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1711,13 +1711,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/911. Online Election/first/TopVotedCandidate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/766. Toeplitz Matrix/first/ToeplitzMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -2047,6 +2040,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/564. Find the Closest Palindrome/first/ClosestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/123. Best Time to Buy and Sell Stock III/first/BestTimeForStockIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -2055,10 +2058,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/564. Find the Closest Palindrome/first/ClosestPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/445. Add Two Numbers II/first/AddTwoNumbersII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="57">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
